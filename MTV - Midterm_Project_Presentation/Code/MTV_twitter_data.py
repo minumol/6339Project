@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 25 20:48:08 2015
 
-@author: Tijo
-"""
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream

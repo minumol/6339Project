@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 25 23:52:33 2015
-
-@author: Tijo
-"""
-
 from pygeocoder import Geocoder
 import re
 import time
