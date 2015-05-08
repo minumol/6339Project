@@ -1,0 +1,151 @@
+WA	Eagle Bulk Shipping CEO Sophocles Zoullas resigns	EAGLE BULK SHIPPING	Company	neutral	1	0.0	0.33	Fri May 01 12:45:19 +0000 2015	0
+NY	Can't wait for Honda to score	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 29 19:06:05 +0000 2015	0
+NJ	RT @Dreamdefenders: George Zoley. CEO, Founder, Chairman of the Board at GEO Group. Made $22 million in 4 yrs off #slaveholders hustle http…	GEO GROUP	Company	neutral	1	0.0	0.875104	Wed Apr 29 19:06:08 +0000 2015	0
+NJ	RT @BMW: The #BMW #5series' traffic jam assistant controls the speed of the car and its distance from the car ahead. http://t.co/rfcECGOc33	BMW	Company	positive	1	0.488215	0.971429	Wed Apr 29 19:06:22 +0000 2015	0
+CA	Toyota received 1 mil employee ideas in a year. Learn how you can do the same: http://t.co/gqL9CPvI0B  #innovation	TOYOTA	Company	positive	1	0.621956	0.894776	Wed Apr 29 19:08:00 +0000 2015	0
+MI	RT @AutoSportsArt: Chevrolet Reveals Future Virtual Race Car http://t.co/zt7CIEMzCd https://t.co/C8uk413hiH	CHEVROLET	Company	positive	1	0.371429	0.33	Wed Apr 29 19:08:20 +0000 2015	0
+OK	RT @Honda: Adrenaline junkies, here’s your chance to ride in an @IndyCar. Enter the FSIS Sweeps at http://t.co/TCFpoOMR6R http://t.co/BTwU5…	HONDA	Company	positive	1	0.647501	0.215778	Wed Apr 29 19:08:38 +0000 2015	0
+NJ	RT @NatGeo: Tesla unveils home battery. Why is it a big deal? http://t.co/Dsg6tV5rn3	TESLA	Company	positive	1	0.547737	0.995256	Fri May 01 20:51:35 +0000 2015	0
+AZ	Stan Lee Gets a Starring Role in Audi's Short Film About His Famous Cameos http://t.co/GtrAlqZSHh via @adweek	AUDI	Company	positive	1	0.613977	0.33	Thu Apr 30 21:05:04 +0000 2015	0
+FL	Volvo Cars Embrace EDM, Announce Partnership… http://t.co/Syg6yc0SBU #EDMNews #Featured #AboveBeyond #avicii #Pepsi #edm#follow#electro	VOLVO CARS	Company	positive	1	0.38403	0.33	Thu Apr 30 21:05:05 +0000 2015	0
+TX	Ford Working With Apple on CarPlay, But Won't Give Up Control of the Dashboard http://t.co/RGHtQxdpcx	FORD	Company	negative	1	-0.386698	0.33	Thu Apr 30 21:05:12 +0000 2015	0
+CA	GEO GROUP INC. physically tortured Anthony Martini for a year. Do   not support these terrorists! Drop their shares!  http://t.co/JBuJDZoZNI	GEO GROUP INC.	Company	negative	1	-0.577315	0.803206	Sat May 02 04:13:53 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/ePmKljPFYj http://t.co/USx9DympNj	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:42 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/RHJkCawIqJ http://t.co/ijpDrHr1ZA	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:43 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/Nt36GWYNgA http://t.co/J7QpVICTMo	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:44 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/dyebUgvUMN http://t.co/eMF0Q1JWDN	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:46 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/vmxwpUTLP9 http://t.co/cSTFMZduJn	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:46 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/O9XeunhL0f http://t.co/hLkLoRylkw	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:47 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/zI81uWyAeX http://t.co/uHrFUv1jyR	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:47 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/YfN4aiUsG8 http://t.co/mITvdmYQtJ	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:48 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/7f3WK7k5o2 http://t.co/JGMHDqCXkG	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:49 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/djDualAJKl http://t.co/hAqRDOmcdE	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:49 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/bjebdsjPGC http://t.co/ktUcdyKef5	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:49 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/W4nINcSvsB http://t.co/ylPSg4YW3k	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:50 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/ssK9kaELqT http://t.co/stL1ioxEVy	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:51 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/eVFaBzhP3S http://t.co/kwbFqRNmi6	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:51 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/0DNA0EqsIp http://t.co/fCUGCIgJl6	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:52 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/lCaS5tt0mj http://t.co/Cr6pjTP9Ej	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:53 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/FL1Z0I2uUV http://t.co/KnmgtCLkUf	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:54 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/kwZY6gXwYa http://t.co/9eI5QzrUKq	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:54 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/jQBl122M8N http://t.co/dIn4ukf2ui	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:54 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/b1qQ76cmAE http://t.co/i2mDs4hjmu	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:55 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/FGelLTWhJ0 http://t.co/05k4aA66XO	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:56 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/YiK2sKPLy0 http://t.co/RiSdblshpa	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:56 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/chgP4HhOoZ http://t.co/kRLAZfHNhC	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:57 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/QVBASirEPh http://t.co/yoz0v9t6AN	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:14:58 +0000 2015	0
+NY	2pcs White 24" Audi Style 30-SMD LED Sideshine Strip Parking, DRL, Fog Light #46 - Full re… http://t.co/Vmjt6AYf43 http://t.co/hZS5kKNJpm	AUDI	Company	negative	1	-0.213474	0.33	Sat May 02 04:14:58 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/0J6pxyBwo3 http://t.co/rrU3qhj1Vo	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:14:58 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/Y9fBUAvd7n http://t.co/smBo7e6rwd	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:14:59 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/AIgrnAa7H8 http://t.co/zOVLpRh9np	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:14:59 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/zvVANXsxKZ http://t.co/qgjOIYSYim	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:15:00 +0000 2015	0
+NY	2009 BMW 318D SE GREY 59 PLATE FACELIFT MODEL 99P NO RESERVE - Full read by eBay http://t.co/GUetYTylO4 http://t.co/3Nj61kRtTr	BMW	Company	neutral	1	0.0	0.33	Sat May 02 04:15:01 +0000 2015	0
+NY	1982 (Y) Ferrari Mondial 3.0 Quattrovalvole - Rosso Red - Excellent Condition  - Full read… http://t.co/usIKw4guGu http://t.co/a60EVA0Pr3	FERRARI MONDIAL	Automobile	negative	1	-0.336065	0.33	Sat May 02 04:15:01 +0000 2015	0
+NY	2005 Volvo S40 1.8 SE 1 FORMER KEEPER SERVICE HISTORY SALOON MANUAL SILVER - Full read by … http://t.co/RB6oUNuHYj http://t.co/4R12TGYTLX	VOLVO S40	Automobile	neutral	1	0.0	0.33	Sat May 02 04:15:02 +0000 2015	0
+NY	LHD 2014 LAND ROVER RANGE ROVER EVOQUE 2.2 SD4 PRESTIGE 5D AUTO   - Full read by eBay http://t.co/yD08DLQxht http://t.co/bdPRzV6zF7	MITSUBISHI	Company	positive	1	0.2196	0.33	Sat May 02 04:15:02 +0000 2015	0
+UT	RT @johnspatricc: » http://t.co/WOyWneFyup V8 Supercars #V8Supercars Nissan co-drivers revealed in Perth » UPDATE » Victoria AUS Geelong AU…	NISSAN	Company	neutral	1	0.0	0.33	Sat May 02 12:17:36 +0000 2015	0
+UT	RT @johnspatricc: » http://t.co/WOyWneFyup V8 Supercars #V8Supercars Nissan co-drivers revealed in Perth » UPDATE » Victoria AUS Geelong AU…	NISSAN	Company	neutral	1	0.0	0.33	Sat May 02 12:17:36 +0000 2015	0
+CT	Wes Bentley in this Lexus commercial 😍😍😍😍	LEXUS	Company	positive	1	0.212422	0.33	Fri May 01 02:30:03 +0000 2015	0
+CA	All eyes on Tesla! "The missing piece"	TESLA	Company	neutral	1	0.0	0.33	Fri May 01 02:30:06 +0000 2015	0
+CA	RT @Mark_Beech: Re-inventing the wheels: Ford's greatest car gets a do-over http://t.co/vuSeNWpRWK via @business	FORD	Company	positive	1	0.628932	0.33	Thu Apr 30 10:52:20 +0000 2015	0
+NE	Watch Tesla's souped-up Model S beat the world's fastest sedan: Tesla's Model S P85D is quick. Or is it fast? ... http://t.co/6w01PNL2TG	TESLA	Company	positive	2	0.710285	0.942811	Thu Apr 30 10:52:22 +0000 2015	0
+NY	Watch Tesla's souped-up Model S beat the world's fastest sedan: Tesla's Model S P85D is quick. Or is it fast? ... http://t.co/tN4661oLcf	TESLA	Company	positive	2	0.710285	0.942811	Thu Apr 30 10:52:37 +0000 2015	0
+OH	RT @kenatcman: Ford GT supercar takes flight with high-tech innovations http://t.co/MJ9H3FgO38	FORD	Company	neutral	1	0.0	0.33	Thu Apr 30 23:21:29 +0000 2015	0
+IL	RT @Jalopnik: EXCLUSIVE: They drove a Tesla from LA to New York in a record 58 hours, 55 minutes http://t.co/ZYmxOpEbpM http://t.co/nio18oK…	TESLA	Company	neutral	1	0.0	0.33	Thu Apr 30 23:21:44 +0000 2015	0
+NY	#TTA_LLC The New Financial Literacy Initiative of Hyundai Capital America and Consumer Credit Cou... http://t.co/WV8JR8qYTB #atriskyouth	HYUNDAI CAPITAL AMERICA	Company	positive	1	0.571622	0.33	Thu Apr 30 23:22:30 +0000 2015	0
+NY	Cadillac : DeVille power seats telescopic steering wheel 1968 cadillac deville hardtop 2 d… http://t.co/lAVlySK9Q7 http://t.co/lIqxAsG5Mc	CADILLAC	Company	positive	1	0.247821	0.33	Fri May 01 11:55:54 +0000 2015	0
+NY	Cadillac : DeVille power seats telescopic steering wheel 1968 cadillac deville hardtop 2 d… http://t.co/lAVlySK9Q7 http://t.co/lIqxAsG5Mc	CADILLAC DEVILLE	Automobile	neutral	1	0.0	0.33	Fri May 01 11:55:54 +0000 2015	0
+AZ	Ford profit misses expectations, 2015 profit outlook affirmed	FORD	Company	negative	1	-0.685861	0.33	Sat May 02 04:22:36 +0000 2015	0
+CO	The 10th Annual Lone Star Toyota Jamboree is underway in East TX...	TOYOTA	Company	neutral	1	0.0	0.33	Sat May 02 04:23:03 +0000 2015	0
+NY	Chevrolet : Equinox LT 2012 chevrolet lt - Full read by eBay http://t.co/noEzIRc49s http://t.co/KMFNSAZFHc	CHEVROLET	Company	neutral	1	0.0	0.33	Sat May 02 04:23:36 +0000 2015	0
+NY	Chevrolet : Corvette 427 1969 chevy corvette 427 390 hp stingray - Full read by eBay http://t.co/OpctMOWJOB http://t.co/c5ZtpxmN9r	CHEVROLET	Company	neutral	1	0.0	0.33	Sat May 02 04:23:37 +0000 2015	0
+NY	Chevrolet : Express Work Van 2010 work van used 4.8 l v 8 extended cargo power locks windo… http://t.co/j4mew7zeWx http://t.co/nNlfUV3sfZ	CHEVROLET	Company	neutral	1	0.0	0.33	Sat May 02 04:23:37 +0000 2015	0
+NY	Ford : E-Series Van E250 2004 ford ricon wheelchair lift van - Full read by eBay http://t.co/K7rfOIt4Zg http://t.co/xpvtxti7vp	FORD	Company	neutral	1	0.0	0.33	Sat May 02 04:23:37 +0000 2015	0
+TX	#Honda 1998-05 #Superhawk SLIPSTREAM LINE seat cover, custom. SALE/coupon/free ship   http://t.co/2eFQ9VtVF2	HONDA	Company	neutral	1	0.0	0.921667	Sat May 02 04:23:53 +0000 2015	0
+CT	RT @TODAYshow: Check our full @Toyota Concert Series line-up: http://t.co/jpPZtnMfqM It's going to be a great summer! http://t.co/RpHJhkuaeP	TOYOTA	Company	positive	1	0.75867	0.958333	Fri May 01 11:38:15 +0000 2015	0
+IL	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/RUcTaCNjfw	VOLVO	Company	positive	1	0.704981	0.936739	Fri May 01 16:40:01 +0000 2015	0
+IL	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/hEMNMw5D3Z	VOLVO	Company	positive	1	0.704981	0.936739	Fri May 01 16:40:02 +0000 2015	0
+CO	RT @yanquetino: @bruno_renkin @solarcharge_it @scoopit Methinks Tesla should post an app to help solar homeowners determine the #Powerwall …	TESLA	Company	positive	1	0.788654	0.33	Fri May 01 16:40:37 +0000 2015	0
+AZ	2012 Cadillac CTS  http://t.co/rWDQ6gFsPE	CADILLAC CTS	Automobile	positive	1	0.254934	0.33	Fri May 01 21:58:29 +0000 2015	0
+FL	Tesla's Powerwall may be the future but it's not a battery breakthrough - Mashable: MashableTesla's Powerwall ... http://t.co/Y9HTvWitjR	TESLA	Company	neutral	1	0.0	0.33	Fri May 01 21:58:51 +0000 2015	0
+MA	RT @KipNSlowHearts: I'm a riser I'm a get off of the ground Don't run and hider Pushin' comes to shove Hey I'm a fighter -Dierks Bentley	BENTLEY	Company	neutral	1	0.0	0.33	Thu Apr 30 19:23:50 +0000 2015	0
+FL	I'm giving myself 5 years till I whip a Benz or Audi. Wait on it	AUDI	Company	positive	1	0.231422	0.945318	Thu Apr 30 19:24:03 +0000 2015	0
+ME	RT @KipNSlowHearts: I'm a riser I'm a get off of the ground Don't run and hider Pushin' comes to shove Hey I'm a fighter -Dierks Bentley	BENTLEY	Company	neutral	1	0.0	0.33	Thu Apr 30 19:24:21 +0000 2015	0
+TX	Tesla hunts for new revenue in home storage batteries http://t.co/aEgp6KMZ2P	TESLA	Company	positive	1	0.321952	0.33	Thu Apr 30 19:24:32 +0000 2015	0
+TX	Elon Musk Debuts the Tesla Powerwall http://t.co/UXghLWLtsY	TESLA	Company	positive	1	0.365462	0.33	Sat May 02 13:23:37 +0000 2015	0
+TX	#FortBend #LDOT LOST DOG Bella 04-25-2015! Fort Bend Co., Sugar Land (Sugar Mill Dr &amp; Colony Dr  near  Austin... http://t.co/d0p782vGTd	SMART	Company	negative	1	-0.311125	0.97832	Fri May 01 01:58:47 +0000 2015	0
+FL	RT @The_PlaidZebra: Audi just invented a renewable fuel source from water and CO2: http://t.co/3x17ftgu41 http://t.co/TjFX8XCeLr	AUDI	Company	neutral	1	0.0	0.33	Fri May 01 01:59:17 +0000 2015	0
+NY	Lot of 10 - Morgan Dollar Design 1 Troy Oz .999 Fine Silver Bars SKU29388  - Full read by … http://t.co/IgvMS0UrRt http://t.co/49tqpAHOhl	MORGAN DOLLAR DESIGN	Company	neutral	1	0.0	0.33	Fri May 01 16:20:16 +0000 2015	0
+NY	Lot of 10 - Morgan Dollar Design 1 Troy Oz .999 Fine Silver Bars SKU29388  - Full read by … http://t.co/D60m9C0xKB http://t.co/BNmKwifWWj	MORGAN DOLLAR DESIGN	Company	neutral	1	0.0	0.33	Fri May 01 16:20:18 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/W0HastKrw3 http://t.co/iuue2IZfX2	TOYOTA	Automobile	positive	1	0.313446	0.33	Fri May 01 16:20:20 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/W0HastKrw3 http://t.co/iuue2IZfX2	TOYOTA	Company	positive	1	0.313446	0.33	Fri May 01 16:20:20 +0000 2015	0
+NY	Lot of 10 - Morgan Dollar Design 1 Troy Oz .999 Fine Silver Bars SKU29388  - Full read by … http://t.co/ngc06CP5VN http://t.co/u0Vss0YV6R	MORGAN DOLLAR DESIGN	Company	neutral	1	0.0	0.33	Fri May 01 16:20:26 +0000 2015	0
+CA	Tesla Launches Tesla Energy, New Line Of PowerWall &amp; PowerPack Batteries... https://t.co/DzTKe2zSPY via @YouTube	TESLA ENERGY	Company	positive	1	0.432786	0.33	Fri May 01 16:20:27 +0000 2015	0
+CA	Tesla Launches Tesla Energy, New Line Of PowerWall &amp; PowerPack Batteries... https://t.co/DzTKe2zSPY via @YouTube	TESLA	Company	positive	1	0.432786	0.33	Fri May 01 16:20:27 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/s0r0zGEnFY http://t.co/zf09F9Ubq5	TOYOTA	Automobile	positive	1	0.313446	0.33	Fri May 01 16:20:29 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/s0r0zGEnFY http://t.co/zf09F9Ubq5	TOYOTA	Company	positive	1	0.313446	0.33	Fri May 01 16:20:29 +0000 2015	0
+ME	2004 GMC Sierra  Reg cab, long bed, 4x4, v8 auto, AC. Great condition, no rust. Many new parts, ... http://t.co/aykPux4bTa	GMC SIERRA	Automobile	neutral	1	0.0	0.955296	Fri May 01 16:20:36 +0000 2015	0
+ME	2008 GMC Sierra  xcab, loaded, 4x4, V8 auto, mint condition, 19000 original miles, Yes only 19,0... http://t.co/guE7AdIPpV	GMC SIERRA	Automobile	neutral	1	0.0	0.33	Fri May 01 16:20:38 +0000 2015	0
+ME	2005 Ford Ranger XLT  Xcab, 4x4, v6 Auto, loaded XLT with leather, 39,000 original miles. Insura... http://t.co/sb1WiDlDmh	FORD RANGER	Automobile	neutral	1	0.0	0.899275	Fri May 01 16:20:41 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/W0HastKrw3 http://t.co/3x4z0zGHqf	TOYOTA	Automobile	positive	1	0.313446	0.33	Fri May 01 16:20:41 +0000 2015	0
+NY	Fit:05-14 Toyota Tacoma 5' Short Bed Lock &amp; Soft Roll-Up Tonneau Cover Vinyl Blk - Full re… http://t.co/W0HastKrw3 http://t.co/3x4z0zGHqf	TOYOTA	Company	positive	1	0.313446	0.33	Fri May 01 16:20:41 +0000 2015	0
+NY	Lot of 10 - Morgan Dollar Design 1 Troy Oz .999 Fine Silver Bars SKU29388  - Full read by … http://t.co/Rr2v8xnW6Y http://t.co/hYKeyabU99	MORGAN DOLLAR DESIGN	Company	neutral	1	0.0	0.33	Fri May 01 16:20:48 +0000 2015	0
+NY	Lot of 10 - Morgan Dollar Design 1 Troy Oz .999 Fine Silver Bars SKU29388  - Full read by … http://t.co/aFfDDyrdaF http://t.co/FMJVDvcpbj	MORGAN DOLLAR DESIGN	Company	neutral	1	0.0	0.33	Fri May 01 16:20:58 +0000 2015	0
+NJ	RT @GreenTechNews: Tesla batteries: just the beginning of how technology will transform the electric grid http://t.co/yKYh48Vly6 via @US_Co…	TESLA	Company	positive	1	0.366477	0.33	Thu Apr 30 14:04:12 +0000 2015	0
+IN	RT @allmysterynews: #asmsg, #eNovAaW, Mystery with humor? Aero Ag Pilot Lalla Bains tackles lazy pilots and crime in A Dead Red Cadillac, h…	CADILLAC	Automobile	negative	1	-0.375006	0.590401	Thu Apr 30 14:04:16 +0000 2015	0
+TX	I could win a Nissan Rogue pre-paid lease! You can play, too. #sweepstakes #sweepsentry http://t.co/Zaw3t8Yafk	NISSAN ROGUE	Automobile	negative	1	-0.814155	0.950075	Thu Apr 30 14:04:18 +0000 2015	0
+TX	Honda prices new HR-V small SUV below $20000 - USA TODAY http://t.co/gKiiNhNBvD	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 30 09:18:40 +0000 2015	0
+HI	BRIEF-Fiat Chrysler seeks to close N. American margin gap with GM, Ford by 2018 - slides	CHRYSLER	Company	negative	1	-0.304629	0.33	Thu Apr 30 09:19:17 +0000 2015	0
+HI	BRIEF-Fiat Chrysler seeks to close N. American margin gap with GM, Ford by 2018 - slides	FORD	Company	neutral	1	0.0	0.33	Thu Apr 30 09:19:17 +0000 2015	0
+OH	the 2015 wrx is probably the ugliest body design that subaru has ever done. the front looks like a mitsu lancer, which I hate. my opinion.	SUBARU	Company	neutral	1	0.0	0.33	Sat May 02 11:53:49 +0000 2015	0
+MA	RT @MarketWatch: Land Rover with Ingenium diesel gets 57.7 mpg http://t.co/EMujtRpynG	MITSUBISHI	Company	neutral	1	0.0	0.33	Sat May 02 11:53:53 +0000 2015	0
+NJ	RT @ClimateBuzz: Tesla Moves to Make Renewable Energy More Viable | Patrick Roth http://t.co/MTcMDVwXGX	TESLA	Company	positive	1	0.567885	0.33	Sat May 02 03:08:22 +0000 2015	0
+TX	TIX http://t.co/Sh36VyJRhC L 4 tickets 5/1 Texas #Rangers v. Oakland A's Lexus Club section 216 http://t.co/kvMf2Wb5DC #Tickets #Ticket	LEXUS	Company	positive	1	0.229185	0.866585	Thu Apr 30 03:06:19 +0000 2015	0
+AZ	BMW 2002 Thoroughbred and Classic Cars, http://t.co/tFddcQ1KtE	BMW	Company	positive	1	0.506223	0.33	Thu Apr 30 03:08:29 +0000 2015	0
+NY	10-11 TOYOTA CAMRY PROJECTOR HEADLIGHTS 2 BLACK CCFL HALO W/ LED STRIP SEDAN 4DR - Full re… http://t.co/n5xhvOWBCG http://t.co/Ext4alED5Z	TOYOTA	Company	neutral	1	0.0	0.33	Thu Apr 30 03:08:53 +0000 2015	0
+NY	Dodge : Challenger R/T 440 Magnum High Performance Engine 1970 dodge 53000 miles v 8 rwd a… http://t.co/awM0KITJuK http://t.co/m7MSy8MGO8	DODGE	Company	negative	1	-0.365423	0.33	Thu Apr 30 03:08:54 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/tqifQR6Vih http://t.co/5f6OCJibS0	AUDI	Company	neutral	1	0.0	0.33	Thu Apr 30 03:08:54 +0000 2015	0
+NY	Honda : Odyssey EX-L DISNEY PACKAGE TV DVD 3RD ROW LEATHER 03 honda odyssey ex l disney pk… http://t.co/P1GQhjaEwo http://t.co/RK4ZIPEyBR	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 30 03:08:57 +0000 2015	0
+NY	Honda : Odyssey EX-L DISNEY PACKAGE TV DVD 3RD ROW LEATHER 03 honda odyssey ex l disney pk… http://t.co/P1GQhjaEwo http://t.co/RK4ZIPEyBR	HONDA ODYSSEY	Automobile	neutral	1	0.0	0.33	Thu Apr 30 03:08:57 +0000 2015	0
+NC	RT @HuffingtonPost: Tesla's new home battery could be the iPad of energy storage  http://t.co/Jb0mbKeaK4	TESLA	Company	positive	1	0.483067	0.33	Sat May 02 03:13:28 +0000 2015	0
+MD	RT @BiIlionaires: Blacked out Maserati 😎 http://t.co/OsZMOyhUyg	MASERATI	Company	negative	1	-0.256661	0.33	Sat May 02 03:13:41 +0000 2015	0
+OH	That's crazy how I was on my way back from seeing Age of Ultron then I see an Audi R8 V10 on my way home! 😏	AUDI	Automobile	neutral	1	0.0	0.938981	Sat May 02 03:13:59 +0000 2015	0
+OH	That's crazy how I was on my way back from seeing Age of Ultron then I see an Audi R8 V10 on my way home! 😏	AUDI	Company	neutral	1	0.0	0.848862	Sat May 02 03:13:59 +0000 2015	0
+MA	Why Tesla’s announcement is such a big deal: The coming revolution in energy storage - The Washington Post http://t.co/QBsZiDx1Yr	TESLA	Company	positive	1	0.246293	0.33	Sat May 02 03:14:08 +0000 2015	0
+TX	RT @ForbesTech: A look at the costs of Tesla's Powerwall to see if it's truly a game-changing innovation: http://t.co/tEjAU71sqG http://t.c…	TESLA	Company	positive	1	0.73967	0.33	Sat May 02 03:14:14 +0000 2015	0
+VA	@drvox, Yeah, no problem, you'd said something about delivering a Tesla to my door next week...	TESLA	Company	positive	1	0.207863	0.33	Sat May 02 03:15:00 +0000 2015	0
+NY	RT @BKFUniversity: Just because every night you have enough to get in that BMW and buy value meals for your family from Jack in the crack .…	BMW	Company	positive	1	0.658055	0.33	Fri May 01 15:41:11 +0000 2015	0
+NY	RT @BKFUniversity: Just because you signed up for a brand new 72 month car loan on a used BMW does not mean you aren't poor.	BMW	Company	neutral	1	0.0	0.33	Fri May 01 15:41:20 +0000 2015	0
+NY	Electric disruption in progress! Tesla Energy is Elon Musk's #battery system that can power homes and more! CC @edf http://t.co/o93mmlo2pi	TESLA ENERGY	Company	positive	2	0.719195	0.884554	Fri May 01 15:41:26 +0000 2015	0
+NY	Elon Musk announces Tesla Energy - Brilliant!  http://t.co/yNtrcL9Y6d via @verge	TESLA ENERGY	Company	positive	1	0.677828	0.33	Fri May 01 15:41:38 +0000 2015	0
+NY	@LethalLadyLotus I've been near that temper...it's not as intimidating as you'd think. Or my danger sense is broken. But Lotus, he'd never ~	LOTUS	Company	neutral	1	0.0	0.86509	Thu Apr 30 08:03:13 +0000 2015	0
+FL	BMW 3D Prints Water Pump Wheels for the German Touring Car Masters (DTM) Race Cars - http://t.co/P6IMOlcrk9 http://t.co/jvGIIpZdLt	BMW	Company	neutral	1	0.0	0.33	Thu Apr 30 08:05:17 +0000 2015	0
+FL	BMW 3D Prints Water Pump Wheels for the German Touring Car Masters (DTM) Race Cars - http://t.co/HByl7IAwxB http://t.co/oCkdhkKzZc	BMW	Company	neutral	1	0.0	0.33	Thu Apr 30 08:05:17 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/hTWGV2B9EP http://t.co/rKxhwACZYk	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:32 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/A8ulIq0wDP http://t.co/pYX5H8JPQv	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:34 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/TMQHsMUao7 http://t.co/RfJQcSDB6e	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:36 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/ZNVFfrR1yD http://t.co/yf9WDAUo8f	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:38 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/CFhGdiMYq5 http://t.co/T0buYZuMOc	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:40 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/8KdGoehKFH http://t.co/ImrxUOPDrw	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:42 +0000 2015	0
+NY	GMC : Other Like 57 58 60 Similar Chevy 3100 Deluxe Chevrolet 59 gmc rare pick up truck st… http://t.co/i9zyo8avPu http://t.co/i4wQ3Qh4mj	GMC	Company	neutral	1	0.0	0.33	Sat May 02 05:40:44 +0000 2015	0
+TN	RT @TheEllenShow: The world needs more teachers like Sonya Romero. I’m glad my friends at @Ford agreed. #LaughDancePartner http://t.co/VPId…	FORD	Company	positive	1	0.850657	0.156643	Wed Apr 29 22:26:34 +0000 2015	0
+CT	Earnings Review: Honda Profits Fall On High Quality Costs And Negative Impact Of FX Fluctuations: Honda Motors announced its earnings...	HONDA MOTORS	Company	neutral	1	0.0	0.33	Wed Apr 29 17:50:59 +0000 2015	0
+CT	Earnings Review: Honda Profits Fall On High Quality Costs And Negative Impact Of FX Fluctuations: Honda Motors announced its earnings...	HONDA	Company	negative	1	-0.360744	0.33	Wed Apr 29 17:50:59 +0000 2015	0
+UT	Toyota plans $4.2B share sale to fund fuel cell r http://t.co/PKZ3AOQutB #technlogy	TOYOTA	Company	positive	1	0.484696	0.33	Wed Apr 29 17:51:08 +0000 2015	0
+IN	ESPN Jeff Gordon to Drive Pace Car in Indianapolis 500 ABC News Chevrolet made the announcement… http://t.co/ZvcDy1Is8n	CHEVROLET	Company	neutral	1	0.0	0.33	Wed Apr 29 17:51:27 +0000 2015	0
+CA	RT @sadowski23: Btw, the license plate of the white bmw carrying the 2 disgusting teenage girls is CA 7JWL217. Please retweet.	BMW	Company	negative	1	-0.359521	0.899812	Wed Apr 29 17:51:30 +0000 2015	0
+IN	So happy IMS isn't making Jeff drive the Trax or the "take on the road with style 2016 Chevrolet Spark"	CHEVROLET	Automobile	neutral	1	0.0	0.33	Wed Apr 29 17:51:37 +0000 2015	0
+MI	RT @AutoCherish: Buy &amp; Cherish this 1956 Mercury Montclair Convertible http://t.co/RveHsfKteW via @autocherish http://t.co/YG9ccaT0a8	MERCURY MONTCLAIR	Automobile	positive	1	0.427133	0.33	Wed Apr 29 17:52:14 +0000 2015	0
+CA	Some dumb bitch almost hit me with her Audi while I was crossing the cross walk and now she's cutting people off in this small ass campus	AUDI	Company	negative	1	-0.804531	0.33	Wed Apr 29 17:52:39 +0000 2015	0
+CO	Pictures coming soon for this 2005 CHEVROLET W4500 for sale! Standard Cab; Diesel Fuel Type; Automatic; Spring... http://t.co/xuPWd4q65e	CHEVROLET	Company	neutral	1	0.0	0.858192	Wed Apr 29 17:52:57 +0000 2015	0
+FL	Most universities also invest in private prisons like GEO Group through an investment company.  Ask @DDODUCF... #slaveholders	GEO GROUP	Company	positive	1	0.224898	0.913615	Wed Apr 29 17:53:11 +0000 2015	0
+NY	Latest buzz for Arlene's Grocery: http://t.co/XU3x4jisOG - RT @SmashStudios Catch the Rock/Soul sound of Ferrari Truck tonight at Arlene...	FERRARI TRUCK	Company	positive	1	0.427968	0.33	Wed Apr 29 17:53:11 +0000 2015	0
+CA	Ford CEO refuses to let Apple and Google take the wheel http://t.co/VjYqwC1EmZ	FORD	Company	positive	1	0.49128	0.33	Thu Apr 30 22:24:08 +0000 2015	0
+AL	Ford CEO refuses to let Apple and Google take the wheel: Apple’s CarPlay and Google’s Android Auto are ... http://t.co/FVc2U2vKBe #apple	FORD	Company	positive	1	0.390634	0.33	Thu Apr 30 22:24:13 +0000 2015	0
+FL	Brand new #Lamborghini parked at Universal, today. #nobigdeal #wow https://t.co/UReDAlMXT0	LAMBORGHINI	Company	neutral	1	0.0	0.258571	Thu Apr 30 22:24:39 +0000 2015	0
+IN	RT @JRehling: FOX NEWS: Obama crashes Messenger spacecraft into Mercury. This wouldn't have happened under Bush.	MERCURY	Company	negative	1	-0.493974	0.775416	Thu Apr 30 22:24:40 +0000 2015	0
+CA	Kia Motors doubles impact of social media marketing at less than half the cost http://t.co/84XKaLLJEs  via The Drum. #SocialMedia	KIA MOTORS	Company	positive	1	0.298859	0.33	Thu Apr 30 22:24:42 +0000 2015	0
+NY	Scalextric Subaru Imprezza #16 BELGACOM C2256 Near MB - Full read by eBay http://t.co/kIVFcZ1NXZ http://t.co/BulRJ8k4DW	SUBARU	Automobile	positive	1	0.23723	0.33	Sat May 02 07:34:40 +0000 2015	0
+NY	After months of winter, traveling, and test driving other cars, I'm *finally* taking my Mustang for a wash. @Ford http://t.co/gR9Iuh2X02	FORD	Company	positive	1	0.420373	0.828846	Sat May 02 16:45:56 +0000 2015	0
+NY	2pcs White 12" Audi Style 15-SMD LED Sideshine Strip Parking, DRL, Fog Light #44 - Full re… http://t.co/28B0JUS67P http://t.co/RqrZiD4NAo	AUDI	Company	negative	1	-0.212983	0.33	Thu Apr 30 10:17:18 +0000 2015	0
+RI	Just Cool Cars: See Rita Hayworths 53 Ghia Cadillac	CADILLAC	Automobile	positive	1	0.384382	0.33	Sat May 02 02:17:54 +0000 2015	0

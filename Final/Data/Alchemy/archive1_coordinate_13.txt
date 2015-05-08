@@ -1,0 +1,680 @@
+RI	RT @JeremyClarkson: A pap tried following me yesterday. He had a VW diesel. I had a Lamborghini. None of his pics are in the papers today. …	LAMBORGHINI	Company	neutral	1	0.0	0.884554	Sun Apr 26 13:01:25 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/Z5blIyG94e http://t.co/A9HBNzmnk5	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:09:31 +0000 2015	0
+TX	Apr 30 2009- Chrysler automobile company files for Chapter 11 bankruptcy	CHRYSLER	Company	negative	1	-0.675003	0.33	Tue Apr 28 22:15:51 +0000 2015	0
+CT	RT @ptskahill: Tesla's effort to sell directly in Connecticut appears to be moving forward. http://t.co/HFIeknDn1h	TESLA	Company	positive	1	0.63483	0.909797	Tue Apr 28 22:15:55 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/iIi74W1LR0 http://t.co/bLS16P8nl3	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:24:54 +0000 2015	0
+NY	1969 HOT WHEELS REDLINE CLASSIC '36 FORD COUPE - CHOCOLATE BROWN w/Tan Interior - Full rea… http://t.co/kxXjuxO65W http://t.co/YuCZPVA2w4	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 14:24:56 +0000 2015	0
+NY	Dodge : Coronet CORONET 1950 dodge coronet old school muscle car classic restored - Full r… http://t.co/22iGJE9qHG http://t.co/qdyjX7aJaC	DODGE	Company	negative	1	-0.291928	0.33	Sun Apr 26 14:24:56 +0000 2015	0
+NY	Dodge : Coronet CORONET 1950 dodge coronet old school muscle car classic restored - Full r… http://t.co/22iGJE9qHG http://t.co/qdyjX7aJaC	DODGE CORONET	Automobile	neutral	1	0.0	0.33	Sun Apr 26 14:24:56 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/D3TViyKla2 http://t.co/TKOyIuxxy2	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:24:59 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/8Uo6JrtWOb http://t.co/1fcyNAAnAB	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:03 +0000 2015	0
+AZ	Gold rimed Audi ???? http://t.co/pZKAjpWta3	AUDI	Company	positive	1	0.247571	0.33	Sun Apr 26 14:25:03 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/6jenwRC93W http://t.co/HcT5xBDxf0	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:05 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/oxZ9m78zZT http://t.co/kOWESa4clm	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:15 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/y7XC7WPcIr http://t.co/7Y08wGajVN	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:17 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/JHkN0wrHMQ http://t.co/jRy7zvYku7	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:20 +0000 2015	0
+DE	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/8gXRtiwzO8	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 14:25:40 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/qhCAvJfqmm http://t.co/mGfwhjKWl3	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:54 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/uAq5owp4cv http://t.co/sv7l3KU8uV	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:25:58 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/0EJxif1euE http://t.co/Q1XJsRmFj9	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:26:00 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/tUTYXTEd8B http://t.co/IHrs2uu9x2	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:26:11 +0000 2015	0
+NY	1969 HOT WHEELS REDLINE CLASSIC '36 FORD COUPE - CHOCOLATE BROWN w/Tan Interior - Full rea… http://t.co/LcGOppKP0K http://t.co/lNotD0GtqG	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 14:26:13 +0000 2015	0
+NY	Dodge : Coronet CORONET 1950 dodge coronet old school muscle car classic restored - Full r… http://t.co/2abYaqeFnV http://t.co/5e6Jr2XhCX	DODGE	Company	negative	1	-0.291928	0.33	Sun Apr 26 14:26:13 +0000 2015	0
+NY	Dodge : Coronet CORONET 1950 dodge coronet old school muscle car classic restored - Full r… http://t.co/2abYaqeFnV http://t.co/5e6Jr2XhCX	DODGE CORONET	Automobile	neutral	1	0.0	0.33	Sun Apr 26 14:26:13 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/rKkp5gAiPK http://t.co/SgBUZZ4ZtP	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 14:26:14 +0000 2015	0
+NY	#USnews. First Draft: For Jeb Bush Donors, Yoga Mats and Tesla Brochures  /#USA	TESLA	Company	positive	1	0.229219	0.33	Sun Apr 26 14:26:33 +0000 2015	0
+KY	RT @iLikeWhipzDaily: White Audi R8 😍 http://t.co/XSoil5DYoE	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 14:26:37 +0000 2015	0
+KY	RT @iLikeWhipzDaily: White Audi R8 😍 http://t.co/XSoil5DYoE	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 14:26:37 +0000 2015	0
+NY	$TSLA:US Tesla Website And Twitter Account Hacked #TESLA MOTORS INC  http://t.co/7kfs8H4T8k #NASDAQ	TESLA MOTORS INC	Company	positive	1	0.281562	0.33	Sun Apr 26 14:26:38 +0000 2015	0
+FL	RT @JeremyClarkson: A pap tried following me yesterday. He had a VW diesel. I had a Lamborghini. None of his pics are in the papers today. …	LAMBORGHINI	Company	neutral	1	0.0	0.884554	Sun Apr 26 14:26:47 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/RFiWnVzsu4 http://t.co/8hYrEzlLXr	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:32:57 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/9WlbY6cKUZ http://t.co/oJXrkqLd6G	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:32:58 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/SkUpqX3Nd4 http://t.co/SXy8D90WmI	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:02 +0000 2015	0
+NJ	Suzuki HB25 2 Octave Chromatic Tone Chimes $899.00 http://t.co/rqcH8lPIfC #percussion	SUZUKI	Company	neutral	1	0.0	0.33	Mon Apr 27 06:33:03 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/hzFICWlMyF http://t.co/EpkpbMqtM2	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:05 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/AOawLK8wsY http://t.co/no4OyC5U8F	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:08 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/zDg1DGOUoN http://t.co/tIKq4yAmV2	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:20 +0000 2015	0
+TX	Current 1:30 am radar from KXAN shows strong Thunderstorms now entering Austin Metro area. Stay aware and safe. Hugs. http://t.co/uWuSy3BJ7l	AUSTIN METRO	Automobile	neutral	1	0.0	0.978538	Mon Apr 27 06:33:44 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/rC0aWTzQrb http://t.co/TrjreP8CLn	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:55 +0000 2015	0
+NY	infiniti pro by conair curl secret - Full read by eBay http://t.co/nq8m1tplZX http://t.co/qxFSNUUF0T	INFINITI	Company	positive	1	0.578039	0.33	Mon Apr 27 06:33:58 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warran… http://t.co/Bc8hSSOGVt http://t.co/VhB116uUdo	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 06:33:59 +0000 2015	0
+HI	Oh yeah. You definitely a "Hawaiian Hostage" in your brand new Lexus Bruddah.	LEXUS	Company	positive	1	0.348536	0.973024	Mon Apr 27 06:34:24 +0000 2015	0
+GA	#Job #Georgia SALES, $450/WK + BONUSES &amp; COMM. = $8500/MTH! NO EXP. REQ'D, GWINNETT PLACE FORD: GA-DULUTH, 323... http://t.co/f3SJrYLpbe	FORD	Company	positive	1	0.305233	0.623564	Mon Apr 27 14:22:12 +0000 2015	0
+NY	Ford Tractor Jubilee Edition - Full read by eBay http://t.co/0hAmUHYI2q http://t.co/54UHHlTbTw	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 14:22:12 +0000 2015	0
+GA	#Georgia #Jobs SALES, $450/WK + BONUSES &amp; COMM. = $8500/MTH! NO EXP. REQ'D, GWINNETT PLACE FORD: GA-DULUTH, 32... http://t.co/7h6NtYqmS3	FORD	Company	positive	1	0.305233	0.643664	Mon Apr 27 14:22:14 +0000 2015	0
+NY	Ford Tractor Jubilee Edition - Full read by eBay http://t.co/si6OcduXPk http://t.co/pNs4A7nfhy	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 14:22:26 +0000 2015	0
+CA	RT @business: Deutsche Bank: Tesla's announcement this week could be a bigger deal than investors realize http://t.co/o52xFHrCW2 http://t.c…	TESLA	Company	neutral	1	0.0	0.33	Mon Apr 27 14:22:28 +0000 2015	0
+ME	2014 Honda Foreman  500cc fuel injected foot shift push button 4x4 with diff lock it is brand ne... http://t.co/BLB6tNgDhC	HONDA	Company	positive	1	0.296529	0.863993	Mon Apr 27 14:22:29 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/trB3aYokxZ http://t.co/540TOIiFST	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:09:39 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/EOfnO9pshC http://t.co/xRR3llVKSv	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:09:40 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/EOfnO9pshC http://t.co/xRR3llVKSv	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:09:40 +0000 2015	0
+AZ	Tesla’s Site And Twitter Account Hacked http://t.co/ZpADuXrqUg via @techcrunch	TESLA	Company	positive	1	0.353931	0.33	Sat Apr 25 22:10:03 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/4Z95Mpft5x http://t.co/caLPc2nDzk	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:10:18 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/c9ORus1EvL http://t.co/4QKiWtHZrT	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:10:19 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/c9ORus1EvL http://t.co/4QKiWtHZrT	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:10:19 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/5tp40G7R5x http://t.co/GiSdG6E5B5	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:10:23 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/1o1L33RhkX http://t.co/QrEwNrF4At	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:10:23 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/1o1L33RhkX http://t.co/QrEwNrF4At	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:10:23 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/CncezNtdac http://t.co/Huptyu7kfj	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:10:25 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/yao6ECBmd0 http://t.co/7uNVJ6V8pV	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:10:26 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/yao6ECBmd0 http://t.co/7uNVJ6V8pV	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:10:26 +0000 2015	0
+NY	$F:US  Ford Recalls About 390,000 Cars Because Doors May Open While Driving #FORD MOTOR CO  http://t.co/de4mpSu5vv #SP500	FORD	Company	positive	2	0.275884	0.33	Sat Apr 25 22:10:46 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/GFPSXonFPI http://t.co/2iFWefCWpM	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:11:16 +0000 2015	0
+NY	Plymouth : Road Runner Satellite 1972 plymouth road runner project car - Full read by eBay http://t.co/i8RFm44XBa http://t.co/bKMUtxj7RW	PLYMOUTH ROAD RUNNER	Automobile	negative	1	-0.217703	0.33	Sat Apr 25 22:11:16 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/p9jDk501bz http://t.co/Z6Oi6Wu0MB	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:11:17 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/p9jDk501bz http://t.co/Z6Oi6Wu0MB	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:11:17 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/UK0YTasFZx http://t.co/DngSGnJGvg	HONDA	Company	neutral	1	0.0	0.33	Sat Apr 25 22:11:17 +0000 2015	0
+NY	Honda : Element LX  Jamie Grace's First Car - 2006 Honda Element - Full read by eBay http://t.co/UK0YTasFZx http://t.co/DngSGnJGvg	HONDA ELEMENT	Automobile	neutral	1	0.0	0.33	Sat Apr 25 22:11:17 +0000 2015	0
+NY	Ford 8N Tractor Hood Original, Not After Market  - Full read by eBay http://t.co/wBF0idCeK1 http://t.co/wVdZd0FqB3	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 22:11:31 +0000 2015	0
+TX	RT @HLNTV: #RECALL ALERT: @Ford recalls nearly 400,000 over door latches. Here's what you need to know:  http://t.co/thKpkF7Nm9 http://t.co…	FORD	Company	positive	1	0.559675	0.908333	Wed Apr 29 01:28:42 +0000 2015	0
+CA	kia downtown la Orlando jaimes sales used cars | come see him at car pros kia glendale (213) 909-6020 http://t.co/V5C50e4ZAU	KIA	Company	positive	1	0.413515	0.33	Wed Apr 29 01:28:58 +0000 2015	0
+MI	We love getting booked up! Welcome our newest client, Varsity Ford on Jackson Rd! We look forward to... http://t.co/HBvsoP8bPH	VARSITY FORD	Company	neutral	1	0.0	0.925013	Wed Apr 29 01:30:04 +0000 2015	0
+UT	Check out this space age technology that Jaguar and Land Rover have got now!  http://t.co/T0wJANWPqt #coolstuff #loveusajag	MITSUBISHI	Company	positive	1	0.458	0.95296	Wed Apr 29 01:30:24 +0000 2015	0
+UT	Check out this space age technology that Jaguar and Land Rover have got now!  http://t.co/T0wJANWPqt #coolstuff #loveusajag	JAGUAR	Company	positive	1	0.458	0.701003	Wed Apr 29 01:30:24 +0000 2015	0
+CT	Anybody need a car? Selling a BMW 318ti In a couple of weeks	BMW	Company	neutral	1	0.0	0.943417	Wed Apr 29 01:30:26 +0000 2015	0
+CA	kia downtown la Orlando jaimes sales used cars | come see him at car pros kia glendale (213) 909-6020 http://t.co/zMzhMM8gAv	KIA	Company	positive	1	0.413515	0.33	Wed Apr 29 01:30:32 +0000 2015	0
+CO	3:18am Freakout! by Mini Mansions from The Great Pretenders	MINI MANSIONS	Company	positive	1	0.412446	0.33	Mon Apr 27 09:19:38 +0000 2015	0
+NY	Chevrolet : Corvette Base Coupe 2-Door 1981 corvette never restored running car rpo v 54 i… http://t.co/Qy6WobnwYP http://t.co/EPjwJ0Ohzq	CHEVROLET	Company	neutral	1	0.0	0.33	Mon Apr 27 09:19:38 +0000 2015	0
+IN	RT @BiIlionaires: Mercedes-Benz S500 white on black interior 😁 http://t.co/WMz8raR3bj	MERCEDES-BENZ	Company	positive	1	0.287145	0.33	Mon Apr 27 03:16:33 +0000 2015	0
+MD	Tesla is pushing the thought further that if battery tech keeps improving, more homes might go off the grid http://t.co/EFCb70yOXN	TESLA	Company	positive	1	0.397966	0.33	Mon Apr 27 03:17:55 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/V2eNa1vz2S http://t.co/g9RvBPJgxo	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 18:25:14 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/WVodKJl8nu http://t.co/KVFBvDScPC	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 18:25:18 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/t0l8Bl7ZqP http://t.co/rYBrXqRejz	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 18:25:23 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/TFto1K5RKZ http://t.co/c4nqO4aab9	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 18:26:00 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/XhcXA4iYOG http://t.co/XGHVQrljKD	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 18:26:09 +0000 2015	0
+FL	vintage ford mustang gt magazine advertisement http://t.co/CrHsg6jQWS @addoway	FORD	Automobile	positive	1	0.322038	0.33	Sat Apr 25 09:32:53 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/miMWGxZkLt http://t.co/XEikzpHNU1	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:32:57 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/1Xabfk63sn http://t.co/PxJuymLbLc	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:32:58 +0000 2015	0
+NY	Bentley : Continental GT Flying Spur Sedan 4-Door 2006 bentley continental 6.0 l v 12… http://t.co/RWqgmEIczb	BENTLEY	Company	positive	1	0.271015	0.33	Sat Apr 25 09:33:12 +0000 2015	0
+NY	BMW : 3-Series Wagon BMW E30 325i 5 SPEED MANUAL STATION WAGON EURO TOURING RHD 17" RIMS… http://t.co/UwXrtXvNp7	BMW	Company	neutral	1	0.0	0.33	Sat Apr 25 09:33:12 +0000 2015	0
+NY	BMW : 3-Series Wagon BMW E30 325i 5 SPEED MANUAL STATION WAGON EURO TOURING RHD 17" RIMS… http://t.co/UwXrtXvNp7	BMW	Automobile	neutral	1	0.0	0.33	Sat Apr 25 09:33:12 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/FTeAZeNgXO http://t.co/f6dAXjazc8	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:33:12 +0000 2015	0
+NY	Ford : Other 2 door station wagon 1950 ford country squire woody station wagon - Full read… http://t.co/JdjCe4gc63	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:33:13 +0000 2015	0
+FL	vintage ford mustang gt magazine advertisement Price: $2.99 Looking for a unique retirement gift?Thi http://t.co/SsTauBHuQE	FORD	Automobile	neutral	1	0.0	0.33	Sat Apr 25 09:33:14 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/23oubJ8QyZ http://t.co/rsM8cry5Tp	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:33:14 +0000 2015	0
+NY	Pontiac : GTO judge clone bermuda blue,blue interior,455,coupe,judge tribute - Full read by… http://t.co/OfX5PzqEJX	PONTIAC	Company	neutral	1	0.0	0.33	Sat Apr 25 09:33:15 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/J26c43jX5O http://t.co/TAWZoIO4TO	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:33:18 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/8jxeoeUU4q http://t.co/popgIvcpa2	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:33:20 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/j8qyFoNVwB http://t.co/KFG6xNJoby	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:34:04 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/zmeOxyyE5P http://t.co/iiDyuF8zZp	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:34:04 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/EmHDNAVZXF http://t.co/Qr95tpVyoO	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:34:06 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/DjbER8yILK http://t.co/mnFhuhdwtx	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:34:06 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/fCqtnq47Tp http://t.co/gfKPwR4oo2	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:58:51 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/fCqtnq47Tp http://t.co/gfKPwR4oo2	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:58:51 +0000 2015	0
+CA	I keep hearing radio promos for the Nissan Leaf, and they make me think of Fringe every time.	NISSAN	Company	neutral	1	0.0	0.33	Mon Apr 27 15:58:59 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/1txqX03oxr http://t.co/h9oPF5jEPM	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:08 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/1txqX03oxr http://t.co/h9oPF5jEPM	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:59:08 +0000 2015	0
+NC	RT @nihilist_arbys: My life: an illusion My job: a distraction from inevitable doom My car: Honda, mid 90's My god: death My universe: a vo…	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:10 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/7Cu7koYRIL http://t.co/teay898HXz	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:14 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/7Cu7koYRIL http://t.co/teay898HXz	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:59:14 +0000 2015	0
+NY	Chevrolet : C/K Pickup 3500 flat bed 1987 chevrolet k 3500 4 x 4 454 ci granny 4 speed dua… http://t.co/hXXThnLmL0 http://t.co/5OQZPDsjqG	CHEVROLET	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:15 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/4OxxQ3fdPX http://t.co/5kVEPvpd3p	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:17 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/4OxxQ3fdPX http://t.co/5kVEPvpd3p	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:59:17 +0000 2015	0
+NY	Nissan : Xterra S 4 l v 6 4 wd 4 x 4 super clean - Full read by eBay: Price 5700.0 USD 57… http://t.co/2ZUJZ2rkq2	NISSAN	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:21 +0000 2015	0
+NY	BMW : 6-Series SPORT 2009 bmw 650 i no reserve leather convertible navi 20 wheels heated… http://t.co/XKs8KVmApX	BMW	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:21 +0000 2015	0
+NY	BMW : 6-Series SPORT 2009 bmw 650 i no reserve leather convertible navi 20 wheels heated… http://t.co/XKs8KVmApX	BMW 650	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:59:21 +0000 2015	0
+NY	Pontiac : GTO Hardtop Coupe 1968 pontiac gto hardtop coupe 400 v 8 classic his hers shift… http://t.co/NfrapBnixj	PONTIAC	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:21 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/r61dfZ5l78 http://t.co/eKUifOPLse	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:24 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/r61dfZ5l78 http://t.co/eKUifOPLse	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:59:24 +0000 2015	0
+NJ	RT @nihilist_arbys: My life: an illusion My job: a distraction from inevitable doom My car: Honda, mid 90's My god: death My universe: a vo…	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:39 +0000 2015	0
+NJ	RT @nihilist_arbys: My life: an illusion My job: a distraction from inevitable doom My car: Honda, mid 90's My god: death My universe: a vo…	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 15:59:41 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/tJF7ydhMWo http://t.co/TJ3HTG56U8	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 16:00:09 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/tJF7ydhMWo http://t.co/TJ3HTG56U8	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 16:00:09 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/9z1XCZS00E http://t.co/q0bBabdo6G	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 16:00:11 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/9z1XCZS00E http://t.co/q0bBabdo6G	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 16:00:11 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/B0holQPHG0 http://t.co/iFonzC2Qis	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 16:00:14 +0000 2015	0
+NY	Ford : F-100 ranger f 100 1971 ford ranger short bed 302 auto with air orinigal paint and … http://t.co/B0holQPHG0 http://t.co/iFonzC2Qis	FORD RANGER	Automobile	neutral	1	0.0	0.33	Mon Apr 27 16:00:14 +0000 2015	0
+IL	@arielhelwani fingers crossed there is a police chase with a Ford Bronco.	FORD BRONCO	Automobile	positive	1	0.300172	0.33	Mon Apr 27 16:00:21 +0000 2015	0
+NY	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sun Apr 26 09:14:32 +0000 2015	0
+TX	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sun Apr 26 09:14:32 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/TXhyMeEegZ http://t.co/73jqvbQUvs	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:14:36 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/Q6Ujf3KGk8 http://t.co/kQuPZdqsmr	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:14:37 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/sb1W0VU2TH http://t.co/LlBG2h91ih	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:15:45 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/YEwj1bhsjD http://t.co/KvMcghL9SK	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:15:45 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/OBCIb668yR http://t.co/JXbrJbhK5Y	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:15:57 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/2GGzPcxMIf http://t.co/iGkycdFdQQ	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:15:58 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/xoZ5FpqAi1 http://t.co/63DZpccdAL	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:19 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/AqEPYcoV7y http://t.co/1cgoVO0J99	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:21 +0000 2015	0
+LA	#NewOrleans: Essence Music Festival - 3 Day Pass Live in Concert at Mercedes-Benz Superdome - Jul  3 ► Ticket Info: http://t.co/MyQOTLZQEA	MERCEDES-BENZ	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:29 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/2taHENLy2q http://t.co/eFT9gUNhtM	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:31 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/NsS0vnTvFX http://t.co/YgNQgY9wT7	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:32 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/dS2WR3eNXz http://t.co/HXuBBRiaEA	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:35 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/UbqbGKraFD http://t.co/jeh8zyTywe	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:36 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/OxsWewkWNB http://t.co/rytD26g4EY	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:54 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/UaVI208Qcs http://t.co/2Gp2t6CQOL	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:16:54 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/kCRggbJLGl http://t.co/rj4TGyL9oh	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:22 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/o9b4DTzlhw http://t.co/iLl3BL9ToF	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:23 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/zYnkW42x5t http://t.co/h5gPTMHj1G	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:30 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/wDppXRZKpu http://t.co/OOyMiBf4kF	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:31 +0000 2015	0
+NY	Nissan : Other Base 1971 datsun 240 z immaculate condition car at no reserve auction - Ful… http://t.co/WkLLBuWNRd http://t.co/oGdlU2HHyC	NISSAN	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:33 +0000 2015	0
+NY	Hyundai : Genesis 2.0T 2013 hyundai genesis coupe 2.0 turbo sports car nav - Full read by … http://t.co/ZUpR2OzFJO http://t.co/H4bcKm4Jyk	HYUNDAI	Company	neutral	1	0.0	0.33	Sun Apr 26 09:17:34 +0000 2015	0
+KY	"Devil's Reject"  1938 Ford SCTA Racer, Bare Metal and Chopped  @traditionalhrm #hamb #hotrod… https://t.co/xvIBrVTNjr	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 13:58:20 +0000 2015	0
+KY	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/EDmNQblz2Z	VOLVO	Company	positive	1	0.704981	0.936739	Mon Apr 27 13:58:29 +0000 2015	0
+CA	Check out TOYOTA TACOMA "LIMITED" EMBLEM 2012 2013 2014 GENUINE TOYOTA OEM AND BRAND NEW! #Toyota http://t.co/nnvKB1Bpjd via @eBay	TOYOTA	Automobile	positive	1	0.431939	0.33	Mon Apr 27 13:58:53 +0000 2015	0
+CA	Check out TOYOTA TACOMA "LIMITED" EMBLEM 2012 2013 2014 GENUINE TOYOTA OEM AND BRAND NEW! #Toyota http://t.co/nnvKB1Bpjd via @eBay	TOYOTA	Company	positive	2	0.553417	0.33	Mon Apr 27 13:58:53 +0000 2015	0
+NC	Just Cool Cars: See Rita Hayworths 53 Ghia Cadillac	CADILLAC	Automobile	positive	1	0.384382	0.33	Mon Apr 27 13:59:39 +0000 2015	0
+NY	5 photos that celebrate the beauty of the vintage Volvo: http://t.co/7OXivnFqw7 @volvocarsglobal http://t.co/fkKk5eTIrU	VOLVO	Company	positive	1	0.782038	0.33	Mon Apr 27 14:00:02 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/F4fwILvgbP http://t.co/v81nTMrp2O	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:21:55 +0000 2015	0
+NY	68 FORD MUSTANG V8 302 AUTO REG UK SINCE 88 MOT APRIL 2016 RARE FRONT BENCH SEAT - Full re… http://t.co/koXUqemp17 http://t.co/FQVJMdjUGy	FORD	Automobile	neutral	1	0.0	0.33	Mon Apr 27 05:22:00 +0000 2015	0
+NY	1980 Volkswagen Jetta MK1 1.6D LHD/Left Hand Drive - Full read by eBay http://t.co/AsUrB5ia9l http://t.co/5frlTEedVG	VOLKSWAGEN	Company	neutral	1	0.0	0.33	Mon Apr 27 05:22:01 +0000 2015	0
+NY	FORD TRANSIT MK2 - Full read by eBay http://t.co/WsWNfAw1NS http://t.co/lfWxeoehiD	FORD TRANSIT	Company	positive	1	0.281195	0.33	Mon Apr 27 05:22:02 +0000 2015	0
+NY	$10 American Gold Eagle 1/4 oz. (Brilliant Uncirculated) (Random Year) - Full read by eBay http://t.co/lZdUf3JIz7 http://t.co/4DKdthVaNg	AMERICAN GOLD EAGLE	Company	neutral	1	0.0	0.909239	Mon Apr 27 05:22:06 +0000 2015	0
+NY	2007 2008 2009 TOYOTA CAMRY LED STRIP BLACK PROJECTOR HEAD LIGHT+BLUE DRL SIGNAL - Full re… http://t.co/Emfq8g2T8g http://t.co/a2ImwuqtKf	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 05:22:13 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/nZIzBVkpVG http://t.co/rNZr6udKBY	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:22:24 +0000 2015	0
+ND	RT @Jesse_Apolinar: Ferrari's don't have car meets with Hondas.	FERRARI	Company	neutral	1	0.0	0.33	Mon Apr 27 05:22:28 +0000 2015	0
+NY	2007 2008 2009 TOYOTA CAMRY LED STRIP BLACK PROJECTOR HEAD LIGHT+BLUE DRL SIGNAL - Full re… http://t.co/tx9m55zECX http://t.co/AOtlYfmfGZ	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 05:22:29 +0000 2015	0
+OH	I like that I know my HR manager from my second job on a personal level and at Lexus I can get whenever I want off.	LEXUS	Company	positive	1	0.32703	0.33	Mon Apr 27 05:22:39 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/BXgeyGkI4J http://t.co/xyRj08N4tl	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:22:53 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/mrvWmCU9ix http://t.co/vTaJkh03bf	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:03 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/0XvXzE4fNx http://t.co/xqVDYlCz1s	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:08 +0000 2015	0
+NY	68 FORD MUSTANG V8 302 AUTO REG UK SINCE 88 MOT APRIL 2016 RARE FRONT BENCH SEAT - Full re… http://t.co/3cCBkHqxSd http://t.co/v2jFJyDqYL	FORD	Automobile	neutral	1	0.0	0.33	Mon Apr 27 05:23:15 +0000 2015	0
+NY	1980 Volkswagen Jetta MK1 1.6D LHD/Left Hand Drive - Full read by eBay http://t.co/AcRjVGc5DI http://t.co/4U4dvEIEte	VOLKSWAGEN	Company	neutral	1	0.0	0.33	Mon Apr 27 05:23:16 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/zLYsoFoENF http://t.co/lKjGwxvRO2	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:16 +0000 2015	0
+NY	FORD TRANSIT MK2 - Full read by eBay http://t.co/5T2UrIwo2N http://t.co/KN9Y4adjL5	FORD TRANSIT	Company	positive	1	0.281195	0.33	Mon Apr 27 05:23:17 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/txn0DEMRpr http://t.co/xY526yuN7C	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:49 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/sZbM5DI1IZ http://t.co/3RlSfxQUSP	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:49 +0000 2015	0
+NY	68 FORD MUSTANG V8 302 AUTO REG UK SINCE 88 MOT APRIL 2016 RARE FRONT BENCH SEAT - Full re… http://t.co/ByaXn0kqEy http://t.co/JDy89kZwuM	FORD	Automobile	neutral	1	0.0	0.33	Mon Apr 27 05:23:57 +0000 2015	0
+NY	Daewoo American style fridge-freezer - Full read by eBay http://t.co/eC03a0uDIm http://t.co/tRYeMGAJcJ	DAEWOO	Company	positive	1	0.21422	0.33	Mon Apr 27 05:23:57 +0000 2015	0
+NY	1980 Volkswagen Jetta MK1 1.6D LHD/Left Hand Drive - Full read by eBay http://t.co/Z9povOL7lF http://t.co/CnkNKXTThl	VOLKSWAGEN	Company	neutral	1	0.0	0.33	Mon Apr 27 05:23:58 +0000 2015	0
+CA	@jessicagravity @shepprd of course. Tell nellie and bentley hello	BENTLEY	Company	positive	1	0.652867	0.773625	Wed Apr 29 03:51:01 +0000 2015	0
+HI	my dream car is a lexus ls400 or golf gti tbh	LEXUS	Company	positive	1	0.216596	0.33	Wed Apr 29 03:51:09 +0000 2015	0
+NY	Honda : Gold Wing 2012 goldwing 5 k miles low reserve - Full read by eBay http://t.co/MXQbDi0YJT http://t.co/G7mUJI7mXO	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 06:42:54 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/IpW5GmJBGk http://t.co/PgX1sW6Dsc	DODGE	Company	negative	1	-0.348022	0.33	Mon Apr 27 06:42:55 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/IpW5GmJBGk http://t.co/PgX1sW6Dsc	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Mon Apr 27 06:42:55 +0000 2015	0
+NY	Chevrolet : Bel Air/150/210 Bel Air 1956 chevrolet bel air base 3.8 l - Full read by eBay http://t.co/SLWgq9Grqr http://t.co/Dtkc93Yj89	CHEVROLET	Company	neutral	1	0.0	0.33	Mon Apr 27 06:42:57 +0000 2015	0
+NY	2002 SUZUKI GZ 125 MARAUDER no swaps swap cruiser spares or repairs barn find - Full read … http://t.co/Rh3rKHtpUw http://t.co/8PfAiMQ5MF	SUZUKI	Company	neutral	1	0.0	0.33	Mon Apr 27 06:42:57 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/9Er1UJOSdC http://t.co/irICFFX5Xx	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:42:57 +0000 2015	0
+NY	2002 SUZUKI GZ 125 MARAUDER no swaps swap cruiser spares or repairs barn find - Full read … http://t.co/vtHP0ccFmK http://t.co/8yMP4Xxo8b	SUZUKI	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:01 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/YWiSytqGOL http://t.co/PY110bezH4	DODGE	Company	negative	1	-0.348022	0.33	Mon Apr 27 06:43:02 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/YWiSytqGOL http://t.co/PY110bezH4	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Mon Apr 27 06:43:02 +0000 2015	0
+NY	2002 SUZUKI GZ 125 MARAUDER no swaps swap cruiser spares or repairs barn find - Full read … http://t.co/QozgSliRWW http://t.co/nl63jXoJIh	SUZUKI	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:03 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/c4JUrblF9R http://t.co/4YGY2YMXBv	DODGE	Company	negative	1	-0.348022	0.33	Mon Apr 27 06:43:04 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/c4JUrblF9R http://t.co/4YGY2YMXBv	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Mon Apr 27 06:43:04 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/H98F4e1pCM http://t.co/Sj5OWK0Phu	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:10 +0000 2015	0
+NY	Honda : Gold Wing 2012 goldwing 5 k miles low reserve - Full read by eBay http://t.co/7oDtmBSrDb http://t.co/YrRtyhuPDi	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:14 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/Kk1Ctk2qsS http://t.co/1AQvHmkPWZ	DODGE	Company	negative	1	-0.348022	0.33	Mon Apr 27 06:43:20 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/Kk1Ctk2qsS http://t.co/1AQvHmkPWZ	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Mon Apr 27 06:43:20 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/H98F4e1pCM http://t.co/nc9DLlTvxN	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:24 +0000 2015	0
+NY	Honda : Gold Wing 2012 goldwing 5 k miles low reserve - Full read by eBay http://t.co/mvNdFsNaWa http://t.co/golQxSHoxf	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 06:43:51 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/d3Z7BU2N2M http://t.co/uQgcKmLUHY	DODGE	Company	negative	1	-0.348022	0.33	Mon Apr 27 06:43:59 +0000 2015	0
+NY	Dodge : Caravan SE Used 02 Dodge Caravan SE 3.3L V6 12V FWD Minivan Van Red Gray Cloth - F… http://t.co/d3Z7BU2N2M http://t.co/uQgcKmLUHY	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Mon Apr 27 06:43:59 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/En31skXsrv http://t.co/Ddit7UOJ3s	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:44:05 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/Cdi7zOAav1 http://t.co/PKDAjUsjfX	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:44:08 +0000 2015	0
+NY	Honda : Gold Wing 2012 goldwing 5 k miles low reserve - Full read by eBay http://t.co/CoEn9d7etX http://t.co/v5tnLng2EH	HONDA	Company	neutral	1	0.0	0.33	Mon Apr 27 06:44:09 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/w8Yz1raaz3 http://t.co/Trn9cIF903	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:44:13 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/fkpCd8NcNi http://t.co/GCku0G3zQl	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 06:44:14 +0000 2015	0
+MN	So indeed this did happen. McLaren P1 showed up at the end. A $1.34 million car. Absolutely gorgeous !!!! http://t.co/nvlKbNLASX	MCLAREN	Company	negative	1	-0.220015	0.882039	Sat Apr 25 22:01:03 +0000 2015	0
+MI	RT @Car_Porns: RT if you want a Ford Mustang GT500 Super Snake 😍🙌 ' http://t.co/hmFCRkLwdd	FORD	Automobile	neutral	1	0.0	0.33	Sun Apr 26 15:33:03 +0000 2015	0
+CA	REBEL SPORTS NEWS NASCAR at Richmond 2015: Live Results, Standings for Toyota Owners 400 http://t.co/u1MDU69sV5	TOYOTA OWNERS	Company	positive	1	0.313695	0.33	Sun Apr 26 16:02:00 +0000 2015	0
+VA	RT @jayski: Richmond Sunday Pre-Race Schedule (times eastern) 1:16 pm: Green Flag - Toyota Owners 400 (400 Laps, 300 Miles) #NASCAR	TOYOTA OWNERS	Company	positive	1	0.41198	0.33	Sun Apr 26 16:02:10 +0000 2015	0
+TN	RT @JeremyClarkson: A pap tried following me yesterday. He had a VW diesel. I had a Lamborghini. None of his pics are in the papers today. …	LAMBORGHINI	Company	neutral	1	0.0	0.884554	Sun Apr 26 16:02:19 +0000 2015	0
+MN	Audi drivers are so wreckless lmao	AUDI	Company	positive	1	0.605529	0.33	Sun Apr 26 16:02:24 +0000 2015	0
+AZ	DIGITAL SPORTS NEWS NASCAR at Richmond 2015: Live Results, Standings for Toyota Owners 400 http://t.co/fzOwKOHDCI	TOYOTA OWNERS	Company	positive	1	0.317884	0.33	Sun Apr 26 16:02:47 +0000 2015	0
+NY	Infiniti : G SPORT 2006 infiniti g 35 sport florida super low 15 k miles loaded must sell … http://t.co/utxS7PpJnL http://t.co/vhEp9hqcKy	INFINITI	Company	positive	1	0.304777	0.33	Sun Apr 26 16:02:48 +0000 2015	0
+NY	Hummer : H2 Pacific Blue HUMMER H2 SUT limited edition 2006 in pacific blue hummer h 2 sut… http://t.co/8mq7RYvuMc http://t.co/fgIfULiMSc	HUMMER	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:49 +0000 2015	0
+NY	BMW : Other Isetta 300 Convertible 1959 bmw isetta convertible stunning restoration very r… http://t.co/ZPywtJf4Ht http://t.co/ANwmQ0pmDl	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:50 +0000 2015	0
+NY	Subaru : WRX Base 2014 subaru wrx wagon world rally blue with options - Full read by eBay http://t.co/GVaWOvPCMl http://t.co/TRm1A9qIH9	SUBARU	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:51 +0000 2015	0
+NY	Infiniti : G SPORT 2006 infiniti g 35 sport florida super low 15 k miles loaded must sell … http://t.co/5Axr5KfRZW http://t.co/B5bbVV0ylZ	INFINITI	Company	positive	1	0.304777	0.33	Sun Apr 26 16:02:53 +0000 2015	0
+NY	Hummer : H2 Pacific Blue HUMMER H2 SUT limited edition 2006 in pacific blue hummer h 2 sut… http://t.co/EVpwMn9LeJ http://t.co/c7pHuFFnXl	HUMMER	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:54 +0000 2015	0
+NY	BMW : Other Isetta 300 Convertible 1959 bmw isetta convertible stunning restoration very r… http://t.co/6O1zMFca01 http://t.co/vXFb6lLNZl	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:54 +0000 2015	0
+NY	Subaru : WRX Base 2014 subaru wrx wagon world rally blue with options - Full read by eBay http://t.co/atAeTdZrFs http://t.co/B1FNjG4vUb	SUBARU	Company	neutral	1	0.0	0.33	Sun Apr 26 16:02:55 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/eGWg1MK4si http://t.co/WKVMjPxayt	CHRYSLER	Company	negative	2	-0.236822	0.33	Sat Apr 25 12:15:06 +0000 2015	0
+NY	Ford : Model T Speedster 1915 ford model t speedster white red seats highly collectible am… http://t.co/UWBvbc6vY5 http://t.co/4CHKrMVA1B	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 12:15:07 +0000 2015	0
+NY	2009 09 Land Rover Range Rover 3.6 TDV8 Westminster Mariana Black NO RESERVE!! - Full read… http://t.co/nsKrzGvCsF http://t.co/Dcp2i9WHep	MITSUBISHI	Company	neutral	1	0.0	0.33	Sat Apr 25 23:54:04 +0000 2015	0
+NY	NO RESERVE LOW MILAGE BEAUTIFUL 2003 VOLKSWAGEN BEETLE 2.3 V5 Sport 3dr - Full read by eBay http://t.co/kIwaJQUSQ0 http://t.co/JmZKa8iQaT	VOLKSWAGEN	Company	neutral	1	0.0	0.33	Sat Apr 25 23:54:05 +0000 2015	0
+NY	1986 White Volvo RO Stinger Terex 175-55 Crane 17 Ton 55' Height - Full read by eBay: Price… http://t.co/bBRvwerVk0	VOLVO	Company	neutral	1	0.0	0.33	Sat Apr 25 23:54:20 +0000 2015	0
+NJ	RT @mashable: UPDATE: Hackers also posted free car prank on Tesla CEO .@elonmusk's Twitter account http://t.co/7e3poFVX3j	TESLA	Company	positive	1	0.28252	0.33	Sat Apr 25 23:54:22 +0000 2015	0
+GA	New strobe warning LED lights are available on all 2016 #Ford F-Series Super Duty trucks - http://t.co/PibwfCveVa http://t.co/Tp1gvcSquh	FORD F-SERIES SUPER DUTY	Automobile	neutral	1	0.0	0.33	Mon Apr 27 22:16:25 +0000 2015	0
+CA	It looks like you'll lease Tesla's home battery instead of buying it We already knew, than http://t.co/ImrS2Fso8d	TESLA	Company	neutral	1	0.0	0.33	Mon Apr 27 22:16:37 +0000 2015	0
+CA	"Ok so now we'll be doing the quadratic formula"  HAHA NOPE LATER FUCKERS I'M AUDI	AUDI	Company	positive	1	0.202272	0.33	Mon Apr 27 22:17:25 +0000 2015	0
+MI	Photo: Honda Racing bike with a Tanaka 32cc Golden Eagle Bike Engine Kit. Mount kit with engine weighs... http://t.co/akg1Z5pJPK	HONDA RACING	Company	positive	1	0.374785	0.988596	Sun Apr 26 18:21:17 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/U4Xmh5v8PB http://t.co/MPyTEUEPcz	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:21:20 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/RkTndyJtje http://t.co/qbmT2s1pr6	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:21:26 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/wNGLlBNnBF http://t.co/Sx8IMEM4DE	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:21:56 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/w8i4GhsmTl http://t.co/vHhddRkjEo	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:22:09 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/8GBE1VbUNt http://t.co/UuSBmHcPBJ	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:22:25 +0000 2015	0
+CA	You drive a fucking Audi shut the fuck up https://t.co/EEu74b3Eki	AUDI	Company	negative	1	-0.840736	0.33	Sun Apr 26 18:22:35 +0000 2015	0
+VA	BMW: epic FAIL for not using SSL in ConnectedDrive communications to start with. Get some real mobile connectedcars developers!	BMW	Company	neutral	1	0.0	0.879373	Sun Apr 26 18:22:39 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/p0YJiI6wZl http://t.co/6jjVBNi77f	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:22:59 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/IqgwAlG070 http://t.co/hJJIBYLmRN	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:22:59 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/zJmTfRIMPk http://t.co/WIpcxxHglk	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:23:07 +0000 2015	0
+CA	I liked a @YouTube video from @zefoh http://t.co/8uUJEkhZrx Mini #6 by Tuyls AX	NISSAN	Company	positive	1	0.53549	0.33	Sun Apr 26 18:23:11 +0000 2015	0
+NY	RT @BiIlionaires: The Audi RS7 &gt;&gt; http://t.co/cARfJZpYW6	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 18:23:17 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/FRNLugzLI3 http://t.co/ZWB04f1rz3	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 18:23:26 +0000 2015	0
+NY	RT @MLB: The @Mets sit alone atop #MLBPowerRankings, presented by @Chrysler: http://t.co/klF4pMxDY9 http://t.co/Sk4WYFIoS7	CHRYSLER	Company	positive	1	0.205494	0.33	Tue Apr 28 04:09:07 +0000 2015	0
+MD	@Toyota PLS help DAV w/rare disease from FORECLOSURE. Click to Donate:  http://t.co/hncvMlf2xH via @gofundme http://t.co/Njww2uhsNy	TOYOTA	Company	neutral	1	0.0	0.972368	Tue Apr 28 04:09:15 +0000 2015	0
+AZ	Check out JEEP WRANGLER JK 2007-2015 AIR BOX INTAKE FILTER AND HOSE OEM NICE! 3.6L V6  #Jeep http://t.co/80AGFGBybt via @eBay	JEEP	Company	positive	1	0.589513	0.33	Mon Apr 27 02:07:33 +0000 2015	0
+AZ	Check out JEEP WRANGLER JK 2007-2015 Freedom Top Storage Bag Mopar OEM - NEW! #Jeep http://t.co/05IOQcjGki via @eBay	JEEP	Company	positive	1	0.41902	0.33	Mon Apr 27 02:08:19 +0000 2015	0
+NV	RT @techdelight: Audi just created diesel fuel from air and water #technology http://t.co/TaXq0SmPgQ	AUDI	Company	neutral	1	0.0	0.33	Mon Apr 27 02:08:27 +0000 2015	0
+NY	RT @RoadandTrack: Watch Ford track-test the Mustang Shelby GT350 at VIR http://t.co/5Dn8QM35I5 http://t.co/ckW8xW8utj	FORD	Company	neutral	1	0.0	0.33	Wed Apr 29 04:31:13 +0000 2015	0
+NY	RT @RoadandTrack: Watch Ford track-test the Mustang Shelby GT350 at VIR http://t.co/5Dn8QM35I5 http://t.co/ckW8xW8utj	SHELBY GT350	Automobile	neutral	1	0.0	0.33	Wed Apr 29 04:31:13 +0000 2015	0
+TX	Gorton's Seafood Smart &amp; Crunchy Review &amp; Giveaway! WINNER ANNOUNCED!  https://t.co/df3B2nwMS1 via @sharethis #winner #sweepstakes #contest	SEAFOOD SMART	Company	positive	1	0.671014	0.997081	Wed Apr 29 04:31:20 +0000 2015	0
+NY	01 02 03 HONDA CIVIC COUPE 2DR LED STRIP ALTEZZA TAIL BRAKE LIGHT LAMP JDM SMOKE - Full re… http://t.co/8FPAjfzsZ7 http://t.co/JhXCEKhl4C	INFINITI	Automobile	neutral	1	0.0	0.33	Mon Apr 27 23:26:55 +0000 2015	0
+NY	01 02 03 HONDA CIVIC COUPE 2DR LED STRIP ALTEZZA TAIL BRAKE LIGHT LAMP JDM SMOKE - Full re… http://t.co/rTnR1xGr7E http://t.co/Ls7PZ8aE9t	INFINITI	Automobile	neutral	1	0.0	0.33	Mon Apr 27 23:26:55 +0000 2015	0
+NY	2012-2014 FORD FOCUS LED DRL STRIP BAR PROJECTOR HEADLIGHTS  STYLE - Full read by eBay http://t.co/vlOhTMbFeB http://t.co/QlNw2V1weO	FORD	Company	negative	1	-0.209247	0.33	Mon Apr 27 23:26:56 +0000 2015	0
+NY	2012-2014 FORD FOCUS LED DRL STRIP BAR PROJECTOR HEADLIGHTS  STYLE - Full read by eBay http://t.co/dnARCLOlz5 http://t.co/DqxCA9n36R	FORD	Company	negative	1	-0.209247	0.33	Mon Apr 27 23:26:57 +0000 2015	0
+TX	TIX http://t.co/Sh36Vysgq4 2 tickets 5/3 Texas #Rangers v. Oakland A's Lexus Club section 215 http://t.co/zdOdUz3Cx4 #Tickets #Ticket	LEXUS	Company	positive	1	0.225375	0.867482	Mon Apr 27 23:27:14 +0000 2015	0
+NY	It looks like you'll lease Tesla's home battery instead of buying it http://t.co/fHbpFtvJWY	TESLA	Company	neutral	1	0.0	0.33	Mon Apr 27 23:28:09 +0000 2015	0
+NY	01 02 03 HONDA CIVIC COUPE 2DR LED STRIP ALTEZZA TAIL BRAKE LIGHT LAMP JDM SMOKE - Full re… http://t.co/0bHQwnzgNP http://t.co/TR4JrdjHmH	INFINITI	Automobile	neutral	1	0.0	0.33	Mon Apr 27 23:28:12 +0000 2015	0
+NY	2012-2014 FORD FOCUS LED DRL STRIP BAR PROJECTOR HEADLIGHTS  STYLE - Full read by eBay http://t.co/IJt3t7sKrV http://t.co/v7BzxBTvVd	FORD	Company	negative	1	-0.209247	0.33	Mon Apr 27 23:28:13 +0000 2015	0
+NY	1/43 LAND ROVER SERIES 3 BARN FIND DIORAMA CODE 3 JUNK SCRAP "ANDREW GREEN" - Full read by… http://t.co/0qpLDBM1Ur http://t.co/JyF0EWj5tg	MITSUBISHI	Automobile	negative	1	-0.447303	0.33	Sun Apr 26 23:52:58 +0000 2015	0
+NY	Ford 100th Anniversary Commemorative knife 1948 Pickup Truck #12855 - Full read by eBay http://t.co/8UxkQ5eZ8e http://t.co/7xwzS1Ghgc	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 23:53:06 +0000 2015	0
+NY	Ford 100th Anniversary Commemorative knife 1948 Pickup Truck #12855 - Full read by eBay http://t.co/Y5aAeMCkUE http://t.co/DWoaddWK8O	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 23:53:09 +0000 2015	0
+MT	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Sun Apr 26 23:53:11 +0000 2015	0
+NY	1/43 LAND ROVER SERIES 3 BARN FIND DIORAMA CODE 3 JUNK SCRAP "ANDREW GREEN" - Full read by… http://t.co/yq8H6R94B9 http://t.co/ku4FxHqmkl	MITSUBISHI	Automobile	negative	1	-0.447303	0.33	Sun Apr 26 23:53:14 +0000 2015	0
+OK	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Sun Apr 26 23:53:16 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/Q7RieHTbf1 http://t.co/hcbbWyfyAt	FORD	Company	positive	1	0.220086	0.33	Sun Apr 26 23:53:37 +0000 2015	0
+MS	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Sun Apr 26 23:53:41 +0000 2015	0
+NY	OEM VOLKSWAGEN IPHONE 5 MDI ADAPTER CABLE  LIGHTNING CHARGER - Full read by eBay http://t.co/IvzUDUgozr http://t.co/xe8g2nYomY	VOLKSWAGEN	Company	negative	1	-0.205263	0.33	Sun Apr 26 23:53:52 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/Ip0Tt4QUbK http://t.co/zHFSBSqiy6	DODGE	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/Ip0Tt4QUbK http://t.co/zHFSBSqiy6	CHRYSLER	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/Ip0Tt4QUbK http://t.co/zHFSBSqiy6	PLYMOUTH	Automobile	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/1snkeSB8CV http://t.co/Lc0GmXTL2x	DODGE	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/1snkeSB8CV http://t.co/Lc0GmXTL2x	CHRYSLER	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/1snkeSB8CV http://t.co/Lc0GmXTL2x	PLYMOUTH	Automobile	negative	1	-0.210045	0.33	Mon Apr 27 16:27:58 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/ZzFb9xHV2D http://t.co/TUcrEa1D4T	DODGE	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:28:01 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/ZzFb9xHV2D http://t.co/TUcrEa1D4T	CHRYSLER	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:28:01 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/ZzFb9xHV2D http://t.co/TUcrEa1D4T	PLYMOUTH	Automobile	negative	1	-0.210045	0.33	Mon Apr 27 16:28:01 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/bPkIRz0V13 http://t.co/qkx67UgFUV	DODGE	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:28:20 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/bPkIRz0V13 http://t.co/qkx67UgFUV	CHRYSLER	Company	negative	1	-0.210045	0.33	Mon Apr 27 16:28:20 +0000 2015	0
+NY	Dodge Chrysler Plymouth Wiper Bushings Mopar Windshield Wiper Linkage Caps #130 - Full rea… http://t.co/bPkIRz0V13 http://t.co/qkx67UgFUV	PLYMOUTH	Automobile	negative	1	-0.210045	0.33	Mon Apr 27 16:28:20 +0000 2015	0
+NY	TOYOTA Industrial Strength HEAVY DUTY Sewing Machine - All Steel Built To Last - Full read… http://t.co/7JeWJmBS0L	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 16:28:22 +0000 2015	0
+NY	#LEGO set Porsche 918 Spyder (75910) is now in stock. Order it here: http://t.co/g3M3k48xrG http://t.co/uX1wW1IVkj	PORSCHE	Automobile	neutral	1	0.0	0.978678	Wed Apr 29 03:13:50 +0000 2015	0
+IA	Dear #Audi #Mercedes #Lexus etc., by definition, since you advertise "exceptional lease offers" everyday, they actually are not exceptional	LEXUS	Company	neutral	1	0.0	0.33	Wed Apr 29 03:14:00 +0000 2015	0
+IA	Dear #Audi #Mercedes #Lexus etc., by definition, since you advertise "exceptional lease offers" everyday, they actually are not exceptional	AUDI	Company	neutral	1	0.0	0.33	Wed Apr 29 03:14:00 +0000 2015	0
+NY	New spectroscopic images of Mercury are a rainbow of colour - http://t.co/YwjSAJEhSy	MERCURY	Company	positive	1	0.401751	0.33	Wed Apr 29 03:14:11 +0000 2015	0
+NJ	RT @rockonbyaudi: http://t.co/7UEw3cbudq //(*_*)\\ WoW! Time TAKES WINGS Ƹ̵̡Ӝ̵̨̄Ʒ &amp; FLIES AWAY &amp; SO MUST AUDI I missed the butterfly, where…	AUDI	Company	negative	1	-0.542253	0.954897	Wed Apr 29 03:14:17 +0000 2015	0
+MN	RT @verge: Tesla's invite for its April 30th event teases "the missing piece" — we'll be there live http://t.co/ye3h64C6QR http://t.co/frUV…	TESLA	Company	positive	1	0.342292	0.33	Wed Apr 29 03:16:14 +0000 2015	0
+AK	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/trXRzRPGHH	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 07:52:29 +0000 2015	0
+CA	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sat Apr 25 07:52:55 +0000 2015	0
+AZ	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sat Apr 25 07:53:07 +0000 2015	0
+NY	Jeep : Wagoneer No Reserve Beautiful 1987 Jeep Grand Wagoneer owned for 20 years No Rust C… http://t.co/wNeaFwY6es http://t.co/s08ajEuXj4	JEEP GRAND WAGONEER	Automobile	neutral	1	0.0	0.33	Sat Apr 25 07:53:14 +0000 2015	0
+NY	Jeep : Wagoneer No Reserve Beautiful 1987 Jeep Grand Wagoneer owned for 20 years No Rust C… http://t.co/KKBX5gWom0 http://t.co/C7tRFY7DSy	JEEP GRAND WAGONEER	Automobile	neutral	1	0.0	0.33	Sat Apr 25 07:53:26 +0000 2015	0
+TN	BMW, Mercedes grapple with unauthorized exports from U.S. to China	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 20:12:41 +0000 2015	0
+OR	RT @Scotttheshogoth: Do you like Tesla, do you like H.P. Lovecraft, Then you should check out this awesome comic called Lovecraft and Tesla…	TESLA	Company	positive	1	0.352513	0.33	Sun Apr 26 20:12:54 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/YGC3pCjddW	CHRYSLER	Company	negative	2	-0.236822	0.33	Sun Apr 26 20:13:18 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/qUuQoDjJXZ	CHRYSLER	Company	negative	2	-0.236822	0.33	Sun Apr 26 20:13:33 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/ARPnGwXctP	CHRYSLER	Company	negative	2	-0.236822	0.33	Sun Apr 26 20:13:36 +0000 2015	0
+VT	RT @SubaruOfNewEng: All 7 VT Subaru dealers are official bag pick-up/drop-off locations for Green Up Day '15! Hope to see you out there! ht…	SUBARU	Company	positive	1	0.33858	0.928017	Tue Apr 28 06:39:23 +0000 2015	0
+NY	SCALEXTRIC NEW BOXED RARE CAR C2342 FORD FOCUS WRC WORKS 2001 No4 ALL MINT - Full read by … http://t.co/mNr1w3gFPq http://t.co/Dyi0YpZ08i	FORD FOCUS WRC	Automobile	positive	1	0.390763	0.33	Sun Apr 26 22:06:02 +0000 2015	0
+NY	SCALEXTRIC NEW BOXED RARE CAR C2342 FORD FOCUS WRC WORKS 2001 No4 ALL MINT - Full read by … http://t.co/xBYmz99x4u http://t.co/IXtOfWyyfX	FORD FOCUS WRC	Automobile	positive	1	0.390763	0.33	Sun Apr 26 22:06:18 +0000 2015	0
+AZ	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/26PzBnFz1Y	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 10:38:09 +0000 2015	0
+MI	Ford Shelby GT 350 Mustang #Detroit #NAIAS | Gallery: http://t.co/msRpVoPTAj #Ford #auto #car #carshow http://t.co/0uG5KCrxqU	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 10:38:21 +0000 2015	0
+MI	Ford Shelby GT 350 Mustang #Detroit #NAIAS | Gallery: http://t.co/msRpVoPTAj #Ford #auto #car #carshow http://t.co/0uG5KCrxqU	SHELBY	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:38:21 +0000 2015	0
+NY	RT @AutoSportsArt: 1955 Ford Thunderbird - Styling with Innovation http://t.co/XdZM54gHTh https://t.co/bihHzu5gDU	1955 FORD	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:38:47 +0000 2015	0
+CA	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sat Apr 25 10:40:51 +0000 2015	0
+MD	Waiting for Kia 😾	KIA	Company	neutral	1	0.0	0.33	Tue Apr 28 04:16:37 +0000 2015	0
+NY	Cadillac : Eldorado Eldorado rear wheel wells 1955 cadillac skyview station wagon broadmoo… http://t.co/7qX8EiFrBe http://t.co/NnK7a5RSXO	CADILLAC	Company	positive	1	0.247821	0.33	Sat Apr 25 10:55:04 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/G5P6XBay5h http://t.co/cB8J2yJ4WF	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:08 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/G5P6XBay5h http://t.co/cB8J2yJ4WF	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:08 +0000 2015	0
+NY	Cadillac : Eldorado Eldorado rear wheel wells 1955 cadillac skyview station wagon broadmoo… http://t.co/Tfgz5h1Otc http://t.co/UsRYhu3jT2	CADILLAC	Company	positive	1	0.247821	0.33	Sat Apr 25 10:55:12 +0000 2015	0
+NY	GMC : Other Custom 1967 gmc 1 ton dually car hauler flat bed toy hauler - Full read by eBay http://t.co/PsIt2GVyK1 http://t.co/wri2KxrvWM	GMC	Company	neutral	1	0.0	0.33	Sat Apr 25 10:55:18 +0000 2015	0
+NY	Cadillac : Eldorado Eldorado rear wheel wells 1955 cadillac skyview station wagon broadmoo… http://t.co/3vf8wt5GZA http://t.co/DDPHtPcJ1t	CADILLAC	Company	positive	1	0.247821	0.33	Sat Apr 25 10:55:20 +0000 2015	0
+NY	Chevrolet : Other Pickups Plumbing Truck 1958 chevrolet viking truck with service bed nice… http://t.co/k9tFG5TrP9 http://t.co/RaObU9KD2b	CHEVROLET	Company	neutral	1	0.0	0.33	Sat Apr 25 10:55:20 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/4LcIF8TOFS http://t.co/02GVuDsf2O	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:21 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/4LcIF8TOFS http://t.co/02GVuDsf2O	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:21 +0000 2015	0
+NY	Cadillac : Eldorado Eldorado rear wheel wells 1955 cadillac skyview station wagon broadmoo… http://t.co/tH9OvW9yYj http://t.co/B3zyfmnwN6	CADILLAC	Company	positive	1	0.247821	0.33	Sat Apr 25 10:55:22 +0000 2015	0
+NY	Cadillac : Eldorado Eldorado rear wheel wells 1955 cadillac skyview station wagon broadmoo… http://t.co/ne1BJpu3rG http://t.co/lNP70iCqnd	CADILLAC	Company	positive	1	0.247821	0.33	Sat Apr 25 10:55:24 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/jA183gWmit http://t.co/Su5IyaARDp	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:26 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/jA183gWmit http://t.co/Su5IyaARDp	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:26 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/nxdELJume1 http://t.co/uobmA4edaU	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:27 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/nxdELJume1 http://t.co/uobmA4edaU	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:27 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/LKqBHsfwT4 http://t.co/DXK8TaALeU	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:34 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/LKqBHsfwT4 http://t.co/DXK8TaALeU	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:34 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/467U2bMBP7 http://t.co/LufBzqnIg1	DODGE	Company	negative	1	-0.348022	0.33	Sat Apr 25 10:55:37 +0000 2015	0
+NY	Dodge : Caravan painted Dodge caravan - Full read by eBay http://t.co/467U2bMBP7 http://t.co/LufBzqnIg1	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:37 +0000 2015	0
+FL	1987 Isuzu Trooper II - water - Classic Vintage Advertisement Ad http://t.co/dFtoXKu1Bm @addoway	ISUZU TROOPER	Automobile	neutral	1	0.0	0.33	Sat Apr 25 10:55:43 +0000 2015	0
+NJ	Audi extends its lead with high-resolution Matrix Laser technology - http://t.co/kUsjV20RjT #PaulMiller #Audi @AudiNJ	AUDI	Company	positive	2	0.514833	0.33	Tue Apr 28 08:57:24 +0000 2015	0
+NY	Vintage Hot Wheels Redline Custom Car 1968 '32 Ford Vicky Classic Original w/Tag - Full re… http://t.co/IH2QPz0iaH http://t.co/nAfM6fWy2F	FORD	Company	positive	1	0.291256	0.33	Mon Apr 27 07:39:18 +0000 2015	0
+NY	Vintage Hot Wheels Redline Custom Car 1968 '32 Ford Vicky Classic Original w/Tag - Full re… http://t.co/p1bOWQz1nP http://t.co/8nMyVmmq8V	FORD	Company	positive	1	0.291256	0.33	Mon Apr 27 07:39:35 +0000 2015	0
+NY	Vintage Hot Wheels Redline Custom Car 1968 '32 Ford Vicky Classic Original w/Tag - Full re… http://t.co/B78ZziQEeQ http://t.co/bmCuFX8Ga3	FORD	Company	positive	1	0.291256	0.33	Mon Apr 27 07:39:37 +0000 2015	0
+NY	2X For Chrysler Jeep Dodge Red Italic Metal HEMI Emblem Decal Badge Sticker - Full read by… http://t.co/qbSmV4r047 http://t.co/nSjJ40F65x	CHRYSLER	Company	neutral	1	0.0	0.33	Mon Apr 27 07:39:41 +0000 2015	0
+NY	Dodge : Grand Caravan 4dr Wagon SXT ONE OWNER SXT Low Miles Van Automatic Gasoline 3.6L V6… http://t.co/f0VatATmPG http://t.co/YIv5F3TztF	DODGE	Company	negative	1	-0.365423	0.33	Mon Apr 27 07:39:42 +0000 2015	0
+NY	BMW e38 e39 e46 flashlight + female socket for glove box in great condition - Full read by… http://t.co/kHwCf12Mwk http://t.co/b81qepgACp	BMW	Company	positive	1	0.429022	0.33	Mon Apr 27 01:20:59 +0000 2015	0
+NY	BMW e38 e39 e46 flashlight + female socket for glove box in great condition - Full read by… http://t.co/VcB4i7VKfy http://t.co/cV9PYDq9W6	BMW	Company	positive	1	0.429022	0.33	Mon Apr 27 01:21:02 +0000 2015	0
+NY	BMW e38 e39 e46 flashlight + female socket for glove box in great condition - Full read by… http://t.co/D6Zh10vQhk http://t.co/9bbq4kKDza	BMW	Company	positive	1	0.429022	0.33	Mon Apr 27 01:21:04 +0000 2015	0
+NY	Scalextric C3604 McLaren 12C GT3 2014 GT Cup #21 Digital Plug Ready BNIB Car - Full read b… http://t.co/6PSPI05l21 http://t.co/2gBiVBKwDW	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 01:21:07 +0000 2015	0
+NY	BMW e38 e39 e46 flashlight + female socket for glove box in great condition - Full read by… http://t.co/AtGXS7x2RB http://t.co/2qSW4Y2QWG	BMW	Company	positive	1	0.429022	0.33	Mon Apr 27 01:21:13 +0000 2015	0
+NY	Suzuki : Other 2009 used chain drive exhaust 1300 cc sport super bike motorcycle under 10 … http://t.co/4GDn1SnX0U http://t.co/5f7HjKjXkE	SUZUKI	Company	neutral	1	0.0	0.33	Mon Apr 27 01:21:16 +0000 2015	0
+AZ	Check out 1BD22RXFAD JEEP WRANGLER JK 2007-2015 OEM REAR BUMPER COVER with brackets  #Jeep http://t.co/90y868mchf via @eBay	JEEP	Company	positive	1	0.508321	0.33	Mon Apr 27 02:02:28 +0000 2015	0
+CA	GA5161 Silver 7"l Pure Android Car DVD Player Radio Stereo Wifi Touch for Ford  via eBay http://t.co/MYGI8GQVup http://t.co/ndHiC6CzYx	FORD	Company	neutral	1	0.0	0.33	Mon Apr 27 02:02:56 +0000 2015	0
+NY	BMW R69 R69S ENGINE CYLINDER HEAD SET - Full read by eBay http://t.co/WWOvFLQOlH http://t.co/OAQq2z7if0	BMW	Company	neutral	1	0.0	0.33	Mon Apr 27 02:04:04 +0000 2015	0
+NY	2pcs White 24" Audi Style 30-SMD LED Sideshine Strip Parking, DRL, Fog Light #46 - Full re… http://t.co/SusW4nT0op http://t.co/2Up2mBqbVq	AUDI	Company	negative	1	-0.213474	0.33	Sun Apr 26 13:44:47 +0000 2015	0
+NY	2pcs White 24" Audi Style 30-SMD LED Sideshine Strip Parking, DRL, Fog Light #46 - Full re… http://t.co/F6JgsoWUxw http://t.co/gSkHvKyDlk	AUDI	Company	negative	1	-0.213474	0.33	Sun Apr 26 13:45:08 +0000 2015	0
+TX	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/71DJrhfp7o	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 13:45:26 +0000 2015	0
+NY	2pcs White 24" Audi Style 30-SMD LED Sideshine Strip Parking, DRL, Fog Light #46 - Full re… http://t.co/WX4unXia07 http://t.co/eTMiACrSZ3	AUDI	Company	negative	1	-0.213474	0.33	Sun Apr 26 13:45:32 +0000 2015	0
+NY	2pcs White 24" Audi Style 30-SMD LED Sideshine Strip Parking, DRL, Fog Light #46 - Full re… http://t.co/9cEpExokzZ http://t.co/5PsmqRDyIi	AUDI	Company	negative	1	-0.213474	0.33	Sun Apr 26 13:45:52 +0000 2015	0
+NC	Back to Back wins!!  1st place Mercury Marine Pro division and 1st place Gulf coast Open.  Mercury Marine Under... http://t.co/7tDC4LIMcX	MERCURY MARINE PRO	Company	neutral	1	0.0	0.996233	Sun Apr 26 13:46:22 +0000 2015	0
+NC	Back to Back wins!!  1st place Mercury Marine Pro division and 1st place Gulf coast Open.  Mercury Marine Under... http://t.co/7tDC4LIMcX	MERCURY MARINE	Company	neutral	1	0.0	0.8464	Sun Apr 26 13:46:22 +0000 2015	0
+NH	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/5h3OPOWfvA	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 13:46:27 +0000 2015	0
+CA	RT @TheMatteBlack: Bentley http://t.co/xm4nEoWhOh	BENTLEY	Company	positive	1	0.466364	0.33	Sun Apr 26 13:46:29 +0000 2015	0
+TX	RT @TheMatteBlack: Bentley http://t.co/xm4nEoWhOh	BENTLEY	Company	positive	1	0.466364	0.33	Sun Apr 26 13:46:30 +0000 2015	0
+IL	RT @TheMatteBlack: Bentley http://t.co/xm4nEoWhOh	BENTLEY	Company	positive	1	0.466364	0.33	Sun Apr 26 13:46:30 +0000 2015	0
+FL	RT @TheMatteBlack: Bentley http://t.co/xm4nEoWhOh	BENTLEY	Company	positive	1	0.466364	0.33	Sun Apr 26 13:46:30 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/xvD3fii2nE http://t.co/tphgfa6X75	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:34:54 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/ZDm3EDrzqn http://t.co/ekFqIiY7mR	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:34:54 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/ADhhRR2jTT http://t.co/bcxAv6Gmxh	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:34:55 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/2A78av4n3A http://t.co/RBAag6G6rr	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:34:55 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/cnoVEu46CH http://t.co/5P6MInj5QV	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:34:59 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/P9OIOoYB3w http://t.co/UjxNs2aCDx	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:35:01 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/cuDMD1zjNj http://t.co/kP5O0IIgJ8	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:35:04 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/eLetO5wMIA http://t.co/DjPEJByGKb	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:35:05 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/BnJoeqmqEi http://t.co/9LIecdFT3f	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:35:06 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/qdC2pYsARS http://t.co/hyhDFy2qw1	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:35:06 +0000 2015	0
+DE	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/o0aTNcuBxR	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 09:35:16 +0000 2015	0
+NY	Ford : Mustang boss 302 1969 ford mustang convertible very good condition rare find fl - F… http://t.co/ndGJQUyOYB http://t.co/U0KqzbkeuT	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 09:35:23 +0000 2015	0
+NY	Buick : Other Model 29 Touring. Tour Proven! See VIDEO 1912 buick model 29 touring tour pr… http://t.co/B8fSmVMMBi http://t.co/gNmdEtLFqS	BUICK	Company	neutral	1	0.0	0.9462	Sat Apr 25 09:35:25 +0000 2015	0
+CT	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/6GxqEJUL5j	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 08:32:42 +0000 2015	0
+CA	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/uVS8KxO8zD	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 08:33:27 +0000 2015	0
+AR	#PML Official Series Bentley FlyingSpur W12. One of 15 limited... #PML Official Series Ben http://t.co/Ucyd6FBvSk	BENTLEY	Company	neutral	1	0.0	0.745917	Sat Apr 25 08:34:56 +0000 2015	0
+TN	RT @PMOIndia: PM is trying to reach Nepal PM Shri Sushil Koirala, who is abroad. He has spoken to President of Nepal Shri Ram Baran Yadav.	NEPAL SHRI RAM BARAN YADAV	Company	neutral	1	0.0	0.982311	Sat Apr 25 08:34:57 +0000 2015	0
+NE	Toyota Sienna Custom-Fit All-Weather Rubber Floor Mats 2 Pc Fronts - Light Gray (2011 11 2012 12 ) AMSEF57435115||80 http://t.co/rozWQotBrd	TOYOTA SIENNA	Automobile	positive	1	0.302052	0.33	Sat Apr 25 22:20:14 +0000 2015	0
+VA	RT @LimeyLondon: If you were the cyclist who got hit by the Ferrari on Sutton Ct Rd today at 1.20pm I got the reg &amp; photos so DM me #chiswi…	FERRARI	Company	neutral	1	0.0	0.33	Sat Apr 25 22:20:16 +0000 2015	0
+SD	RT @MWRteam: The NSCS Toyota Owners 400 has been postponed until tomorrow at 1 p.m. ET due to inclement weather	TOYOTA OWNERS	Company	neutral	1	0.0	0.965564	Sat Apr 25 22:20:31 +0000 2015	0
+NY	Ford 8N Tractor Hood Original, Not After Market  - Full read by eBay http://t.co/ODdvlGmsvK http://t.co/KpGkfXULc8	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 22:20:51 +0000 2015	0
+NJ	So is Jared Leto's Joker advertising the Jaguar's 64-bit processor?	JAGUAR	Company	positive	1	0.658581	0.33	Sat Apr 25 22:21:17 +0000 2015	0
+NY	RT @oreillyauto: The 1993 @Toyota Supra driven by Paul Walker's character from #FastNFurious is up for auction! http://t.co/D1ovxLqNQB http…	TOYOTA SUPRA	Automobile	positive	1	0.655078	0.795363	Tue Apr 28 02:08:20 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/lGObWTfaeK http://t.co/JgfdwnP47v	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:06:56 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/welhnMN4kx http://t.co/QTvlx48W55	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:06:57 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/mbuX9btopi http://t.co/pPT1ilJ41Z	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:07:04 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/5ZovKymmB2 http://t.co/WeFfzsUnLB	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:07:26 +0000 2015	0
+IL	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/RUcTaCNjfw	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 19:07:42 +0000 2015	0
+IL	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/34UZQXkHVs	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 19:07:43 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/RZC9T3tvSf http://t.co/EEXfFUpoC9	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:07:55 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/fUEfcljICx http://t.co/Y1BSOpUE61	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:07:55 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/TbO2EYdDO4 http://t.co/DUIYyu7Fug	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:07:56 +0000 2015	0
+FL	#Flashback: 1970 #Jeep Wagoneer http://t.co/Tec4VfHj56	JEEP WAGONEER	Automobile	neutral	1	0.0	0.33	Sun Apr 26 19:08:00 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/GQPVRaU8Tl http://t.co/pdHTHfd9ni	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:02 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/BloFLNFRlD http://t.co/bO5kMoPl36	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:09 +0000 2015	0
+DE	CALGARY, Alberta, March 31 Reuters - Canadas Keyera Corp and midstream company Kinder Morgan Inc plan to build 4	KINDER MORGAN INC	Company	positive	1	0.370298	0.33	Sun Apr 26 19:08:13 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/K7ZtpUVXt3 http://t.co/PsTRduUPOu	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:16 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/wgP82WzTF9 http://t.co/AgIwmPzaXm	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:29 +0000 2015	0
+NY	1990 Toyota Celica GT4 Turbo "BARN FIND" very original, low mileage, drives, fsh - Full re… http://t.co/polOI23Zp7 http://t.co/Gj4r573KJg	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:29 +0000 2015	0
+NC	Forza Horizon 2 - Part 33 - Honda NSX-R (Let's Play / Walkthrough / Playthrough): http://t.co/d6HADp2N9r via @YouTube	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 19:08:30 +0000 2015	0
+NY	Mister-watch-online : Swiss Eagle Watches - Up to 85percent Off! http://t.co/A7KRaPK7aa	SWISS EAGLE WATCHES	Company	neutral	1	0.0	0.33	Tue Apr 28 11:27:31 +0000 2015	0
+FL	RT @TIME: Audi just invented fuel made from carbon dioxide and water http://t.co/9ODLXfFtej	AUDI	Company	neutral	1	0.0	0.33	Tue Apr 28 11:27:41 +0000 2015	0
+CA	Infiniti QX30 crossover - spy shots, studio pictures and first details | http://t.co/3rMLmw2mMJ #auto #car #automobile #news	INFINITI	Company	neutral	1	0.0	0.33	Tue Apr 28 11:28:36 +0000 2015	0
+NY	Lower volume and F/X clip Ford's Q1 results http://t.co/osarxPYS9T #premarket $F	FORD	Company	negative	1	-0.429016	0.33	Tue Apr 28 11:29:31 +0000 2015	0
+NY	Chevrolet : Tahoe LTZ 4X4 Sunroof Navigation Dual TVs Quad Buckets Dual TVs Navigation Bla… http://t.co/pyvHhCE8oj http://t.co/TecOvrVT2R	CHEVROLET	Company	neutral	1	0.0	0.33	Mon Apr 27 15:08:55 +0000 2015	0
+MN	@Ford Everyday is a day to celebrate the great @FordMustang	FORD EVERYDAY	Company	positive	1	0.945644	0.33	Mon Apr 27 15:09:01 +0000 2015	0
+NY	Chevrolet : Tahoe LTZ 4X4 Sunroof Navigation Dual TVs Quad Buckets Dual TVs Navigation Bla… http://t.co/7aBfU1ZIUY http://t.co/M2hEyMLO6s	CHEVROLET	Company	neutral	1	0.0	0.33	Mon Apr 27 15:09:26 +0000 2015	0
+NJ	RT @dgialanellanjlj: Latham &amp;amp; Watkins' $927K Fee Award in Volvo Suit Challenged http://t.co/prj8h3WPA5 via @NJLJ	VOLVO	Company	neutral	1	0.0	0.33	Tue Apr 28 19:48:43 +0000 2015	0
+NC	@EuhedralCrystal doesn’t matter. Pontiac is extinct.	PONTIAC	Company	negative	1	-0.414391	0.953247	Tue Apr 28 19:49:12 +0000 2015	0
+OK	RT @BobMooreAudi: Audi just invented fuel made from CO2 and water - Fortune http://t.co/mcXfF37quK	AUDI	Company	neutral	1	0.0	0.33	Tue Apr 28 19:49:42 +0000 2015	0
+NY	2016 Mazda CX-5 2.5L AWD Tested: Refreshed for Your Driving Pleasure: -Mazda, the maverick, does so much with ... http://t.co/iSdjeArIlP	MAZDA CX-5	Automobile	neutral	1	0.0	0.33	Tue Apr 28 19:50:35 +0000 2015	0
+UT	I liked a @YouTube video from @freshbigmouf http://t.co/wPCAstWFFx Street BEAT SCOUT ft. Toyota Camry “Escape This City”	TOYOTA	Company	positive	1	0.44932	0.909611	Mon Apr 27 07:13:46 +0000 2015	0
+OR	Orange @Audi #WantAnR8 V10 and a Black #WantAnR8 Spyder. Photo by Yannick Campo https://t.co/SVThEoXh0a @Audi_Online http://t.co/ufowUMWoIw	AUDI	Company	positive	1	0.388686	0.149267	Sun Apr 26 17:05:03 +0000 2015	0
+UT	RT @WhatWouldTB12Do: Toyota Owners 400 Preview/Prediction | Fantasy Sports Warehouse: http://t.co/DWqy4UEZJD	TOYOTA OWNERS	Company	positive	1	0.559741	0.33	Sun Apr 26 17:05:19 +0000 2015	0
+WA	RT @kikukoloko: #Toyota rolls out hydrogen fuel-cell Mirai with @Droga5 campaign calling 'bullsh*t' http://t.co/SW1ItqU6aP	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 17:06:01 +0000 2015	0
+NY	What Happened When Tesla Motors and Elon Musk Were Hacked http://t.co/c73hkPbkco	TESLA MOTORS	Company	negative	2	-0.458627	0.33	Sun Apr 26 17:06:06 +0000 2015	0
+CA	@ThiKuBC teams? Sure. Tired of hearing about it w/ Chelsea though. It's all they focus on, whether Jose parked a bus or sped in a Ferrari.	FERRARI	Company	negative	1	-0.312063	0.915022	Sun Apr 26 17:06:10 +0000 2015	0
+MI	RT @kikukoloko: #Toyota rolls out hydrogen fuel-cell Mirai with @Droga5 campaign calling 'bullsh*t' http://t.co/SW1ItqU6aP	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 17:06:15 +0000 2015	0
+NH	RT @WhatWouldTB12Do: Toyota Owners 400 Preview/Prediction | Fantasy Sports Warehouse: http://t.co/DWqy4UEZJD	TOYOTA OWNERS	Company	positive	1	0.559741	0.33	Sun Apr 26 17:06:20 +0000 2015	0
+NY	Chevrolet : Other Stock 1937 chevrolet master deluxe 4 door barn find runs and drives 4100… http://t.co/PMctjBZf3B http://t.co/n37CNwmsmZ	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 17:07:25 +0000 2015	0
+NY	Chevrolet : Other Stock 1937 chevrolet master deluxe 4 door barn find runs and drives 4100… http://t.co/yvRzKykVKw http://t.co/kuin77WK8O	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 17:07:26 +0000 2015	0
+OR	RT @JeremyClarkson: A pap tried following me yesterday. He had a VW diesel. I had a Lamborghini. None of his pics are in the papers today. …	LAMBORGHINI	Company	neutral	1	0.0	0.884554	Sun Apr 26 17:07:32 +0000 2015	0
+NY	Chevrolet : Other Stock 1937 chevrolet master deluxe 4 door barn find runs and drives 4100… http://t.co/PMctjBZf3B http://t.co/oyNJ7bpB22	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 17:07:33 +0000 2015	0
+NY	Chevrolet : Other Stock 1937 chevrolet master deluxe 4 door barn find runs and drives 4100… http://t.co/UHKQKmXJXH http://t.co/UVxiGBsWDt	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 17:07:48 +0000 2015	0
+NY	RT @AutoCherish: Buy &amp; Cherish this 1969 Plymouth Road Runner 426 CI, 4-Speed http://t.co/6flI5XR96o via @autocherish http://t.co/l1nuBEqLUN	PLYMOUTH ROAD RUNNER	Automobile	positive	1	0.318552	0.33	Sun Apr 26 17:07:59 +0000 2015	0
+NY	★ JOB ★ #hiring #job #Pontiac - Locum tenens Nurse Practitioner opportunity in Michigan (Pontiac) http://t.co/9GENVJfIvx ☜ view #jobs #hr	PONTIAC	Company	positive	2	0.28735	0.33	Sun Apr 26 17:08:04 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/KLNSLTvFDp http://t.co/uaAsmQNJks	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 17:08:05 +0000 2015	0
+NY	Chevrolet : Other Stock 1937 chevrolet master deluxe 4 door barn find runs and drives 4100… http://t.co/kCZeGjsC74 http://t.co/sUUIqPgbFN	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 17:08:06 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/KXNjTygB5f http://t.co/Yp07YRrJHo	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 17:08:07 +0000 2015	0
+AL	Honda Indy Grand Prix of #Alabama 2015 Huntsville engineer key part of Montoyas race team  http://t.co/5lKJT7m7Iq #BrianCampe #Campe	HONDA	Company	positive	1	0.291558	0.33	Sat Apr 25 23:01:27 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/ZcbY7y5KJp http://t.co/kjcK839zSN	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 11:09:36 +0000 2015	0
+NY	cbr 125 project 6250 miles 2007 Black  Honda Project no MOT Barn Find  - Full read by eBay http://t.co/ntG3h6tdo0 http://t.co/CZRmOFjBxV	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 11:09:37 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/3PRX76SHPG http://t.co/VwALGi6O6P	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:10:13 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/DYqE9VOYFW http://t.co/fCzl73fW7E	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:10:15 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/GkepgNv4To http://t.co/SM11KFsBtX	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:10:20 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/EZyo5oY0QK http://t.co/I2O8VOjlwR	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:10:31 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/omOAgJJPmx http://t.co/bLhDl9O4ER	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 11:10:38 +0000 2015	0
+NY	cbr 125 project 6250 miles 2007 Black  Honda Project no MOT Barn Find  - Full read by eBay http://t.co/FdAzBLWnnD http://t.co/HqGPNdwA0F	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 11:10:38 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/Ggp9DtmpJ5 http://t.co/JxdHNt67wa	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:10:45 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/ducywFv7S0 http://t.co/3LNu8iczPV	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:10:46 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/T4swmZDXM8 http://t.co/GDnbzuRwN0	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 11:10:51 +0000 2015	0
+NY	cbr 125 project 6250 miles 2007 Black  Honda Project no MOT Barn Find  - Full read by eBay http://t.co/TwRDQYkrQz http://t.co/XyYrdU2I6F	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 11:10:51 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/cnjLDCmEGu http://t.co/9RR0rMKYpE	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:10:55 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/zl9Qu32FSD http://t.co/CqnXYS8ALl	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:10:55 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/lSrPytOgFn http://t.co/Ni3h5ji3mH	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:14 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/xpKAK1rkiw http://t.co/k9xCiaA4Wa	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:11:22 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/8FJidLJAD1 http://t.co/KmA8qEGs8R	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:33 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/y8c5tQkJH2 http://t.co/MnKKssqceg	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:36 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/lVnAstQSkw http://t.co/zJ43L8okuB	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:11:36 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/VaU7Fjpwft http://t.co/bEAayPRYg1	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:37 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/63bznhVwAz http://t.co/2Go7owlNeO	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 11:11:37 +0000 2015	0
+NY	cbr 125 project 6250 miles 2007 Black  Honda Project no MOT Barn Find  - Full read by eBay http://t.co/ALql3zy6BS http://t.co/LgTmbC0v8i	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:38 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/OdInHyRxtm http://t.co/nL57IgSdvV	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:41 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/IRREhGEogv http://t.co/Mk67TQptNC	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:46 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/wHxIs5WMrV http://t.co/z18jNkpTlH	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:11:47 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/3NGzIxveWX http://t.co/vPaRXUqyQd	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:52 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/sgbbvURuQf http://t.co/Bj9uooPVbU	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:11:58 +0000 2015	0
+NY	Ford : F-150 2012   HARLEY-DAVIDSON CREW 6.2L 4X4 NAV 31K 2012 ford f 150 harley davidson … http://t.co/rVCpTkwImw http://t.co/7DjDnBSGah	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 11:12:04 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/Rpwgglsy19 http://t.co/24e6PF4mQd	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:12:10 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/P3WlW6yuCp http://t.co/eDa2R6xqvK	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:12:10 +0000 2015	0
+NY	2x Blue 12" 15-SMD LED Daytime Running Fog Strip Lights Audi A3 A4 RS6 TT S6 #41 - Full re… http://t.co/Bb4UCmCwcH http://t.co/b3QdWDZvR9	AUDI	Company	neutral	1	0.0	0.33	Sun Apr 26 11:12:32 +0000 2015	0
+NY	RED 20 SMD LED Side Shine Light strip Tail Stop Brake Signal Tailgate Audi style - Full re… http://t.co/EosGozrcy7 http://t.co/IL0pmQ8fPL	AUDI	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:12:33 +0000 2015	0
+NY	Honda CB750 CB 750 DOHC bobber chopper   classic rare barn find  spares repair  - Full rea… http://t.co/6BK8PT6tHr http://t.co/7yJOanxXMG	HONDA	Company	positive	1	0.428249	0.33	Sun Apr 26 11:12:33 +0000 2015	0
+NY	cbr 125 project 6250 miles 2007 Black  Honda Project no MOT Barn Find  - Full read by eBay http://t.co/UCIGGwimpO http://t.co/RmeRastS49	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 11:12:34 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/NC7cGZvAJo http://t.co/kPRpbHKLrE	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:12:37 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/XBIwH4YWqf http://t.co/u6Fv1eEOty	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:12:43 +0000 2015	0
+NY	CMC 1:18 Yellow Die Cast Metal Ferrari 250 GT Berlinetta passo corto  - Full read by eBay http://t.co/FewFhqWZiQ http://t.co/4VlNK7z6UK	FERRARI 250	Automobile	neutral	1	0.0	0.33	Sun Apr 26 11:12:52 +0000 2015	0
+CO	Toyota forced to build electric cars in China https://t.co/G9zLyRhvZh via @ChargedEVs	TOYOTA	Company	positive	1	0.674789	0.33	Sun Apr 26 13:10:57 +0000 2015	0
+FL	What's it like to ride in Nissan's autonomous cars? #SiliconValley #Environment … … http://t.co/HBOfEV1DHP http://t.co/0kpkTtRDQF	NISSAN	Company	positive	1	0.777162	0.961225	Sun Apr 26 13:11:29 +0000 2015	0
+WI	RT @iomttpics: #wheeliewednesday @CameronDonald86 at TT2012 on the @WCraigRacing Honda http://t.co/NKUBQEl8Dv	HONDA	Company	positive	1	0.581412	0.33	Sun Apr 26 13:12:20 +0000 2015	0
+NJ	RT @davepperlmutter: "THE RUSTY NISSAN" Chapter 19! Wrong Place Wrong Time! http://t.co/mjoJLtBKTY #bookplugs #BYNR #IARTG #ASMSG @WritersR…	NISSAN	Company	negative	1	-0.366297	0.870841	Wed Apr 29 05:10:39 +0000 2015	0
+AZ	Volkswagen Chairman to seek board vote on CEO ahead of May 5 AGM: NDR	VOLKSWAGEN	Company	positive	1	0.375408	0.33	Wed Apr 29 05:10:46 +0000 2015	0
+KY	RECALL: Ford Fiestas, Fusions &amp; Lincoln MKZ Sedans via Couponing 4 You -    Ford is ... http://t.co/Kzcxi7OH12	FORD	Company	neutral	1	0.0	0.33	Wed Apr 29 05:11:05 +0000 2015	0
+KY	RECALL: Ford Fiestas, Fusions &amp; Lincoln MKZ Sedans via Couponing 4 You -    Ford is ... http://t.co/Kzcxi7OH12	LINCOLN MKZ	Automobile	positive	1	0.335661	0.33	Wed Apr 29 05:11:05 +0000 2015	0
+WA	Toyota Replies To Fuel Cell Vehicle Critics: Tesla's Elon Musk Not Excluded http://t.co/enDpoMkwgx	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 29 05:11:07 +0000 2015	0
+NY	American Eagle Outfitters Gift Card $25/ $50/ $100 - Mail delivery - Full read by eBay http://t.co/cruyZL5fKN http://t.co/1foVRluSSS	AMERICAN EAGLE OUTFITTERS	Company	positive	1	0.34131	0.33	Tue Apr 28 09:58:07 +0000 2015	0
+FL	RT @EarthAdapt: #Green #Footprint : Audi just invented fuel made from CO2 and water http://t.co/QXlIvAp6Dn ; ) http://t.co/g4WTV4vFT4	AUDI	Company	neutral	1	0.0	0.33	Tue Apr 28 09:58:23 +0000 2015	0
+NY	American Eagle Outfitters Gift Card $25/ $50/ $100 - Mail delivery - Full read by eBay http://t.co/twx1PFPvqI http://t.co/soRuAHuqeb	AMERICAN EAGLE OUTFITTERS	Company	positive	1	0.34131	0.33	Tue Apr 28 09:58:24 +0000 2015	0
+NY	American Eagle Outfitters Gift Card $25/ $50/ $100 - Mail delivery - Full read by eBay http://t.co/cruyZL5fKN http://t.co/4u3IWGeLEl	AMERICAN EAGLE OUTFITTERS	Company	positive	1	0.34131	0.33	Tue Apr 28 09:58:37 +0000 2015	0
+NY	American Eagle Outfitters Gift Card $25/ $50/ $100 - Mail delivery - Full read by eBay http://t.co/amU6OFl69c http://t.co/77FyTwy8TY	AMERICAN EAGLE OUTFITTERS	Company	positive	1	0.34131	0.33	Tue Apr 28 09:59:20 +0000 2015	0
+NY	American Eagle Outfitters Gift Card $25/ $50/ $100 - Mail delivery - Full read by eBay http://t.co/amU6OFl69c http://t.co/rCIQkBprUg	AMERICAN EAGLE OUTFITTERS	Company	positive	1	0.34131	0.33	Tue Apr 28 09:59:29 +0000 2015	0
+NY	JAPAN: Honda 2015/6 forecast weak after tough year: Honda Motor said operating income for its fiscal fourth qu... http://t.co/4mK2eBaFe2	HONDA MOTOR	Company	negative	2	-0.429323	0.972944	Tue Apr 28 09:59:53 +0000 2015	0
+NE	RT @OWHnews: ATTENTION, OMAHA MOTORISTS: Intersection at 72nd &amp; Dodge being treated as 4-way stop with traffic lights down -- http://t.co/P…	DODGE	Company	negative	1	-0.419754	0.33	Sat Apr 25 14:32:57 +0000 2015	0
+CA	Up early at @RaceSonoma checking out the track before Ferrari Challenge practice this morning. gopro… https://t.co/0wiKy0lu1Q	FERRARI	Company	positive	1	0.422866	0.33	Sat Apr 25 14:33:12 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/GVz5ng6Xob http://t.co/ZrTkA70WCO	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:33:21 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/I4ynJT9E3l http://t.co/yBjPPA4OrL	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:33:27 +0000 2015	0
+SC	RT @VehiclePorn: Beautiful White BMW 🙌 http://t.co/vuvZCrRdxu	BMW	Company	positive	1	0.400559	0.33	Sat Apr 25 14:34:12 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/4Fi7al1Sya http://t.co/XoKpjHpfMz	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:34:54 +0000 2015	0
+OH	Tesla wants to power your home with a battery http://t.co/irMkY1deu2	TESLA	Company	negative	1	-0.275757	0.33	Sat Apr 25 14:34:56 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/e3MYt8xuQ9 http://t.co/0IGmPzA8YX	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:34:58 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/grLWPhuSFs http://t.co/wiwwrV2dsP	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:35:02 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/e3MYt8xuQ9 http://t.co/lMXNOC87IK	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:35:07 +0000 2015	0
+OH	@KySpeedway @Ford @adamniemeyer we are on the way along with Brian a top 10 finalist in the ford car design contest http://t.co/ncSpTi5bBs	FORD	Company	positive	1	0.782871	0.33	Sat Apr 25 14:35:29 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/humk366N5a http://t.co/SIemPpgSTt	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 14:35:36 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/D6NoNocByt http://t.co/efrlRVH0J6	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:01:13 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/kP1S11f9us http://t.co/W0cxpWvxuD	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:01:16 +0000 2015	0
+NY	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:01:32 +0000 2015	0
+SC	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:01:48 +0000 2015	0
+MI	I still have to get Jake miller tickets for Pontiac.	PONTIAC	Company	negative	1	-0.53386	0.33	Mon Apr 27 00:01:53 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/NEJHhMLsUb http://t.co/68jy3qzLL1	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:02:04 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/5uPOVxEaND http://t.co/IX4MyQ5hjg	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:07 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/5uPOVxEaND http://t.co/IX4MyQ5hjg	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:07 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/0sr3DSB1mq http://t.co/TucfAqnVqb	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:02:12 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/Z3c55HvaD8 http://t.co/sLrHWgbYNM	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:02:14 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/Q5688Sy9Ge http://t.co/AxI3vgQa9K	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:17 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/Q5688Sy9Ge http://t.co/AxI3vgQa9K	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:17 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/12aMZqW0Rk http://t.co/IyFtpO3jo7	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:02:17 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/BEOeWlvxYf http://t.co/vIrdA3nv7J	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:21 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/BEOeWlvxYf http://t.co/vIrdA3nv7J	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:21 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/FahU6OPxoz http://t.co/ObZ2F53gJG	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:25 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/FahU6OPxoz http://t.co/ObZ2F53gJG	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:25 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/OsIt7DuTW2 http://t.co/1FnBkn00D7	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:26 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/OsIt7DuTW2 http://t.co/1FnBkn00D7	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:26 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/8lZP00YcS0 http://t.co/usQmclR6Nd	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:26 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/8lZP00YcS0 http://t.co/usQmclR6Nd	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:02:26 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/ECxmtIwa5E http://t.co/DyxL2ayAqb	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:02:33 +0000 2015	0
+OH	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:02:36 +0000 2015	0
+DE	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:02:46 +0000 2015	0
+NV	Bad ass.... prefer GMC, but it's still bad ass. Might have to do this for my nephew's room in the ne http://t.co/Rdx2f6Jtsc	GMC	Company	neutral	1	0.0	0.906111	Mon Apr 27 00:02:47 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/6mj0uDyjNp http://t.co/MjXeCbo4Tv	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:07 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/6mj0uDyjNp http://t.co/MjXeCbo4Tv	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:07 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/3zToJAEyrq http://t.co/xIiwYM75eo	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:03:12 +0000 2015	0
+GA	#mtv My 1969 Chrysler and my friend's 1971 Plymouth  http://t.co/4N7itAZiKl	CHRYSLER	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:14 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/JqiG1Z41a7 http://t.co/kU8u5GX3Ch	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:03:14 +0000 2015	0
+CA	#mtv My 1969 Chrysler and my friend's 1971 Plymouth  http://t.co/WhqhOjSAwL	CHRYSLER	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:14 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/N05Wbh6PZM http://t.co/16AL5sIYTK	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:03:16 +0000 2015	0
+NY	Scalextric "Castrol" Ford Escort MkII W/ Lights 1/32 Scale Slot Car C3416 - Full read by e… http://t.co/nvZXS39yJW http://t.co/nSaY14Tea5	FORD	Company	positive	1	0.220086	0.33	Mon Apr 27 00:03:23 +0000 2015	0
+CA	REBEL SPORTS NEWS NASCAR at Richmond 2015: Winners and Losers from the Toyota Owners 400 http://t.co/Mzqk7KoWuT	TOYOTA OWNERS	Company	negative	1	-0.407751	0.33	Mon Apr 27 00:03:28 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/SfxW5D2Jtj http://t.co/Bjt64dgSos	TOYOTA	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:35 +0000 2015	0
+NY	TOYOTA SCION LEXUS EZ-LIP SPOILER SPLITTER VALANCE BODY KIT AIR WING FRONT/REAR - Full rea… http://t.co/SfxW5D2Jtj http://t.co/Bjt64dgSos	LEXUS	Company	neutral	1	0.0	0.33	Mon Apr 27 00:03:35 +0000 2015	0
+CT	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:03:41 +0000 2015	0
+CA	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Mon Apr 27 00:03:47 +0000 2015	0
+NY	Honda Jazz - Full read by eBay http://t.co/y3nisEc1R8 http://t.co/hBWyngcbMV	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:29 +0000 2015	0
+NY	2007 Odyssey 222 C with a Suzuki 140 hp 4 Stroke and Trailer - Full read by eBay http://t.co/to0kEr7HdA http://t.co/NV8Usjo9zU	SUZUKI	Company	negative	1	-0.229133	0.33	Sun Apr 26 10:14:32 +0000 2015	0
+NY	BMW X5 4.4i Sport NO RESERVE - Full read by eBay http://t.co/zCdNqJDC2F http://t.co/YBHKPEesYc	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:33 +0000 2015	0
+NY	2007 Odyssey 222 C with a Suzuki 140 hp 4 Stroke and Trailer - Full read by eBay http://t.co/ic0gRjneLJ http://t.co/XGtIcG4A81	SUZUKI	Company	negative	1	-0.229133	0.33	Sun Apr 26 10:14:35 +0000 2015	0
+NY	Honda Jazz - Full read by eBay http://t.co/BwtlwXJSzd http://t.co/NwNo18u1Qz	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:35 +0000 2015	0
+NY	2007 Odyssey 222 C with a Suzuki 140 hp 4 Stroke and Trailer - Full read by eBay http://t.co/lRmYsNqR19 http://t.co/ctjwoRTLsZ	SUZUKI	Company	negative	1	-0.229133	0.33	Sun Apr 26 10:14:38 +0000 2015	0
+NY	BMW X5 4.4i Sport NO RESERVE - Full read by eBay http://t.co/WpktZTWkJg http://t.co/OpmH5Pyi5l	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:42 +0000 2015	0
+NY	Honda Jazz - Full read by eBay http://t.co/YI97c1VJy8 http://t.co/RrvUFEijG7	HONDA	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:44 +0000 2015	0
+NY	Chevrolet : Other WAGON 1946 chevy woodie wagon woody barn find survivor project restorati… http://t.co/2JrmziB2xL http://t.co/RavZYCb2ID	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 10:14:45 +0000 2015	0
+NY	BMW X5 4.4i Sport NO RESERVE - Full read by eBay http://t.co/I9JjNb80u7 http://t.co/Tefjd1sCAd	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 10:15:26 +0000 2015	0
+NY	Scalextric Ferrari F430 Bodys  - Full read by eBay http://t.co/tH9pA90wVK http://t.co/XLjl7EE3ym	FERRARI	Company	positive	1	0.394781	0.33	Mon Apr 27 05:04:28 +0000 2015	0
+NY	Scalextric Lotus Renault Ref C3269A Mint Boxed Limited Edition Bruno Senna - Full read by … http://t.co/6wX4MeKdrE http://t.co/dOvLnLjc6u	LOTUS	Company	neutral	1	0.0	0.33	Mon Apr 27 05:04:29 +0000 2015	0
+MD	RT @RoadandTrack: Volkswagen Scirocco: An enthusiast's story http://t.co/CWm4R9AfjT http://t.co/LuQfplncLT	VOLKSWAGEN SCIROCCO	Automobile	positive	1	0.358886	0.33	Sun Apr 26 21:26:11 +0000 2015	0
+AZ	@Audi personally I dig my 560hp turbocharged v8 a little more ;). RS7's ftw	AUDI	Company	negative	1	-0.5883	0.972222	Sun Apr 26 21:26:19 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/FmhviWbg6X http://t.co/dfJM0kH0LT	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:00 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/V6qf7tOWba http://t.co/gwuU25NAwV	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:03 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/1Tc5UnmXfr http://t.co/A14V9QxJNo	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:07 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/PXFCTBbFnY http://t.co/PI8cWqDzg7	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:09 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/YAPiO0zyz7 http://t.co/GdkcP2k8DK	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:12 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/oWp4DC4v5M http://t.co/z1Jewzc9k6	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:13 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/duH3V4B60t http://t.co/da3mJ9rxbo	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:14 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/8B6DXVYV3i http://t.co/HC2UDc3O7s	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:15 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/GxwjMKEIKw http://t.co/ecmAp1J92D	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:19 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/8PGSdWdDne http://t.co/NNVqXVE5C8	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:21 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/4BP2EOieMN http://t.co/xyNzmDyuTm	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:23 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/u3n4GRO1yb http://t.co/UA1GTK3CKp	CHEVROLET	Company	neutral	1	0.0	0.33	Sun Apr 26 03:49:25 +0000 2015	0
+NY	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sun Apr 26 03:50:19 +0000 2015	0
+NJ	I'm renting a Ferrari for prom :)	FERRARI	Company	positive	1	0.374817	0.33	Sun Apr 26 03:50:36 +0000 2015	0
+NY	RT @zhuraVal: Today my dad and I realized that buying me a tesla would be cheaper than sending me to college.	TESLA	Company	positive	1	0.470987	0.33	Sun Apr 26 03:50:51 +0000 2015	0
+NY	CHEVRY WHITE LED BADGE DECAL LOGO EMBLEM STICKER LIGHT LAMP FOR CHEVROLET CRUZE - Full rea… http://t.co/lA2FDf1OI5 http://t.co/A7PRARiZjS	CHEVROLET	Automobile	positive	1	0.249517	0.33	Sun Apr 26 03:51:10 +0000 2015	0
+NY	CHEVRY WHITE LED BADGE DECAL LOGO EMBLEM STICKER LIGHT LAMP FOR CHEVROLET CRUZE - Full rea… http://t.co/Ewxz3bBXvF http://t.co/cILwx794Oj	CHEVROLET	Automobile	positive	1	0.249517	0.33	Sun Apr 26 03:51:13 +0000 2015	0
+NY	Dodge : Grand Caravan SXT 6 MONTH WARRANTY 2007 dodge grand caravan 3.8 sxt 6 month warranty… http://t.co/2c74OnvYQq	DODGE	Company	negative	1	-0.365423	0.33	Sun Apr 26 03:51:29 +0000 2015	0
+NY	CHEVRY WHITE LED BADGE DECAL LOGO EMBLEM STICKER LIGHT LAMP FOR CHEVROLET CRUZE - Full rea… http://t.co/7ZIm1k5zSr http://t.co/nlgvmQ4joM	CHEVROLET	Automobile	positive	1	0.249517	0.33	Sun Apr 26 03:52:00 +0000 2015	0
+NY	CHEVRY WHITE LED BADGE DECAL LOGO EMBLEM STICKER LIGHT LAMP FOR CHEVROLET CRUZE - Full rea… http://t.co/wcJtoc72sc http://t.co/nDz6lpcaZp	CHEVROLET	Automobile	positive	1	0.249517	0.33	Sun Apr 26 03:52:02 +0000 2015	0
+NY	DIECAST RACING CHAMPION MINT~ CLASSIC 1932 FORD COUPE COLLECTIBLE~1:64~BOY/GIRL - Full rea… http://t.co/gqjZyP8Y6g http://t.co/jkC0VuibzH	FORD	Company	positive	1	0.380342	0.33	Sun Apr 26 17:50:11 +0000 2015	0
+NY	02-05 BMW E46 3-SERIES SEDAN 4DR LED REAR BRAKE TAIL LIGHTS LAMPS BLACK W/STRIP - Full rea… http://t.co/glcJv7U0ki http://t.co/pjqsxzb2KQ	BMW E46	Automobile	neutral	1	0.0	0.33	Sun Apr 26 17:50:21 +0000 2015	0
+CA	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/X6ZCbH9dNC	VOLVO	Company	positive	1	0.704981	0.936739	Sun Apr 26 17:50:28 +0000 2015	0
+VT	Who thought putting a jaguar emblem on a Volkswagen was a good idea?	VOLKSWAGEN	Company	positive	1	0.533835	0.33	Tue Apr 28 17:00:37 +0000 2015	0
+TX	The other day I saw a R/T Challenger get rekt by an Audi S4	AUDI S4	Automobile	neutral	1	0.0	0.33	Sun Apr 26 22:10:57 +0000 2015	0
+NY	$F:US Earnings Preview: Ford Investors' Patience Could Be Tested This Week #FORD MOTOR CO  http://t.co/aaE7PxJs2o #SP500	FORD INVESTORS	Company	neutral	1	0.0	0.33	Sun Apr 26 22:11:26 +0000 2015	0
+NY	$F:US Earnings Preview: Ford Investors' Patience Could Be Tested This Week #FORD MOTOR CO  http://t.co/aaE7PxJs2o #SP500	FORD MOTOR CO	Company	neutral	1	0.0	0.33	Sun Apr 26 22:11:26 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/UZ2vYfpsZJ	CHRYSLER	Company	negative	2	-0.236822	0.33	Sun Apr 26 22:13:06 +0000 2015	0
+NY	BMW : 6-Series SPORT 2009 bmw 650 i no reserve leather convertible navi 20 wheels heated… http://t.co/jqJ4HV1Ouq	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 22:13:08 +0000 2015	0
+NY	BMW : 6-Series SPORT 2009 bmw 650 i no reserve leather convertible navi 20 wheels heated… http://t.co/jqJ4HV1Ouq	BMW 650	Automobile	neutral	1	0.0	0.33	Sun Apr 26 22:13:08 +0000 2015	0
+NY	BMW : 3-Series Wagon BMW E30 325i 5 SPEED MANUAL STATION WAGON EURO TOURING RHD 17" RIMS… http://t.co/YEiWN0izhk	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 22:13:09 +0000 2015	0
+NY	BMW : 3-Series Wagon BMW E30 325i 5 SPEED MANUAL STATION WAGON EURO TOURING RHD 17" RIMS… http://t.co/YEiWN0izhk	BMW	Automobile	neutral	1	0.0	0.33	Sun Apr 26 22:13:09 +0000 2015	0
+GA	RT @loladesue: She was taken away in her, car Lexus RX 350 (red) licence plate Lagos FST 837DD in Akure, Ondo State. Please retweet http://…	LEXUS RX	Automobile	neutral	1	0.0	0.906926	Sun Apr 26 22:13:10 +0000 2015	0
+NY	Subaru : WRX Base 2014 subaru wrx wagon world rally blue with options - Full read by eBay… http://t.co/twvCV7snyo	SUBARU	Company	neutral	1	0.0	0.33	Sun Apr 26 22:13:11 +0000 2015	0
+NY	Ford Crull "Into the Corporeal" opens this Thurs 4/30 at @cburdengallery 6-8pm #chelsea #neosymbolist… https://t.co/Ds5tIByw1z	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 22:13:35 +0000 2015	0
+NY	2 Kansas Speedway Toyota Trundra 250 Nascar Camping World Truck Tickets 5/8/2015 - Full re… http://t.co/moOeUjMTok http://t.co/O3IUBNYBun	TOYOTA	Company	neutral	1	0.0	0.33	Sun Apr 26 15:19:56 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/QO2TZS0MRU http://t.co/zYp0zQpuOV	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 15:19:56 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/xwQ5XJyK9f http://t.co/4aAspD83At	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 15:20:05 +0000 2015	0
+NY	Ford : E-Series Van Commercial Handicap Self Loading Wheelchair Van Tuscany Conversion UVL… http://t.co/PbcUvQkuuC http://t.co/HqAaRn5IA1	FORD	Company	neutral	1	0.0	0.33	Sun Apr 26 15:20:07 +0000 2015	0
+NY	1986 White Volvo RO Stinger Terex 175-55 Crane 17 Ton 55' Height - Full read by eBay: Price… http://t.co/AQ4b0x7dxJ	VOLVO	Company	neutral	1	0.0	0.33	Sun Apr 26 00:05:14 +0000 2015	0
+NY	Scalextric C2986 Vodafone McLaren Mercedes MP4-21 Heikki Kovalainen No.2 - Full read by eBay http://t.co/JxIiQjg4IW …	MCLAREN	Company	neutral	1	0.0	0.33	Sun Apr 26 00:05:35 +0000 2015	0
+ME	that Subaru ad with the little blonde kid doing adult stuff is so cute I wanna die	SUBARU	Company	negative	1	-0.571059	0.33	Tue Apr 28 01:44:09 +0000 2015	0
+FL	Bentley's Blueberry White Tea, 50 Count Tin, 2.8 Oz - http://t.co/7pI0BgYHGs http://t.co/6uzasb5OtA	BENTLEY	Company	positive	1	0.52	0.33	Tue Apr 28 01:44:11 +0000 2015	0
+CT	@T_bone_son @1forallall4one you don't have to but a wing isn't Subaru exclusive lmao	SUBARU	Company	negative	1	-0.255182	0.33	Tue Apr 28 01:44:16 +0000 2015	0
+IL	RT @sarcasticmommy4: I just saw a Ford Expedition limo &amp; only have one question: why?	FORD EXPEDITION	Automobile	positive	1	0.385039	0.33	Sun Apr 26 19:46:52 +0000 2015	0
+NY	XRARE Jeff Gordon #24 DUPONT 1993 "ROOKIE OF THE YEAR" Chevrolet SUBURBAN NASCAR - Full re… http://t.co/cOgIosJzTS http://t.co/i0LysvlrxH	CHEVROLET SUBURBAN	Automobile	neutral	1	0.0	0.33	Sun Apr 26 19:46:55 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/HCTfl4Xe84 http://t.co/UXhJxfVLTm	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:46:55 +0000 2015	0
+NY	XRARE Jeff Gordon #24 DUPONT 1993 "ROOKIE OF THE YEAR" Chevrolet SUBURBAN NASCAR - Full re… http://t.co/6NhX9N09kV http://t.co/JWhxVAFxk3	CHEVROLET SUBURBAN	Automobile	neutral	1	0.0	0.33	Sun Apr 26 19:46:57 +0000 2015	0
+NY	XRARE Jeff Gordon #24 DUPONT 1993 "ROOKIE OF THE YEAR" Chevrolet SUBURBAN NASCAR - Full re… http://t.co/LssPAJq6jX http://t.co/35xCqTJNrv	CHEVROLET SUBURBAN	Automobile	neutral	1	0.0	0.33	Sun Apr 26 19:47:14 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/y6M1ttHBS4 http://t.co/hELdMvWKyc	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:16 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/6orBYed4bF http://t.co/4SThrtteif	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:16 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/gIxBkXL8bN http://t.co/fsyTUn6eVi	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:22 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/UIaCC1BEOz http://t.co/UWHtKxkRuB	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:24 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/8MLKzNYccn http://t.co/eQkqjOB4B9	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:25 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/CxdNUPCkx1 http://t.co/G51swtJpaY	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:33 +0000 2015	0
+NY	BMW Motorcycle Boots size 12 - Full read by eBay http://t.co/JTVc73qhJi http://t.co/Po7N6Ld4vI	BMW	Company	neutral	1	0.0	0.33	Sun Apr 26 19:47:49 +0000 2015	0
+MN	I'm not a huge fan of Blake Griffin but that new Kia commercial is hilarious	KIA	Company	positive	1	0.48835	0.33	Sun Apr 26 19:48:22 +0000 2015	0
+AZ	Am a Mexican with a bmw http://t.co/uJLsitteTr	BMW	Company	positive	1	0.51479	0.33	Tue Apr 28 01:11:14 +0000 2015	0
+PA	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Sun Apr 26 22:23:17 +0000 2015	0
+FL	RT @Mark_Beech: There's a lady who's sure all that glitters is gold, and she's buying a BMW to heaven. http://t.co/rTp7d5xTeJ	BMW	Company	positive	1	0.517207	0.983066	Sun Apr 26 22:23:37 +0000 2015	0
+NY	King of Coin Rings made from genuine Morgan Dollar sizes 10 thru 12-1/2 - Full read by eBay http://t.co/NvTUXKWAoB http://t.co/K5kwe1B9Kf	MORGAN DOLLAR	Company	positive	1	0.263155	0.33	Sat Apr 25 16:13:06 +0000 2015	0
+NY	Roll of 20 - Morgan Dollar Design 1 oz. .999 Fine Silver Rounds - Full read by eBay http://t.co/aXFYDj2cNH http://t.co/ZeXQMCd6qJ	MORGAN DOLLAR DESIGN	Company	positive	1	0.418318	0.965118	Sat Apr 25 16:13:07 +0000 2015	0
+NY	King of Coin Rings made from genuine Morgan Dollar sizes 10 thru 12-1/2 - Full read by eBay http://t.co/IcxR5U3Vg8 http://t.co/KBG86vk9OZ	MORGAN DOLLAR	Company	positive	1	0.263155	0.33	Sat Apr 25 16:13:09 +0000 2015	0
+NY	Roll of 20 - Morgan Dollar Design 1 oz. .999 Fine Silver Rounds - Full read by eBay http://t.co/rJFQm8B9RU http://t.co/xQHEfy4JgA	MORGAN DOLLAR DESIGN	Company	positive	1	0.418318	0.965118	Sat Apr 25 16:13:09 +0000 2015	0
+NY	King of Coin Rings made from genuine Morgan Dollar sizes 10 thru 12-1/2 - Full read by eBay http://t.co/IOkMGpveA1 http://t.co/qkJpNVaYes	MORGAN DOLLAR	Company	positive	1	0.263155	0.33	Sat Apr 25 16:13:12 +0000 2015	0
+NY	Roll of 20 - Morgan Dollar Design 1 oz. .999 Fine Silver Rounds - Full read by eBay http://t.co/eHLXNQcetH http://t.co/OhLjSLpUJI	MORGAN DOLLAR DESIGN	Company	positive	1	0.418318	0.965118	Sat Apr 25 16:13:13 +0000 2015	0
+NY	Lot of 5 - 1 Troy Oz Silver Bars .999 Fine - Morgan Dollar Design SKU29507 - Full read by … http://t.co/FZXOOnJlXY http://t.co/l563gaNnmr	MORGAN DOLLAR DESIGN	Company	positive	1	0.212401	0.33	Sat Apr 25 16:13:14 +0000 2015	0
+NY	Lot of 5 - 1 Troy Oz Silver Bars .999 Fine - Morgan Dollar Design SKU29507 - Full read by … http://t.co/3g2yFvalJG http://t.co/yOKxJDCQEk	MORGAN DOLLAR DESIGN	Company	positive	1	0.212401	0.33	Sat Apr 25 16:13:15 +0000 2015	0
+NY	Lot of 5 - 1 Troy Oz Silver Bars .999 Fine - Morgan Dollar Design SKU29507 - Full read by … http://t.co/bPCkRqUdm0 http://t.co/Vf7M9x7t7f	MORGAN DOLLAR DESIGN	Company	positive	1	0.212401	0.33	Sat Apr 25 16:13:15 +0000 2015	0
+NY	King of Coin Rings made from genuine Morgan Dollar sizes 10 thru 12-1/2 - Full read by eBay http://t.co/QnvKMuO0dH http://t.co/eoagBCUFGA	MORGAN DOLLAR	Company	positive	1	0.263155	0.33	Sat Apr 25 16:13:27 +0000 2015	0
+NY	Roll of 20 - Morgan Dollar Design 1 oz. .999 Fine Silver Rounds - Full read by eBay http://t.co/4fDr0V6Cg6 http://t.co/4ytsyGQg7O	MORGAN DOLLAR DESIGN	Company	positive	1	0.418318	0.965118	Sat Apr 25 16:13:28 +0000 2015	0
+NY	Lot of 5 - 1 Troy Oz Silver Bars .999 Fine - Morgan Dollar Design SKU29507 - Full read by … http://t.co/vZN0kFwIIj http://t.co/dElYa3XvFK	MORGAN DOLLAR DESIGN	Company	positive	1	0.212401	0.33	Sat Apr 25 16:13:29 +0000 2015	0
+AZ	Eli Tomac is riding pretty fast in this practice session. #NewJerseySX #Honda http://t.co/w0JxR3cXWy	HONDA	Company	neutral	1	0.0	0.0977941	Sat Apr 25 16:14:26 +0000 2015	0
+NY	LONDON Reuters - Rolls-Royce has won a 9	ROLLS-ROYCE	Company	positive	1	0.451922	0.33	Sat Apr 25 16:14:30 +0000 2015	0
+TX	RT @OriginalSwooger: I need a LIC Austin ticket asap!! Help me out @TexasEDMFamily @AtxEdmFamily	LIC AUSTIN	Company	negative	1	-0.291021	0.971345	Sat Apr 25 16:14:47 +0000 2015	0
+KY	@philnickinson seeing this kills me!!  Still waiting on my 2015 @Hyundai Sonata to be updated.	HYUNDAI SONATA	Company	neutral	1	0.0	0.931391	Sat Apr 25 16:14:56 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/IpUibCvga0 http://t.co/6h3azGYf7g	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 16:14:56 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/5BAzMkyYWg http://t.co/PJxex2JLlz	CHEVROLET	Company	neutral	1	0.0	0.33	Sat Apr 25 16:14:58 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/Sr0Z8tglf6 http://t.co/XUrSVzy4ml	PONTIAC	Company	neutral	1	0.0	0.33	Sat Apr 25 16:14:58 +0000 2015	0
+NY	1936 FORD PICKUP SOLIDO  BARN FIND - Full read by eBay http://t.co/owahtFiSgq http://t.co/4h6H5XTR31	FORD	Company	neutral	1	0.0	0.33	Sat Apr 25 16:15:01 +0000 2015	0
+CT	WEBE108's Jay Michaels broadcasts live from the Biggest Used Car Sales Event of the Year at Audi, Porsche &amp;... http://t.co/w5HPCNPRrl	AUDI	Company	neutral	1	0.0	0.33	Sat Apr 25 16:15:02 +0000 2015	0
+NY	Chevrolet : Other Pickups 1/2 ton BARN FIND 1936 CHEVROLET 1/2 TON PICKUP TRUCK PATINA HOT… http://t.co/I8v0eDUJLA http://t.co/qE3R7vVTx6	CHEVROLET	Company	neutral	1	0.0	0.33	Sat Apr 25 16:15:02 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/0YjG52QcpL http://t.co/Ft36Mh6SDx	PONTIAC	Company	neutral	1	0.0	0.33	Sat Apr 25 16:15:03 +0000 2015	0
+NY	King of Coin Rings made from genuine Morgan Dollar sizes 10 thru 12-1/2 - Full read by eBay http://t.co/bC6GASKVZD http://t.co/evCBreBr5F	MORGAN DOLLAR	Company	positive	1	0.263155	0.33	Sat Apr 25 16:15:04 +0000 2015	0
+NY	Roll of 20 - Morgan Dollar Design 1 oz. .999 Fine Silver Rounds - Full read by eBay http://t.co/oD4LeBE6gX http://t.co/45C8Fcyqyf	MORGAN DOLLAR DESIGN	Company	positive	1	0.418318	0.965118	Sat Apr 25 16:15:04 +0000 2015	0
+NY	Lot of 5 - 1 Troy Oz Silver Bars .999 Fine - Morgan Dollar Design SKU29507 - Full read by … http://t.co/XNaI0rYKTI http://t.co/6DSv1596W7	MORGAN DOLLAR DESIGN	Company	positive	1	0.212401	0.33	Sat Apr 25 16:15:06 +0000 2015	0
+TX	We're doing top dollar trades over at Streater Smith Nissan. Come in an see u we can get you in a new vehicle for around the same payment.	STREATER SMITH NISSAN	Company	neutral	1	0.0	0.966367	Sat Apr 25 16:15:29 +0000 2015	0
+FL	Tesla introduces all-wheel drive Model S: Elon Musk’s Tesla Motors announced an all-wheel … http://t.co/HBOfEV1DHP http://t.co/Otq11JukWz	TESLA MOTORS	Company	positive	2	0.326547	0.33	Tue Apr 28 19:04:11 +0000 2015	0
+NC	You don't come across beauties like this everyday! A 1989 #Jeep Grand Wagoneer, looking great in black. #JeepFamily http://t.co/G8fpRXP2dt	JEEP GRAND WAGONEER	Automobile	neutral	1	0.0	0.949632	Tue Apr 28 19:04:19 +0000 2015	0
+OR	@allie_marie12 if I had a Bentley, you'd catch me in Barcelona on the beach with a drink in my hand. Not in DSC 335 right now haha.	BENTLEY	Company	positive	1	0.609223	0.861919	Tue Apr 28 19:04:57 +0000 2015	0
+NY	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/mOOehuglnL	VOLVO	Company	positive	1	0.704981	0.936739	Tue Apr 28 19:05:28 +0000 2015	0
+NY	Enter the @VolvoCarsUS  #TwilightDrivetoDreamSweepstakes for a chance to win a #Volvo XC60 Crossover &amp; other prizes! http://t.co/AKhLFn8Ont	VOLVO	Company	positive	1	0.704981	0.936739	Tue Apr 28 19:05:29 +0000 2015	0
+OR	[OR Live: Business] Ford's first quarter net income falls on strong dollar, lower sales http://t.co/lG5FsSjm1V	FORD	Company	negative	1	-0.45888	0.33	Tue Apr 28 19:06:10 +0000 2015	0
+OK	RT @JustinRSkedel: Those New BMW 2015 Models😏😏 🚗 hit me up in one	BMW	Company	neutral	1	0.0	0.33	Tue Apr 28 13:37:32 +0000 2015	0
+NY	Wocket Smart Wallet to start shipping pre-orders in May http://t.co/Af6ktWHguK  Sent via BlinkFeed	WOCKET SMART WALLET	Company	positive	1	0.624571	0.33	Tue Apr 28 13:37:46 +0000 2015	0
+MI	RT @nickmyers15: @Calvin_Hawkins o yeah daddy Mazda speed all over my face	MAZDA	Company	positive	1	0.277078	0.33	Tue Apr 28 13:38:20 +0000 2015	0
+OH	Ford's 1Q net income falls on strong dollar, lower sales http://t.co/JNFbbd1bNz	FORD	Company	negative	1	-0.632145	0.33	Tue Apr 28 11:22:07 +0000 2015	0
+OH	Honda predicts minimal profit growth http://t.co/RWe1NTup8G	HONDA	Company	negative	1	-0.200279	0.33	Tue Apr 28 11:22:08 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/mI1AUfYN46 http://t.co/jebdjHySVS	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:40:45 +0000 2015	0
+NY	FRANKLIN MINT 1965 SHELBY MUSTANG GT350 SIGNATURE EDITION 1:24 NEW IN BOX!! - Full read by… http://t.co/CeLvYkYSY1 http://t.co/i8WgZ0KSCX	FORD	Automobile	neutral	1	0.0	0.33	Sun Apr 26 01:40:45 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/PssKUwMAM3 http://t.co/7wY7GnwVMO	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:40:49 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/FwuwNWTgbR http://t.co/N1io80vH3u	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:40:58 +0000 2015	0
+NY	“@KeepingIttReall: Can't wait to get new interior and a fresh paint job on my Pontiac .” You got to let me buy that off you lol	PONTIAC	Company	positive	1	0.528163	0.33	Sun Apr 26 01:41:05 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/xCwJL4P17x http://t.co/ziRDW1UvMA	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:41:25 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/SJKzzO2lUe http://t.co/qbHFORfIUD	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:41:27 +0000 2015	0
+NY	FRANKLIN MINT 1965 SHELBY MUSTANG GT350 SIGNATURE EDITION 1:24 NEW IN BOX!! - Full read by… http://t.co/eNuJB7eOLl http://t.co/wg9EDRa2g5	FORD	Automobile	neutral	1	0.0	0.33	Sun Apr 26 01:41:32 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/QpSc1YOFHz http://t.co/fSnNxtaI7A	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:41:36 +0000 2015	0
+NY	FRANKLIN MINT 1965 SHELBY MUSTANG GT350 SIGNATURE EDITION 1:24 NEW IN BOX!! - Full read by… http://t.co/8PjspXmgWF http://t.co/D4y0iBBwct	FORD	Automobile	neutral	1	0.0	0.33	Sun Apr 26 01:41:36 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/lDfADp87P6 http://t.co/vBVLXhjhBB	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:41:37 +0000 2015	0
+NY	Ford Transit Day Van   62Plate - Full read by eBay http://t.co/A9SXXmJm8x http://t.co/onfDaMoHVy	FORD	Company	negative	1	-0.225181	0.33	Sun Apr 26 01:41:46 +0000 2015	0
+NY	RT @SexyAsFuckCars: White Audi http://t.co/DdZeJp6erA	AUDI	Company	positive	1	0.325074	0.33	Sun Apr 26 01:41:53 +0000 2015	0
+NY	BMW : 3-Series 325E Classic 1985 BMW 325e! Rare Rust-Free 5 Speed California Car! No Reser… http://t.co/A7IDGKTkhL http://t.co/zkdcItZct3	BMW	Company	neutral	2	0.0	0.891529	Sat Apr 25 17:58:14 +0000 2015	0
+NV	RT @OnStar: Take your online world with you anywhere in a Chevrolet connected by OnStar with 4G LTE. https://t.co/subggOw8aP	CHEVROLET	Company	positive	1	0.707289	0.33	Sat Apr 25 17:58:54 +0000 2015	0
+MD	RT @laurennyeatman: Bentley was last seen on 231 about 35 mins ago please if you see him pick him up!!! http://t.co/i4KYNPNPvf	BENTLEY	Company	neutral	1	0.0	0.973533	Sat Apr 25 17:58:58 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/mT52AAiN2p http://t.co/fgSJTTnRBR	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:10:23 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/tKfPCouZfq http://t.co/CAEEBLqY8A	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:10:26 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/ftBskoLW9a http://t.co/5jq8oDbQQT	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:10:34 +0000 2015	0
+NY	Chrysler : Other 4 Door sedan 1960 chrysler windsor golden lion 383 big fins exner styling… http://t.co/7tdzRFZzmu	CHRYSLER	Company	negative	2	-0.236822	0.33	Sun Apr 26 20:10:38 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/RgYF2TzzJE http://t.co/5yyo3JeLmn	PONTIAC	Company	neutral	1	0.0	0.33	Sun Apr 26 20:10:42 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/2BZGAM1ck0 http://t.co/tWSmcF2OWh	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:10:59 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/5wZD8NoS23 http://t.co/DqHUOLjf9f	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:03 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/rrH8SSD3XX http://t.co/mA38p2WzIP	PONTIAC	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:04 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/K4tA7BLJYl http://t.co/sJfHe49WQW	PONTIAC	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:06 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/iAWRWcwnGy http://t.co/IbmIrIW7fI	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:12 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/w9TaKQvggS http://t.co/2rA3ecO9P1	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:16 +0000 2015	0
+NY	Pontiac : Other Series 302 1932 pontiac series 302 barn find - Full read by eBay http://t.co/7cZqsdXN8G http://t.co/0dijp8uL9e	PONTIAC	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:17 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/OH0YkPXUzn http://t.co/w2XIBIT4f5	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:11:36 +0000 2015	0
+NE	RT @BiIlionaires: in love with this Audi http://t.co/JlbW6enYAL	AUDI	Company	positive	1	0.654852	0.33	Sun Apr 26 20:12:13 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/VaoyjyWrgY http://t.co/Z53zdnRe8U	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:12:19 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/yS0bSDBji7 http://t.co/SQOaOXKr6P	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:12:20 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/8brUjJ3S7k http://t.co/F3qU6GB5x3	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:12:25 +0000 2015	0
+NY	1/18 BBR FERRARI F12 MATT ABU DHABI BLUE LIMITED 20 PIECE DELUXE LEATHER BASE - Full read … http://t.co/PNeRUAN0pW http://t.co/8RGb2AFxq2	FERRARI	Company	neutral	1	0.0	0.33	Sun Apr 26 20:12:26 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/QSKVktaf8X http://t.co/P5C4hjoY0c	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:42:46 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/IMML3sJBj3 http://t.co/FhMl4Qv6z8	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:42:48 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/PS1StPRjjv http://t.co/esA6d9inID	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:42:54 +0000 2015	0
+NY	Ford : Taurus SE Sedan 4-Door 2006 ford taurus se sedan 4 door 3.0 l - Full read by eBay http://t.co/3SQxLaZORO http://t.co/QcxwLqlFND	FORD	Company	neutral	2	0.0	0.33	Mon Apr 27 15:43:10 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/TcYHZ5TGWd http://t.co/CyOhL55vQM	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:43:13 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/diUT1GGcnv http://t.co/f7YpgTW965	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:43:21 +0000 2015	0
+NY	Ford : Taurus SE Sedan 4-Door 2006 ford taurus se sedan 4 door 3.0 l - Full read by eBay http://t.co/KtILfxMuCv http://t.co/KvD3MU7nKN	FORD	Company	neutral	2	0.0	0.33	Mon Apr 27 15:43:26 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/FIgiCPM75W http://t.co/3JZUgyct1Y	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:43:57 +0000 2015	0
+NY	1990 FIAT PANDA SISLEY 4x4 classic  green MOT low mileage - Full read by eBay http://t.co/KLalIVNY0y http://t.co/QMuNXoOwUE	FIAT PANDA	Automobile	neutral	1	0.0	0.33	Mon Apr 27 15:44:11 +0000 2015	0

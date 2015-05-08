@@ -1,0 +1,507 @@
+AK	RHR, Nick Saban and boxing champ Deontay Wilder: It happened to promo Honda Indy Grand Prix of Alabama (PHOTOS) http://t.co/byizQSDIq6	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 23 12:32:47 +0000 2015	0
+CA	Jeep Wrangler Rubicon or a Benz? Finally getting my car in 2-3 weeks.	JEEP	Company	neutral	1	0.0	0.874978	Thu Apr 23 17:28:06 +0000 2015	0
+WV	Odds on McGowan striking out Suzuki has to be incredibly low	SUZUKI	Company	negative	1	-0.589053	0.33	Thu Apr 23 17:28:25 +0000 2015	0
+CA	A 2006 Chrysler 300 was just scanned near Tolleson, AZ 85353 http://t.co/Pa268hmek6 #ebaymotors #startup #ipad	CHRYSLER	Company	positive	2	0.32534	0.33	Thu Apr 23 17:28:55 +0000 2015	0
+WV	Lunch (@ Giant Eagle Supermarket in Latrobe, PA) https://t.co/KprGdsLLb6	GIANT EAGLE SUPERMARKET	Company	positive	1	0.341281	0.33	Thu Apr 23 17:30:10 +0000 2015	0
+NM	#Hospitality #Job alert: Hourly Team Members | SMART Restaurant Group | #Southlake, TX http://t.co/lgzXR9lvBI #restaurantjobs #Jobs	SMART RESTAURANT GROUP	Company	positive	1	0.552104	0.33	Wed Apr 22 20:31:35 +0000 2015	0
+WI	Love @audi 😍 @ Audi City  Lab https://t.co/fMGXMUneXC	AUDI	Company	positive	1	0.821194	0.33	Wed Apr 22 20:31:39 +0000 2015	0
+NM	"whats up nissan"	NISSAN	Company	neutral	1	0.0	0.33	Wed Apr 22 17:01:56 +0000 2015	0
+FL	A 2001 Kia Sportage was just scanned near Sebring, FL 33870 http://t.co/ACZACnVx3d #android #startup #1millionscans	KIA SPORTAGE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:02:18 +0000 2015	0
+TX	i was actually thinking about going to lic austin but then i remembered i work ALL DAY saturday. :/	LIC AUSTIN	Company	neutral	1	0.0	0.95091	Wed Apr 22 17:03:08 +0000 2015	0
+WY	@notadvcte like i want to pull up in a audi a year after i graduate and make them feel so stupid. hate people who say shit like that.	AUDI	Company	negative	1	-0.865567	0.33	Wed Apr 22 17:03:09 +0000 2015	0
+WY	Pontiac, Michigan tonight!  https://t.co/Ne0ave4DIM	PONTIAC	Company	neutral	1	0.0	0.997114	Wed Apr 22 17:03:15 +0000 2015	0
+WY	A 2005 BMW 3 Series was just scanned near Westwood, MA 02090 http://t.co/ACZACnVx3d #follow #ios #carfax	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 17:04:41 +0000 2015	0
+WY	“@BiIlionaires: Chrome BMW 😎 http://t.co/Ez3xXrU5og” 😍😍😍😍😍😍😍😍😍😍 in loooooove!!!	BMW	Automobile	positive	1	0.327312	0.33	Wed Apr 22 15:27:18 +0000 2015	0
+TX	A 2015 Chevrolet Tahoe was just scanned near Slidell, LA 70460 http://t.co/Pa268hmek6 #ipad #apple #ebaymotors	CHEVROLET TAHOE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:27:40 +0000 2015	0
+WV	A 2004 Ford Explorer Sport Trac was just scanned near Carbondale, PA 18407 http://t.co/ACZACnVx3d #usedcar #ipad #scanner	FORD EXPLORER SPORT TRAC	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:28:04 +0000 2015	0
+WA	A 2005 Honda CR-V was just scanned near Everett, WA 98204 http://t.co/ACZACnVx3d #vinny_says #myvinny #whatsyourcarworth	HONDA CR-V	Automobile	neutral	2	0.0	0.33	Wed Apr 22 15:28:15 +0000 2015	0
+WV	A 2007 Lexus ES 350 was just scanned near Cleveland, OH 44134 http://t.co/Pa268hmek6 #ebaymotors #myvinny #iphone	LEXUS	Company	neutral	1	0.0	0.33	Wed Apr 22 15:28:32 +0000 2015	0
+AK	@remckane pleasure was all ours. Mercury beaucoup.	MERCURY	Company	neutral	1	0.0	0.936652	Thu Apr 23 14:03:41 +0000 2015	0
+WY	A 2004 Chevrolet Silverado 1500 was just scanned near Fort Wayne, IN 46818 http://t.co/ACZACnVx3d #vinny #autocheck #cars	CHEVROLET SILVERADO	Automobile	neutral	1	0.0	0.33	Thu Apr 23 14:05:06 +0000 2015	0
+TX	@GemmaAnnIngram This guy had a prismatic BMW yesterday, one of my customers. IT LOOKED SO COOL!	BMW	Company	positive	1	0.518765	0.985407	Thu Apr 23 14:05:21 +0000 2015	0
+TX	Get a taste of Austin Food &amp; Wine Festival http://t.co/VxceAupZAl	AUSTIN FOOD	Company	positive	1	0.248587	0.33	Thu Apr 23 06:11:20 +0000 2015	0
+CA	Took to bmw for a late night cruise	BMW	Company	neutral	1	0.0	0.33	Thu Apr 23 06:13:39 +0000 2015	0
+FL	A 2009 Kia Rio was just scanned near Tallahassee, FL 32301 http://t.co/Pa268hmek6 #startup #iphone #buyacar	KIA RIO	Automobile	neutral	2	0.0	0.33	Thu Apr 23 17:17:59 +0000 2015	0
+NM	A 2004 Ford Focus was just scanned near Asheboro, NC 27205 http://t.co/ACZACnVx3d #carfax #vinny_scans #ios	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 17:19:10 +0000 2015	0
+NM	A 1996 Honda Civic was just scanned near Mount Pleasant, SC 29464 http://t.co/ACZACnVx3d #vinny_says #kbb #follow	HONDA	Automobile	positive	1	0.219967	0.33	Thu Apr 23 17:19:29 +0000 2015	0
+NM	A 1996 Honda Civic was just scanned near Mount Pleasant, SC 29464 http://t.co/ACZACnVx3d #vinny_says #kbb #follow	HONDA	Company	positive	1	0.219967	0.33	Thu Apr 23 17:19:29 +0000 2015	0
+CA	A 1997 Ford Explorer was just scanned near Montebello, CA 90640 http://t.co/Pa268hmek6 #startup #autocheck #myvinny	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 17:19:36 +0000 2015	0
+WV	A 2014 GMC Sierra 1500 was just scanned near East Windsor, CT 06088 http://t.co/Pa268hmek6 #iphone #vinnychallenge	GMC SIERRA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 13:22:39 +0000 2015	0
+WI	Wcw my beautiful strong trooper little cousin Kia. Strongest little girl I know! http://t.co/0hLoRov6AH	KIA	Company	neutral	1	0.0	0.942788	Wed Apr 22 13:23:55 +0000 2015	0
+WY	I'm at Honda Bloomfield - @honda_bf_used in Bloomfield Hills, MI https://t.co/YtFOgP3UqB	HONDA BLOOMFIELD	Company	neutral	1	0.0	0.33	Wed Apr 22 14:52:31 +0000 2015	0
+CA	Are you one of those Honda helper girls..lmfao!	HONDA	Company	positive	1	0.204164	0.33	Wed Apr 22 14:52:39 +0000 2015	0
+WV	A 2005 Mitsubishi Endeavor was just scanned near Mechanicsburg, PA 17055 http://t.co/ACZACnVx3d #follow #ios #buyacar	MITSUBISHI ENDEAVOR	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:52:50 +0000 2015	0
+FL	A 1997 Ford Explorer was just scanned near Gulf Breeze, FL 32563 http://t.co/ACZACnVx3d #ipad #retweet #vinny	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 14:53:46 +0000 2015	0
+WV	A 2013 Chrysler 200 was just scanned near Huntington Station, NY 11746 http://t.co/ACZACnVx3d #autocheck #scanner #ipad	CHRYSLER 200	Automobile	neutral	1	0.0	0.33	Wed Apr 22 12:23:54 +0000 2015	0
+WV	'Why the fuck is that Muslim driving a fucking Toyota.  Where's his fucking camel...?"	TOYOTA	Company	negative	1	-0.848921	0.955218	Thu Apr 23 19:18:34 +0000 2015	0
+NM	A 2005 Ford Mustang was just scanned near Bluff City, TN 37618 http://t.co/Pa268hmek6 #vinny_scans #sellyourcar	FORD	Automobile	neutral	2	0.0	0.33	Thu Apr 23 19:19:53 +0000 2015	0
+CA	Can Tesla Motors speed the transition to electric cars? http://t.co/nHwZw5Xq5P via @teslaccessories #ElonMuskIsTonyStark	TESLA MOTORS	Company	positive	1	0.647149	0.99254	Wed Apr 22 23:58:57 +0000 2015	0
+NM	Check out this vintage #BMW. So cool. #MotoChat @ Smokin Joe's Barbque Townsend https://t.co/BayKAHNUFc	BMW	Company	positive	1	0.726825	0.240461	Wed Apr 22 23:59:20 +0000 2015	0
+NM	Kia and Dionnas room nasty lol	KIA	Company	negative	1	-0.727408	0.33	Wed Apr 22 23:59:48 +0000 2015	0
+AK	MX-5 Bluebird winning 1st place in the fully modified Mazda MX-5 Mk1 category at the MX-5 Owners Club… https://t.co/zjntOIx7MJ	MAZDA MX-5	Automobile	positive	1	0.314751	0.33	Wed Apr 22 20:22:02 +0000 2015	0
+WV	A 2015 Nissan Rogue was just scanned near Woodbury, NJ 08096 http://t.co/ACZACnVx3d #whatsyourcarworth #vinny_says	NISSAN ROGUE	Automobile	negative	1	-0.444689	0.33	Wed Apr 22 20:22:56 +0000 2015	0
+FL	Infiniti treat a nigga like a king	INFINITI	Company	positive	1	0.742936	0.33	Wed Apr 22 20:23:40 +0000 2015	0
+NV	@CelticGhostHunt @Zak_Bagans @BBCNews Keys gone again. All signs say trade-in PARANORMAL @Toyota #prius for another car.	TOYOTA	Company	positive	1	0.32931	0.890217	Wed Apr 22 20:07:30 +0000 2015	0
+WV	I miss ridin dirty in @ItsGoTime's white Ford Explorer	FORD	Company	negative	1	-0.775682	0.33	Wed Apr 22 20:07:52 +0000 2015	0
+CA	A 2005 Infiniti G35 was just scanned near Tempe, AZ 85283 http://t.co/Pa268hmek6 #startup #kbb #follow	INFINITI G35	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:08:38 +0000 2015	0
+AK	Beautiful pre war Aston Martin Le Mans detailed &amp; off to Italy for the @millemiglialive #reflectingthebestofbritish http://t.co/phhP6oEmyP	MERCEDES	Automobile	positive	1	0.506891	0.33	Wed Apr 22 20:08:41 +0000 2015	0
+NE	A 2014 Ford F-350 Super Duty was just scanned near Minden, NE 68959 http://t.co/ACZACnVx3d #vinnychallenge #usedcar	FORD F-350	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:09:25 +0000 2015	0
+AK	@OlafTufte08 You have a great support in @Toyota so #liveyourdream You earn IT!!! #cheering4you #Rowing4RIOGold	TOYOTA	Company	positive	1	0.804432	0.33	Wed Apr 22 20:09:36 +0000 2015	0
+TX	A 2005 Chevrolet Malibu was just scanned near Lufkin, TX 75904 http://t.co/Pa268hmek6 #iphone #retweet #whatsyourcarworth	CHEVROLET MALIBU	Automobile	neutral	2	0.0	0.33	Thu Apr 23 21:43:32 +0000 2015	0
+FL	Ford has me pissed with that 0 she gave me for Cell City even tho i did it😐	FORD	Company	negative	1	-0.806262	0.33	Thu Apr 23 21:43:33 +0000 2015	0
+OR	Trade my car for a Lexus is300 or nahhh?	LEXUS	Company	neutral	1	0.0	0.33	Thu Apr 23 21:43:38 +0000 2015	0
+WV	your big brother skrilla the don deala never humbled himself i learned from him my son pulled out bentley and all da https://t.co/HqfYhawiBX	BENTLEY	Company	positive	1	0.212899	0.33	Thu Apr 23 21:43:57 +0000 2015	0
+TX	A 2001 Honda Passport was just scanned near Lufkin, TX 75904 http://t.co/ACZACnVx3d #usedcar #android #cars	HONDA PASSPORT	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:44:37 +0000 2015	0
+AK	BMW &amp; MINI Experience in Rotterdam door @BusinessclubBBN! #Netwerken #Businessclub #DrivingExperience http://t.co/704EtYYNVM	BMW	Company	positive	1	0.47972	0.33	Thu Apr 23 21:45:28 +0000 2015	0
+WI	A 2002 BMW 325i 😭 would be nice for graduation	BMW	Company	positive	1	0.522182	0.33	Thu Apr 23 12:54:44 +0000 2015	0
+WV	GM, Ford, And Others Want to Make Working on Your Own Car Illegal http://t.co/X6ANxXhzVx	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 12:55:02 +0000 2015	0
+WV	A 2013 Subaru Forester was just scanned near West Long Branch, NJ 07764 http://t.co/ACZACnVx3d #carshopping #myvinny	SUBARU FORESTER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 13:46:49 +0000 2015	0
+AK	So Volvo IT will be sold, wondering If not TCS want to buy	VOLVO	Company	negative	1	-0.413388	0.33	Wed Apr 22 13:47:13 +0000 2015	0
+WV	Lmfao whoever has that white bmw boutta be tight they left their car on	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 13:48:21 +0000 2015	0
+NM	A 2014 Mitsubishi Outlander was just scanned near Greensboro, NC 27409 http://t.co/ACZACnVx3d #kbb #ebaymotors #scanner	MITSUBISHI OUTLANDER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 13:48:23 +0000 2015	0
+WY	@MaxMadsenAurora 2001 Honda civic. Stick shift baby! Ayyyyyyy	HONDA	Company	positive	1	0.269014	0.99136	Wed Apr 22 13:48:42 +0000 2015	0
+NV	I'm at Silverthorne Subaru in Silverthorne, CO https://t.co/94F1rnykQ6	SILVERTHORNE SUBARU	Company	positive	1	0.213554	0.33	Wed Apr 22 23:24:49 +0000 2015	0
+FL	A 2004 Nissan Altima was just scanned near Pompano Beach, FL 33069 http://t.co/ACZACnVx3d #AreYouTheOne #follow	NISSAN ALTIMA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:06:35 +0000 2015	0
+CA	A 2005 Chevrolet Malibu was just scanned near Phoenix, AZ 85009 http://t.co/Pa268hmek6 #retweet #vinny #vinnychallenge	CHEVROLET MALIBU	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:07:02 +0000 2015	0
+FL	How are you gonna ask me if this is Audi when I just finished saying "it's a wonderful day in prestige audi" if you don't getcho gohdamn...	AUDI	Company	positive	2	0.609421	0.33	Wed Apr 22 19:07:10 +0000 2015	0
+NV	@jon_junior_88 @stewpotfan @KimKawata @KosibaK used to be Buick dealership now it's going to be Sam Swope Volkswagen. there big in this area	BUICK	Company	positive	1	0.700948	0.33	Thu Apr 23 21:09:11 +0000 2015	0
+NM	I wish I had a Honda Civic	HONDA	Company	negative	1	-0.30443	0.33	Thu Apr 23 21:11:29 +0000 2015	0
+WI	Tesla's Elon Musk didn't take a salary in 2014 http://t.co/r8LFX3gBgT	TESLA	Company	neutral	1	0.0	0.33	Thu Apr 23 21:03:31 +0000 2015	0
+NV	2006 Kia Spectra EX Sedan 4 Cylinder Gas Saver - $4995 http://t.co/4awOZyBItP @ Ramsey Motors https://t.co/2snHhDagaY	KIA SPECTRA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:03:32 +0000 2015	0
+NV	It's been almost four months since I've had my ford. 😊 http://t.co/rfzuwRAsHs	FORD	Company	negative	1	-0.368915	0.979142	Thu Apr 23 21:03:34 +0000 2015	0
+WI	@MasterTechVT No, currently driven a 04 Infiniti G35X	INFINITI	Company	positive	1	0.251728	0.33	Thu Apr 23 21:03:46 +0000 2015	0
+WI	Once I buy a house, my next step will be a GMC Sierra Denali &lt;33333	GMC SIERRA	Automobile	positive	1	0.267677	0.33	Thu Apr 23 21:05:55 +0000 2015	0
+NM	It's bout time for a whip.. Infiniti?	INFINITI	Company	positive	1	0.380971	0.984152	Wed Apr 22 17:31:30 +0000 2015	0
+NM	A 2002 Infiniti I35 was just scanned near Oklahoma City, OK 73127 http://t.co/ACZACnVx3d #ios #ilovevinny #scanner	INFINITI	Company	neutral	1	0.0	0.33	Wed Apr 22 17:32:36 +0000 2015	0
+WY	A 2003 Ford Mustang was just scanned near Cicero, IL 60804 http://t.co/ACZACnVx3d #startup #usedcar #kbb	FORD	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:32:41 +0000 2015	0
+OR	A 2005 Volvo V70 was just scanned near Portland, OR 97206 http://t.co/ACZACnVx3d #carfax #cars #myvinny	VOLVO V70	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:32:57 +0000 2015	0
+FL	A 2007 Mazda CX-7 was just scanned near Tampa, FL 33610 http://t.co/ACZACnVx3d #cars #whatsyourcarworth #vinny_says	MAZDA CX-7	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:33:07 +0000 2015	0
+NM	Toyota headquarters project doubles, expansion may or may not change job estimate http://t.co/7gIm4aJepm	TOYOTA	Company	positive	1	0.372504	0.33	Wed Apr 22 17:33:57 +0000 2015	0
+WV	Teatime at JP Morgan's house @ The Morgan Library &amp; Museum https://t.co/JJR10y9p4H	JP MORGAN	Company	positive	1	0.615009	0.33	Thu Apr 23 19:28:57 +0000 2015	0
+WV	A 2004 Chevrolet Venture was just scanned near Richmond, VA 23234 http://t.co/Pa268hmek6 #iphone #AreYouTheOne #startup	CHEVROLET VENTURE	Company	neutral	2	0.0	0.33	Thu Apr 23 19:29:38 +0000 2015	0
+WV	A 2005 Chevrolet Colorado was just scanned near Richmond, VA 23234 http://t.co/Pa268hmek6 #myvinny #ipad #retweet	CHEVROLET COLORADO	Automobile	neutral	2	0.0	0.33	Thu Apr 23 19:31:28 +0000 2015	0
+NM	@indiandeathlock But what if Suzuki does a surprise run in during the Bullet Club vs ROH All Stars match?	SUZUKI	Company	positive	1	0.393084	0.33	Wed Apr 22 20:11:36 +0000 2015	0
+CA	A 2000 Saturn S-Series was just scanned near Phoenix, AZ 85020 http://t.co/ACZACnVx3d #myvinny #retweet #iphone	SATURN S-SERIES	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:11:58 +0000 2015	0
+CA	A 1998 Saturn S-Series was just scanned near Sacramento, CA 95828 http://t.co/ACZACnVx3d #carfax #vinnychallenge #ios	SATURN S-SERIES	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:13:19 +0000 2015	0
+WA	A 2002 Toyota Prius was just scanned near Nisswa, MN 56468 http://t.co/Pa268hmek6 #sellyourcar #retweet #carfax	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 20:13:28 +0000 2015	0
+AK	Was behind an Audi R8 today @RyanMann27 #whatacar	AUDI	Automobile	positive	1	0.339401	0.33	Wed Apr 22 20:14:40 +0000 2015	0
+AK	Was behind an Audi R8 today @RyanMann27 #whatacar	AUDI	Company	positive	1	0.339401	0.33	Wed Apr 22 20:14:40 +0000 2015	0
+CA	A 2014 Kia Forte was just scanned near Sonora, CA 95370 http://t.co/ACZACnVx3d #retweet #kbb #ilovevinny	KIA FORTE	Company	neutral	1	0.0	0.33	Wed Apr 22 16:06:34 +0000 2015	0
+WV	Happy #EarthDay from #Infiniti! #Q60 #Hybrid It’s a different way of living, not just a different way of driving. http://t.co/XSkx9TBvFq	INFINITI	Company	positive	1	0.585789	0.966071	Wed Apr 22 19:22:39 +0000 2015	0
+NV	@rdharris55 @saveautohistory Pontiac had large crank journal 421, 428 (67-69) and finally 455 in 70'. Never a 427	PONTIAC	Company	neutral	1	0.0	0.979879	Wed Apr 22 19:23:27 +0000 2015	0
+CA	Set life in Thousand Oaks. #setlife #filmmaker #gripelectric #productionshoot @ Shaver Chrysler Jeep… https://t.co/2eWTasLO8U	CHRYSLER	Company	positive	1	0.264107	0.33	Wed Apr 22 19:23:56 +0000 2015	0
+CA	Great acoustic performance by Morgan Heritage at Streetlight Records @ Streetlight Records-Santa Cruz https://t.co/PXCksJNwS7	MORGAN HERITAGE	Company	positive	1	0.583243	0.33	Thu Apr 23 00:32:04 +0000 2015	0
+FL	A 1998 Ford Explorer was just scanned near Orlando, FL 32839 http://t.co/Pa268hmek6 #vinnychallenge #AreYouTheOne	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 00:34:35 +0000 2015	0
+WY	Bummed @Honda stopped making the Element. Though not such a big deal if this one keeps going forever. #170K http://t.co/VJFqa8Z2qN	HONDA	Company	negative	1	-0.829006	0.920833	Thu Apr 23 00:35:02 +0000 2015	0
+FL	Mish got the Audi back😏	AUDI	Company	negative	1	-0.283593	0.33	Thu Apr 23 19:48:50 +0000 2015	0
+WI	A 2001 Ford Windstar was just scanned near Manchester, NH 03102 http://t.co/Pa268hDPbE #ipad #myvinny #ebaymotors	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 19:49:00 +0000 2015	0
+NM	Time to tear it up! #gopro #crf450 #notweightlifting #honda #ford @ Carolina Adventure World https://t.co/suGsePMsid	HONDA	Company	positive	1	0.491881	0.333619	Thu Apr 23 19:49:09 +0000 2015	0
+WI	A 2009 Ford Focus was just scanned near Manchester, NH 03102 http://t.co/Pa268hDPbE #usedcar #1millionscans #apple	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 19:49:50 +0000 2015	0
+CA	A 1999 Honda Civic was just scanned near Santa Ana, CA 92706 http://t.co/Pa268hDPbE #follow #iphone #startup	HONDA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:50:23 +0000 2015	0
+CA	A 1999 Honda Civic was just scanned near Santa Ana, CA 92706 http://t.co/Pa268hDPbE #follow #iphone #startup	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 23 19:50:23 +0000 2015	0
+WI	A 2006 Chrysler 300 was just scanned near Manchester, NH 03102 http://t.co/ACZACnDVED #vinny_says #winacar #retweet	CHRYSLER	Company	neutral	1	0.0	0.33	Thu Apr 23 19:51:21 +0000 2015	0
+AK	Amazon trial delivers packages directly to Audi cars http://t.co/gJ4B5T0YQy via @AppyGeekUK	AUDI	Company	positive	1	0.812818	0.33	Wed Apr 22 18:52:33 +0000 2015	0
+WY	@AgentsofSHIELD @Lexus hilarious	LEXUS	Company	positive	1	0.917684	0.33	Wed Apr 22 18:53:20 +0000 2015	0
+NM	A 2013 Kia Optima was just scanned near Cumming, GA 30028 http://t.co/Pa268hmek6 #iphone #vinny_says #usedcar	KIA OPTIMA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:54:02 +0000 2015	0
+AK	Dammnn Betty why you always so angry ? Guuurl chill it's just ford.	FORD	Company	positive	1	0.577744	0.675393	Wed Apr 22 18:54:06 +0000 2015	0
+NM	A 2013 Nissan Sentra was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #retweet #vinny_scans #ebaymotors	NISSAN SENTRA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:54:16 +0000 2015	0
+WA	Tesla wants to power your home with a battery April 22 - CNNMoney http://t.co/yZt06EUt8r	TESLA	Company	neutral	1	0.0	0.33	Wed Apr 22 18:54:26 +0000 2015	0
+FL	A 1992 Lexus SC 400 was just scanned near Lakeland, FL 33803 http://t.co/Pa268hmek6 #android #apple #AreYouTheOne	LEXUS	Company	neutral	1	0.0	0.33	Thu Apr 23 14:06:08 +0000 2015	0
+WA	#SeattleFree Chevrolet Express or GMC Savana Rubber Floor (Issaquah): Hi, I have a take off rubber floor mat from… http://t.co/CccI0vzjYe	CHEVROLET EXPRESS	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:26:56 +0000 2015	0
+WA	#SeattleFree Chevrolet Express or GMC Savana Rubber Floor (Issaquah): Hi, I have a take off rubber floor mat from… http://t.co/CccI0vzjYe	GMC SAVANA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:26:56 +0000 2015	0
+WV	If you drive a BMW were I live theres a 75% chance youre a douche	BMW	Company	negative	1	-0.405897	0.33	Wed Apr 22 20:27:42 +0000 2015	0
+WI	Funniest women is Lexus's mom 😂😂😂😂	LEXUS	Company	positive	1	0.725298	0.33	Wed Apr 22 20:28:37 +0000 2015	0
+TX	the matte black infiniti in my neighborhood 😻😻😻	INFINITI	Company	positive	1	0.570377	0.33	Wed Apr 22 20:28:45 +0000 2015	0
+AK	Driver Power 2015: results revealed, Lexus IS wins | Auto Express 🎉🎉🎉🎉🎉 http://t.co/fqV3HDpiMb	LEXUS IS	Automobile	positive	1	0.454946	0.33	Wed Apr 22 08:18:20 +0000 2015	0
+AK	Newark today, looking forward to meeting potential candidates for our #Volkswagen site.	VOLKSWAGEN	Company	positive	1	0.541834	0.33	Wed Apr 22 08:18:44 +0000 2015	0
+NE	A 2002 Toyota Highlander was just scanned near Lewis Center, OH 43035 http://t.co/ACZACnVx3d #apple #carfax #cars	TOYOTA HIGHLANDER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:16:32 +0000 2015	0
+WV	A 2009 Hyundai Sonata was just scanned near Columbus, NJ 08022 http://t.co/ACZACnVx3d #autocheck #android #ebaymotors	HYUNDAI	Company	neutral	1	0.0	0.33	Wed Apr 22 15:16:51 +0000 2015	0
+WY	A 2001 Mitsubishi Eclipse was just scanned near Saint Cloud, MN 56304 http://t.co/Pa268hmek6 #kbb #ipad #AreYouTheOne	MITSUBISHI ECLIPSE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:17:39 +0000 2015	0
+WY	A 1999 Mazda B-Series Pickup was just scanned near Litchfield, NH 03052 http://t.co/Pa268hmek6 #iphone #ilovevinny	MAZDA B-SERIES	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:17:53 +0000 2015	0
+TX	Love watching @C2Wtweets! #C2WFR BMW FGS 700	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 15:18:42 +0000 2015	0
+WV	A 1999 Dodge Ram Wagon was just scanned near North Providence, RI 02904 http://t.co/ACZACnVx3d #AreYouTheOne #vinny_scans	RAM	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:18:43 +0000 2015	0
+TX	A 2004 Ford Explorer Sport Trac was just scanned near Live Oak, TX 78233 http://t.co/Pa268hDPbE #winacar #retweet #kbb	FORD EXPLORER SPORT TRAC	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:58:52 +0000 2015	0
+WY	Some guy in his nice ass Lexus tried racing me, rolled down his window n waved at me and blew me a kiss 😂😭	LEXUS	Company	negative	1	-0.38061	0.33	Thu Apr 23 19:59:12 +0000 2015	0
+TX	A 2006 GMC Sierra 1500 was just scanned near Conroe, TX 77301 http://t.co/Pa268hDPbE #vinny_scans #carfax #cars	GMC SIERRA	Automobile	positive	2	0.224799	0.33	Thu Apr 23 19:59:44 +0000 2015	0
+WV	You know that bitch that say 'maybach music' probably don't even get paid for all the times they use her voice..	MAYBACH MUSIC	Company	negative	1	-0.37147	0.33	Wed Apr 22 15:03:05 +0000 2015	0
+AK	Boy in a sweet shop at Bentley Motors http://t.co/BPw5alpWBU	BENTLEY MOTORS	Company	positive	1	0.669462	0.33	Wed Apr 22 15:03:10 +0000 2015	0
+WV	A 2006 Ford Mustang was just scanned near Mechanicsburg, PA 17055 http://t.co/ACZACnVx3d #vinny_scans #myvinny #ipad	FORD	Automobile	positive	2	0.249448	0.33	Wed Apr 22 15:04:33 +0000 2015	0
+WA	@HuluPlus i dont have a car or dog, and i dont work out. and i watch honda, daily burn, and some dog food commercials over and over	HONDA	Company	negative	1	-0.464126	0.33	Thu Apr 23 06:21:46 +0000 2015	0
+WV	Can't wait for the new keys to the Chrysler come in🙌🙌	CHRYSLER	Company	neutral	1	0.0	0.33	Thu Apr 23 06:22:30 +0000 2015	0
+NM	Lexus hair is sooooo cute😭😭😭😭😭😍😩	LEXUS	Company	neutral	1	0.0	0.33	Wed Apr 22 14:46:34 +0000 2015	0
+WV	( ( ( Just In ) ) ) 2013 Audi RS 5 V8 W/ 23K In Miles...HMU! #LuxuryHaus #StraightFuego #Audi #RS5 @… https://t.co/q83wXgzc0C	AUDI	Company	neutral	1	0.0	0.33	Wed Apr 22 14:46:41 +0000 2015	0
+CA	#freestuffOC Free tire fits Toyota Sienna (Westminster): New free tire outside of the garage http://t.co/K3qYPsUDKz	TOYOTA SIENNA	Automobile	positive	1	0.542689	0.33	Wed Apr 22 18:19:19 +0000 2015	0
+AK	Bentley boy 💙 http://t.co/K1wPAa34RU	BENTLEY	Company	positive	1	0.287763	0.33	Wed Apr 22 18:19:26 +0000 2015	0
+NM	A 2001 Nissan Quest was just scanned near Murfreesboro, TN 37127 http://t.co/ACZACnVx3d #apple #kbb #ios	NISSAN QUEST	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:56:37 +0000 2015	0
+TX	Happy BIRTHDAY  to my beautiful babe!!! #AUDIa4 @Audi 😘😘😘	AUDI	Company	positive	1	0.561189	0.882143	Wed Apr 22 18:57:01 +0000 2015	0
+NM	A 2010 Subaru Outback was just scanned near Cumming, GA 30028 http://t.co/Pa268hmek6 #android #myvinny #winacar	SUBARU OUTBACK	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:57:09 +0000 2015	0
+WI	Where do we find them?! 2009 - Toyota RAV4 SPORT | ONE OWNER | LOW KM! http://t.co/0uW1oRwvQW	TOYOTA RAV4	Automobile	negative	1	-0.242537	0.945182	Wed Apr 22 18:57:30 +0000 2015	0
+NM	A 2006 Nissan Xterra was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #retweet #AreYouTheOne #autocheck	NISSAN XTERRA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:58:56 +0000 2015	0
+NM	A 2014 Honda Civic was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #winacar #follow #vinny_scans	HONDA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:59:11 +0000 2015	0
+NM	A 2014 Honda Civic was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #winacar #follow #vinny_scans	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 18:59:11 +0000 2015	0
+FL	A 2010 Mercedes-Benz GLK-Class was just scanned near 50-78 Seminole Way, Fort Lauderdale http://t.co/ACZACnVx3d #carfax #scanner	MERCEDES-BENZ GLK-CLASS	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:59:27 +0000 2015	0
+CA	Morgan Heritage acoustic at Streetlight Records #strictlyroots @ Streetlight Records-Santa Cruz https://t.co/kTm55yfJII	MORGAN HERITAGE	Company	positive	1	0.221898	0.33	Thu Apr 23 00:27:03 +0000 2015	0
+TX	I was legit gonna steal that Lexus today	LEXUS	Company	neutral	1	0.0	0.33	Thu Apr 23 00:27:20 +0000 2015	0
+NM	@Mkpoyner beach day soon.✔️ Friday.  paint the honda ✖️ no ma'am. 😂	HONDA	Company	negative	1	-0.345268	0.934115	Wed Apr 22 21:03:40 +0000 2015	0
+WI	The mixed bag of frozen precipitation won't stand in the way of my seasonal tyre change at Trans Canada Nissan. Thanks #NissanCarCare	TRANS CANADA NISSAN	Company	negative	1	-0.480735	0.933932	Wed Apr 22 21:03:41 +0000 2015	0
+AK	Happy birthday to me! But I'm still in the office 😒 Fail (@ Ниссан Мэнуфэкчуринг Рус / Nissan Manufacturing Rus) https://t.co/oSkAAreeEo	NISSAN MANUFACTURING RUS	Company	neutral	1	0.0	0.930807	Wed Apr 22 21:04:26 +0000 2015	0
+FL	Cadillac the Standard of Luxury! Super low miles.Don't miss out, find your match today @AutoMatchUSA  @marcuslemonis http://t.co/AWLLYagfS2	CADILLAC	Company	positive	1	0.678768	0.969139	Wed Apr 22 13:33:52 +0000 2015	0
+AK	Hummer limousine shopping..... http://t.co/Et2TbwEpDt	HUMMER	Company	positive	1	0.618641	0.978045	Wed Apr 22 13:33:55 +0000 2015	0
+WI	Check out this great deal! 2012 - Toyota Camry XLE V6 | ONE LOCAL OWNER | ONLY 15,700 KM! http://t.co/rMQ0GoiPj4	TOYOTA	Company	neutral	1	0.0	0.766621	Thu Apr 23 18:48:05 +0000 2015	0
+NM	#SOLD - David from Columbia and his 2006 Honda Odyssey EX-L. #CarChoice #AnotherHappyBuyer… https://t.co/4SejFelDen	HONDA ODYSSEY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:42:31 +0000 2015	0
+NV	A 2013 Toyota Highlander was just scanned near Las Vegas, NV 89104 http://t.co/ACZACnVx3d #kbb #cars #myvinny	TOYOTA HIGHLANDER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:42:55 +0000 2015	0
+CA	1993 Toyota Supra from 'The Fast and the Furious' up for auction - New York… http://t.co/gBpSyfdKXX #Entertainment http://t.co/F0MMfFO5Gv	TOYOTA SUPRA	Automobile	negative	1	-0.329856	0.33	Wed Apr 22 18:43:23 +0000 2015	0
+NE	@tokenwhitedude @PeteThePlanner I'm st Tim Hortons in Urbana oh omw to visit Honda.	HONDA	Company	positive	1	0.310336	0.33	Thu Apr 23 11:53:09 +0000 2015	0
+TX	Just saw a beautiful, unmolested 2nd gen @Toyota #MR2 with a @blipshift "Apex Everything" &amp; @roadamerica outline sticker. #WinningAtLife 😎	TOYOTA	Company	positive	1	0.578294	0.960484	Thu Apr 23 11:54:58 +0000 2015	0
+WI	A 2011 Nissan JUKE was just scanned near Manchester, NH 03102 http://t.co/ACZACnDVED #winacar #kbb #buyacar	NISSAN JUKE	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:45:50 +0000 2015	0
+TX	#Katy, TX #Hospitality #Job: Supervisors/General Managers at SMART Restaurant Group http://t.co/sB2aISiqbQ #restaurantjobs #Jobs #Hiring	SMART RESTAURANT GROUP	Company	positive	1	0.584433	0.33	Thu Apr 23 19:46:20 +0000 2015	0
+NM	A 2002 GMC Envoy was just scanned near Lubbock, TX 79404 http://t.co/Pa268hmek6 #vinnychallenge #AreYouTheOne	GMC ENVOY	Company	neutral	1	0.0	0.33	Wed Apr 22 16:57:31 +0000 2015	0
+NM	Following BMW on Instagram just makes one dream!!	BMW	Company	positive	1	0.729078	0.33	Wed Apr 22 16:57:49 +0000 2015	0
+NM	A 2006 Nissan Altima was just scanned near Lubbock, TX 79404 http://t.co/Pa268hmek6 #vinnyapp #cars #startup	NISSAN ALTIMA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:58:02 +0000 2015	0
+TX	Austin tortilla co. bought by Chicago snack startup SkinnyPop http://t.co/BNUmVdeEFf	AUSTIN TORTILLA CO.	Company	positive	1	0.256059	0.33	Thu Apr 23 19:21:13 +0000 2015	0
+WI	Getting my drive clean emissions testing for my car done. (@ Ontario Chrysler Jeep Dodge) https://t.co/FWYDmWmo3h http://t.co/cVYiBYvSTg	CHRYSLER	Company	negative	1	-0.31896	0.932723	Wed Apr 22 19:41:39 +0000 2015	0
+WI	Getting my drive clean emissions testing for my car done. (@ Ontario Chrysler Jeep Dodge) https://t.co/FWYDmWmo3h http://t.co/cVYiBYvSTg	JEEP	Automobile	negative	1	-0.31896	0.782377	Wed Apr 22 19:41:39 +0000 2015	0
+WI	Getting my drive clean emissions testing for my car done. (@ Ontario Chrysler Jeep Dodge) https://t.co/FWYDmWmo3h http://t.co/cVYiBYvSTg	DODGE	Automobile	negative	1	-0.31896	0.729834	Wed Apr 22 19:41:39 +0000 2015	0
+TX	"TO ALL THE TOYOTA TUNDRA LOVERS"  RIM PROS OF METAIRIE HAS THE HOTTEST 20" LRG MATTE BLACK AND… https://t.co/WxbYTlZm5k	TOYOTA TUNDRA	Automobile	positive	1	0.601641	0.33	Wed Apr 22 19:42:26 +0000 2015	0
+TX	This week on #EBL we're road tripping to her SA store in the @Ford Expedition, making fun stops @Whataburger @bucees http://t.co/JcKbXcYYCz	FORD EXPEDITION	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:44:13 +0000 2015	0
+FL	A 2008 Dodge Caliber was just scanned near Fort Lauderdale, FL 33309 http://t.co/Pa268hmek6 #myvinny #vinny_says #kbb	DODGE CALIBER	Automobile	neutral	2	0.0	0.33	Thu Apr 23 13:13:19 +0000 2015	0
+WY	A 2003 Ford F-350 Super Duty was just scanned near Newport, MI 48166 http://t.co/ACZACnVx3d #vinny_scans #cars #vinny_says	FORD F-350	Automobile	neutral	1	0.0	0.33	Thu Apr 23 22:36:22 +0000 2015	0
+WI	#TBT 1971 #Volvo P1800 classic motor not found in #Ontario too often http://t.co/AUKln7vO7f	VOLVO	Company	neutral	1	0.0	0.33	Thu Apr 23 18:38:11 +0000 2015	0
+WV	Jamming so hard to this album - takes me back to cruising in the Volvo wagon in 09!! @sargarsouth http://t.co/3ujnz5RhNG	VOLVO	Company	positive	1	0.335979	0.33	Thu Apr 23 21:13:33 +0000 2015	0
+TX	#LouisianaCarSalesman 2013 Chevrolet Camaro LT w/ 23,514 miles... $22,760!!! To make your request on… https://t.co/kkucnISkta	CHEVROLET	Automobile	positive	1	0.358679	0.862546	Thu Apr 23 21:14:18 +0000 2015	0
+FL	Fuckers are always talking bout how they love their foreign ass cars then they roll up in a VW or a Nissan. U the cool ones.	NISSAN	Company	positive	1	0.297291	0.831013	Thu Apr 23 10:43:32 +0000 2015	0
+NM	A 2000 Nissan Xterra was just scanned near Greeneville, TN 37745 http://t.co/ACZACnVx3d #vinny_scans #iphone #ilovevinny	NISSAN XTERRA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 15:56:50 +0000 2015	0
+WY	Would love to have a key fob like this lexus 😉 #ArtOfLexus @ Lexus of Lansing https://t.co/2aJXlH0Dy5	LEXUS	Company	positive	1	0.777257	0.33	Wed Apr 22 15:57:01 +0000 2015	0
+WA	Amazon trial delivers packages directly to Audi cars - Engadget http://t.co/mVcREYfZXm #Amazon • $AMZN http://t.co/WdYoOXoyiB	AUDI	Company	positive	1	0.563152	0.33	Wed Apr 22 15:57:12 +0000 2015	0
+NV	I'm at Silverthorne Subaru in Silverthorne, CO https://t.co/YYVYBSw2Vj	SILVERTHORNE SUBARU	Company	positive	1	0.213554	0.33	Wed Apr 22 15:57:51 +0000 2015	0
+FL	@meagann_kingg can this be Bentley today plz &amp; thank u  https://t.co/mA2wnBPs6y	BENTLEY	Company	positive	1	0.729594	0.33	Wed Apr 22 15:58:25 +0000 2015	0
+NM	Idk I guess I'm kind of a Mercury guy	MERCURY	Company	negative	1	-0.465232	0.33	Wed Apr 22 23:02:53 +0000 2015	0
+WY	A 2008 Honda Civic was just scanned near Chicago, IL 60647 http://t.co/ACZACnVx3d #scanner #follow #vinnyapp	HONDA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 23:03:49 +0000 2015	0
+WY	A 2008 Honda Civic was just scanned near Chicago, IL 60647 http://t.co/ACZACnVx3d #scanner #follow #vinnyapp	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 23:03:49 +0000 2015	0
+WV	“@SexyAsFuckCars: BMW i8 🙌🏽 http://t.co/vL6Z1zyrty” oh my gawd 😻💦	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 23:03:55 +0000 2015	0
+NM	A 2007 Mitsubishi Lancer was just scanned near Bristol, VA 24202 http://t.co/ACZACnDVED #ios #scanner #apple	MITSUBISHI	Company	neutral	1	0.0	0.33	Wed Apr 22 22:22:57 +0000 2015	0
+NM	Something's gotta give 🎶 @ NC Music Factory - the Fillmore https://t.co/VvfdRWh89G	HONDA	Company	positive	1	0.332527	0.33	Wed Apr 22 22:23:22 +0000 2015	0
+CA	VIA CHP: Toyota Prius traveling EB in the WB fast lane.  The Prius collided head on with a Ford pick up. @News10_CA	TOYOTA	Company	positive	1	0.551711	0.882573	Wed Apr 22 11:21:34 +0000 2015	0
+CA	A 2006 Toyota Matrix was just scanned near Alamo, CA 94507 http://t.co/ACZACnVx3d #vinny #AreYouTheOne #winacar	TOYOTA MATRIX	Automobile	neutral	1	0.0	0.33	Thu Apr 23 20:33:41 +0000 2015	0
+WV	Honda 929 r for sail 4500 all custom parts an paint job an it runs on jet fuel	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 23 20:33:52 +0000 2015	0
+NM	KIA of Conyers Conyers, GA Free Test Drive http://t.co/NS6dZAgAhr Conyers  #coupon	KIA	Company	neutral	1	0.0	0.33	Thu Apr 23 20:34:03 +0000 2015	0
+WY	A 2002 BMW 3 Series was just scanned near Roscoe, IL 61073 http://t.co/ACZACnVx3d #follow #ios #vinnyapp	BMW	Company	neutral	1	0.0	0.33	Thu Apr 23 20:34:05 +0000 2015	0
+WY	Lyons Toyota &amp; Dodge Mason City, IA Visit Our Website! http://t.co/9uRYJTQ0Os MasonCity Auto Dealers #coupon	LYONS TOYOTA	Company	positive	1	0.526902	0.33	Thu Apr 23 20:34:26 +0000 2015	0
+WY	A 2000 Jaguar S-Type was just scanned near Osceola, IN 46561 http://t.co/ACZACnVx3d #ebaymotors #carshopping #carfax	JAGUAR S-TYPE	Automobile	neutral	1	0.0	0.33	Thu Apr 23 20:35:40 +0000 2015	0
+WV	Anybody want a 2004 Volkswagen convertible better?	VOLKSWAGEN	Company	positive	1	0.347719	0.33	Thu Apr 23 20:36:00 +0000 2015	0
+FL	Just a few of the #AJWTeam about to head over the the Mercedes-Benz Corporate Run! Hopefully the… https://t.co/Suwdv48ag8	MERCEDES-BENZ	Company	neutral	1	0.0	0.95841	Thu Apr 23 20:36:40 +0000 2015	0
+WI	A 2008 Ford F-150 was just scanned near Princeton, WI 54968 http://t.co/Pa268hmek6 #autocheck #vinny #winacar	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 16:07:02 +0000 2015	0
+NV	A 2002 Mercury Sable was just scanned near Orem, UT 84058 http://t.co/Pa268hmek6 #kbb #iphone #myvinny	MERCURY SABLE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:07:26 +0000 2015	0
+NV	A 2012 Lexus RX 350 was just scanned near 9636 Cincinnati Columbus Road, Cincinnati http://t.co/ACZACnVx3d #ipad #vinny #winacar	LEXUS RX	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:07:30 +0000 2015	0
+WV	A 2002 Volkswagen Golf was just scanned near Sterling, VA 20166 http://t.co/Pa268hmek6 #follow #ebaymotors #ilovevinny	VOLKSWAGEN GOLF	Company	neutral	1	0.0	0.33	Wed Apr 22 16:07:40 +0000 2015	0
+NM	A 2001 Nissan Frontier was just scanned near Elkin, NC 28621 http://t.co/Pa268hDPbE #apple #kbb #cars	NISSAN FRONTIER	Automobile	neutral	2	0.0	0.33	Wed Apr 22 16:07:47 +0000 2015	0
+FL	A 2006 Chevrolet Malibu Maxx was just scanned near Orlando, FL 32824 http://t.co/ACZACnVx3d #ilovevinny #winacar #ios	CHEVROLET MALIBU	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:08:43 +0000 2015	0
+TX	Forget the drones - some @Audi's in Munich are getting @amazon #Prime deliveries right to their trunks!! http://t.co/cmZslHVa4z	AUDI	Company	positive	1	0.325153	0.272143	Wed Apr 22 16:09:14 +0000 2015	0
+WV	A 2014 GMC Sierra 1500 was just scanned near East Windsor, CT 06088 http://t.co/ACZACnVx3d #vinny_scans #iphone #ios	GMC SIERRA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 13:21:38 +0000 2015	0
+WA	Another beautiful day at the office ☀ #humpday @ Eagle Creek Software https://t.co/EFeR9c8xMS	EAGLE CREEK SOFTWARE	Company	positive	1	0.563743	0.33	Wed Apr 22 13:22:22 +0000 2015	0
+WY	A 2009 Nissan Murano was just scanned near Chicago, IL 60639 http://t.co/ACZACnVx3d #ilovevinny #vinny_scans	NISSAN	Company	neutral	1	0.0	0.33	Wed Apr 22 15:38:33 +0000 2015	0
+NM	Ima proud cadillac owner😁 but i still love to whip a truck 🚙	KIA	Company	positive	1	0.744802	0.33	Wed Apr 22 15:38:37 +0000 2015	0
+WI	@liltubz_51 what kind of audi does he have	AUDI	Company	positive	1	0.717206	0.33	Wed Apr 22 15:38:44 +0000 2015	0
+NV	A 2004 Cadillac DeVille was just scanned near West Chester Township, OH 45069 http://t.co/Pa268hmek6 #myvinny #ipad #vinnyapp	CADILLAC DEVILLE	Automobile	neutral	1	0.0	0.33	Thu Apr 23 13:49:06 +0000 2015	0
+WY	Chevrolet Detroit Belle Isle Grand Prix and the City of Windsor Announce Renewed Partnership.   In… https://t.co/OTj8fxAcBt	CHEVROLET	Company	positive	1	0.626554	0.317198	Thu Apr 23 13:49:26 +0000 2015	0
+FL	The whole squad ready to go! Running the Mercedes-Benz Corporate Run in downtown Miami. #MBCR2015 @… https://t.co/tSMZAlyXC2	MERCEDES-BENZ	Company	positive	1	0.400541	0.950809	Thu Apr 23 21:35:40 +0000 2015	0
+WV	Cadillac Records is a phenomenal movie!	CADILLAC RECORDS	Company	positive	2	0.773552	0.33	Wed Apr 22 08:02:07 +0000 2015	0
+NM	A 2006 BMW X3 was just scanned near 11028 Parkside Drive, Knoxville http://t.co/ACZACnVx3d #ios #carshopping #autocheck	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 14:11:21 +0000 2015	0
+NM	A 2003 Audi A4 was just scanned near Gainesville, GA 30507 http://t.co/Pa268hmek6 #sellyourcar #vinny #ipad	AUDI A4	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:01:50 +0000 2015	0
+HI	A 2004 Pontiac Montana was just scanned near Brownsville, TX 78520 http://t.co/ACZACnVx3d #retweet #ebaymotors #kbb	PONTIAC MONTANA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 16:02:08 +0000 2015	0
+WV	A 2006 Toyota 4Runner was just scanned near Philadelphia, PA 19143 http://t.co/Pa268hmek6 #android #apple #AreYouTheOne	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 16:02:15 +0000 2015	0
+WV	A 2003 Land Rover Discovery was just scanned near Medford, NY 11763 http://t.co/ACZACnVx3d #vinny #sellyourcar #buyacar	MITSUBISHI	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:02:24 +0000 2015	0
+WI	I want a Lexus for my next car	LEXUS	Company	positive	1	0.336475	0.33	Wed Apr 22 16:02:30 +0000 2015	0
+WI	A 2010 Honda Civic was just scanned near Lachine, QC H8S 1A2 http://t.co/ACZACnVx3d #usedcar #ipad #ilovevinny	HONDA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:03:04 +0000 2015	0
+WI	A 2010 Honda Civic was just scanned near Lachine, QC H8S 1A2 http://t.co/ACZACnVx3d #usedcar #ipad #ilovevinny	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 16:03:04 +0000 2015	0
+NM	This person covered their BMW symbol with a Tennessee Tri-star sticker 😐 http://t.co/RETAXs9MqT	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 16:34:05 +0000 2015	0
+AK	BMW M3 - Diamond White again http://t.co/6zajvGOoog	BMW	Company	positive	1	0.220077	0.33	Wed Apr 22 16:53:50 +0000 2015	0
+WI	Check out this great deal! 2009 - Toyota RAV4 SPORT | ONE OWNER | LOW KM! http://t.co/0uW1oRwvQW	TOYOTA RAV4	Automobile	negative	1	-0.242537	0.938928	Wed Apr 22 16:54:41 +0000 2015	0
+NM	A 1999 Isuzu Amigo was just scanned near Tupelo, MS 38804 http://t.co/ACZACnVx3d #iphone #ilovevinny #sellyourcar	ISUZU AMIGO	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:38:38 +0000 2015	0
+TX	"if light travels faster than the speed of sound, how come I can hear the guy in the BMW behind me honk before the light turns green?"	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 21:39:31 +0000 2015	0
+WY	I'm at Chrysler Product Design Office (PDO) in Auburn Hills, MI https://t.co/1O8DeRdCtY	CHRYSLER PRODUCT DESIGN OFFICE	Company	neutral	1	0.0	0.33	Wed Apr 22 12:12:09 +0000 2015	0
+CA	Sometimes I hate the world--@blakelively had never seen Indiana Jones before working w/ Ford and she can't pronounce "ruse"	FORD	Company	negative	1	-0.48584	0.33	Wed Apr 22 07:01:32 +0000 2015	0
+CA	If I had the money, time, and effort I would buy and build my own Nissan skyline. Trip that shit out and name em Trevor 2 😎💁🙌	NISSAN	Company	positive	1	0.393401	0.948968	Wed Apr 22 06:47:37 +0000 2015	0
+WY	@lesmicek what about 99 Infiniti I30s?	INFINITI	Company	positive	1	0.694133	0.33	Wed Apr 22 16:37:08 +0000 2015	0
+TX	2010 Toyota Tundra. With only 72 thousand miles. Look at those fancy wheels!  $20,999 +Ttl!  Call… https://t.co/eyfEwQ0I9P	TOYOTA TUNDRA	Automobile	positive	1	0.246942	0.961347	Wed Apr 22 16:37:13 +0000 2015	0
+CA	A 2004 BMW 3 Series was just scanned near Anaheim, CA 92807 http://t.co/Pa268hmek6 #iphone #vinny_says #buyacar	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 15:29:20 +0000 2015	0
+CA	A 2004 BMW 3 Series was just scanned near Anaheim, CA 92807 http://t.co/Pa268hmek6 #startup #vinny #ilovevinny	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 15:29:27 +0000 2015	0
+WV	A 2001 Chrysler Town and Country was just scanned near Mechanicsburg, PA 17055 http://t.co/ACZACnVx3d #vinny_says #startup	CHRYSLER TOWN AND COUNTRY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:29:29 +0000 2015	0
+WA	The very first Mercedes. Named after Maybach's daughter, she never learned to drive a car and passed… https://t.co/KqerPjwXPB	MAYBACH	Company	neutral	1	0.0	0.92487	Thu Apr 23 11:32:40 +0000 2015	0
+WV	@GZhilko chevys are better including GMC	GMC	Company	positive	1	0.70165	0.33	Thu Apr 23 11:33:28 +0000 2015	0
+CA	A 2012 Toyota Camry Hybrid was just scanned near Anaheim, CA 92807 http://t.co/ACZACnVx3d #ios #autocheck #follow	TOYOTA CAMRY HYBRID	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:48:17 +0000 2015	0
+AK	cant wait to go home n have puppy snugs with Bentley 😍🙊🐶	BENTLEY	Company	positive	1	0.262722	0.33	Wed Apr 22 17:49:00 +0000 2015	0
+WI	A 2004 Chevrolet Silverado 1500 was just scanned near Madison, WI 53713 http://t.co/Pa268hmek6 #buyacar #vinny_scans	CHEVROLET SILVERADO	Automobile	neutral	1	0.0	0.33	Wed Apr 22 06:51:38 +0000 2015	0
+CA	@Phillips737 I got a 2013 Honda four fatty 😳	HONDA	Company	negative	1	-0.516143	0.33	Wed Apr 22 06:52:43 +0000 2015	0
+AK	Tesla Motors to Unveil Home and Utility Batteries April 30 https://t.co/WDsFSsf0t0	TESLA MOTORS	Company	positive	1	0.250551	0.33	Wed Apr 22 06:53:16 +0000 2015	0
+CA	@Phillips737 😂😂😂 I like the Honda 😈💦	HONDA	Company	positive	1	0.506147	0.33	Wed Apr 22 06:53:40 +0000 2015	0
+AK	" He's behind you! ! " #btcc #honda http://t.co/YNwOjnw0qM	HONDA	Company	neutral	1	0.0	0.882692	Thu Apr 23 17:52:49 +0000 2015	0
+CA	Wheres honda 🚘⁉	HONDA	Company	negative	1	-0.561455	0.33	Thu Apr 23 17:53:03 +0000 2015	0
+NM	A 2015 Chevrolet Malibu was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #sellyourcar #carshopping	CHEVROLET MALIBU	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:07:29 +0000 2015	0
+AK	Photo radar 23 ave westbound just before whitemud creek, red Dodge caravan #yegtraffic  #yegradar #yeg	DODGE CARAVAN	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:07:36 +0000 2015	0
+NM	Car shopping!! (@ Grubbs Nissan in Bedford, TX) https://t.co/qkD2ZunEtl	NISSAN	Company	positive	1	0.437535	0.987231	Wed Apr 22 19:07:58 +0000 2015	0
+WY	A 1996 Chevrolet Tahoe was just scanned near Chicago, IL 60639 http://t.co/ACZACnVx3d #usedcar #vinny_scans #ilovevinny	CHEVROLET TAHOE	Automobile	neutral	2	0.0	0.33	Wed Apr 22 19:08:29 +0000 2015	0
+NM	A 2000 Chevrolet Tahoe Limited/Z71 was just scanned near Cumming, GA 30028 http://t.co/ACZACnVx3d #1millionscans #AreYouTheOne	CHEVROLET TAHOE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:09:17 +0000 2015	0
+WV	Haley told me she knew I drove a mustang but didn't know it was made by ford 😐😂 @XoXo_Haleey	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 19:09:21 +0000 2015	0
+FL	A 2015 Nissan Rogue Select was just scanned near Winter Haven, FL 33884 http://t.co/ACZACnVx3d #winacar #usedcar #follow	NISSAN ROGUE	Automobile	negative	1	-0.410881	0.33	Wed Apr 22 17:46:40 +0000 2015	0
+FL	A 2008 Nissan Altima was just scanned near Royal Palm Beach, FL 33411 http://t.co/ACZACnVx3d #ios #scanner #sellyourcar	NISSAN ALTIMA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 17:47:05 +0000 2015	0
+WV	Black Hyundai in front of NN, you just got a ticket...	HYUNDAI	Company	positive	1	0.308586	0.33	Wed Apr 22 17:47:15 +0000 2015	0
+AK	@OlafTufte08 Lucky you who got a @Toyota Me didn't get a thing, other than a stiff muscle.... 😊	TOYOTA	Company	positive	1	0.202402	0.958333	Wed Apr 22 19:53:45 +0000 2015	0
+NM	When I buy a white BMW that's when I think I made it in life tbh	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 19:53:57 +0000 2015	0
+NM	Just a reminder that today is the last day for Smart Club	SMART CLUB	Company	positive	1	0.782039	0.33	Wed Apr 22 11:06:55 +0000 2015	0
+TX	A 2006 Infiniti FX35 was just scanned near Houston, TX 77073 http://t.co/ACZACnVx3d #vinnyapp #sellyourcar #ipad	INFINITI FX35	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:01:29 +0000 2015	0
+CA	Not very smart of me to eat Jack in the Box before my dentist appointment #oops	PORSCHE	Company	negative	1	-0.705965	0.33	Wed Apr 22 19:01:33 +0000 2015	0
+NM	A 2010 Nissan Xterra was just scanned near Enid, OK 73703 http://t.co/Pa268hmek6 #winacar #usedcar #startup	NISSAN XTERRA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:02:55 +0000 2015	0
+NM	A 2009 Saturn SKY was just scanned near Cumming, GA 30028 http://t.co/Pa268hmek6 #vinny_says #startup #1millionscans	SATURN SKY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 19:02:59 +0000 2015	0
+AK	I think I am an Audi TT collector lol just love them 😘 http://t.co/6eHEERzTxT	AUDI	Company	positive	1	0.654086	0.33	Wed Apr 22 19:03:41 +0000 2015	0
+TX	I'm at Red McCombs Superior Hyundai - @rmcsuperhyundai in San Antonio, TX https://t.co/Bqn8twkWM3	HYUNDAI	Company	positive	1	0.455828	0.33	Wed Apr 22 19:04:03 +0000 2015	0
+WV	A 2000 Ford Focus was just scanned near Lancaster, PA 17601 http://t.co/Pa268hmek6 #vinnychallenge #myvinny #android	FORD FOCUS	Company	neutral	1	0.0	0.33	Wed Apr 22 19:04:17 +0000 2015	0
+NV	A 2013 Toyota Sienna was just scanned near Layton, UT 84041 http://t.co/ACZACnVx3d #autocheck #carfax #1millionscans	TOYOTA SIENNA	Automobile	positive	1	0.306972	0.33	Wed Apr 22 18:46:44 +0000 2015	0
+WI	Now Pete's looking at an 09 land rover #bigballa	MITSUBISHI	Company	positive	1	0.349175	0.33	Wed Apr 22 18:47:13 +0000 2015	0
+OR	A 2014 Toyota Tacoma was just scanned near Portland, OR 97202 http://t.co/ACZACnVx3d #ipad #carfax #winacar	TOYOTA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:47:50 +0000 2015	0
+OR	A 2014 Toyota Tacoma was just scanned near Portland, OR 97202 http://t.co/ACZACnVx3d #ipad #carfax #winacar	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 18:47:50 +0000 2015	0
+TX	@GladiselV I read "I want a BMW or wingstop" and I was thinking "I'd take a BMW over wingstop ANYDAY of those were my options"😂	BMW	Company	neutral	2	0.0	0.33	Wed Apr 22 18:47:50 +0000 2015	0
+NM	Happy Earth Day!  Ford is number 1 in green brands! #EarthDay #Ford #FordEcoTour http://t.co/Z1IvPQhTMb	FORD	Company	positive	2	0.27965	0.915191	Wed Apr 22 18:48:03 +0000 2015	0
+WI	Another great pre-owned vehicle has arrived! 2009 - Toyota RAV4 SPORT | ONE OWNER | LOW KM! http://t.co/0uW1oRwvQW	TOYOTA RAV4	Automobile	negative	1	-0.242537	0.959706	Wed Apr 22 18:48:06 +0000 2015	0
+WY	having a bmw is fun until you have to fix something those german fucks	BMW	Company	negative	1	-0.365166	0.33	Thu Apr 23 00:03:18 +0000 2015	0
+NM	If anyone wants a white Nissan Altima you can find it at the bottom the Altamaha river where I'm about to sink it 😅😡	NISSAN ALTIMA	Automobile	negative	1	-0.447273	0.33	Thu Apr 23 00:04:46 +0000 2015	0
+AK	Audi A4 Quattro DTM with RECARO seats retrimmed with blue dinamica and hexagonal stitching. You can… https://t.co/LepWqNAy8y	AUDI A4	Automobile	positive	1	0.232982	0.921434	Thu Apr 23 08:16:42 +0000 2015	0
+AK	On route to london city to collect another nissan leaf for orkney, and driving it back  @NissanEV_UK  #chatandcharge http://t.co/1Y7NhB2qD8	NISSAN	Company	neutral	1	0.0	0.33	Wed Apr 22 06:31:29 +0000 2015	0
+NV	A 2013 Nissan Frontier was just scanned near Dayton, OH 45459 http://t.co/ACZACnVx3d #ebaymotors #1millionscans	NISSAN FRONTIER	Automobile	neutral	1	0.0	0.33	Thu Apr 23 12:40:42 +0000 2015	0
+NV	A 2013 Nissan Frontier was just scanned near Dayton, OH 45459 http://t.co/ACZACnVx3d #ilovevinny #vinnychallenge	NISSAN FRONTIER	Automobile	neutral	1	0.0	0.33	Thu Apr 23 12:40:42 +0000 2015	0
+WV	Mazda, your commercials are dumb. "Tim invented the toaster oven in 1924 and now Mazda offers Skyactive technology blah blah" makes0⃣sense	MAZDA	Company	negative	2	-0.675883	0.87504	Thu Apr 23 00:20:16 +0000 2015	0
+WI	Fuck Honda civics, I shoulda got the audi	AUDI	Company	negative	1	-0.456271	0.33	Thu Apr 23 00:20:17 +0000 2015	0
+WI	Fuck Honda civics, I shoulda got the audi	HONDA	Company	negative	1	-0.626406	0.33	Thu Apr 23 00:20:17 +0000 2015	0
+WA	https://t.co/vFHluDSx05 @elonmusk the 2 wheeled tesla.  Had inclinations to open into tye relatively unevolved motorcycle industry?	TESLA	Company	positive	1	0.467496	0.973167	Wed Apr 22 21:51:52 +0000 2015	0
+FL	Hard too Bentley, Bentley rims	BENTLEY	Company	positive	2	0.290026	0.33	Wed Apr 22 21:52:16 +0000 2015	0
+CA	A 2007 Acura TL was just scanned near Newark, CA 94560 http://t.co/Pa268hmek6 #android #ios #autocheck	ACURA TL	Automobile	positive	2	0.214293	0.33	Wed Apr 22 21:52:19 +0000 2015	0
+WV	@mdautorepairNY she is a 1998 Ford F-150....she has 330,000 miles..she needs a motor...i just put brand new tires on her..	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 21:52:19 +0000 2015	0
+CA	A 2003 Ford Focus was just scanned near Whittier, CA 90601 http://t.co/ACZACnVx3d #vinnyapp #buyacar #carfax	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 21:52:19 +0000 2015	0
+TX	Saw a Honda break down in the middle of the road. #ProudFordOwner	HONDA	Company	negative	1	-0.779157	0.931124	Wed Apr 22 21:52:28 +0000 2015	0
+FL	A 2008 Dodge Caliber was just scanned near Wilton Manors, FL 33334 http://t.co/ACZACnVx3d #vinny #winacar #vinnychallenge	DODGE CALIBER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:54:11 +0000 2015	0
+NM	A 2004 Ford F-150 was just scanned near Lubbock, TX 79407 http://t.co/Pa268hmek6 #myvinny #vinny_scans #sellyourcar	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 22:12:01 +0000 2015	0
+WY	A 2005 BMW X5 was just scanned near Westwood, MA 02090 http://t.co/Pa268hmek6 #iphone #kbb #startup	BMW	Company	neutral	1	0.0	0.33	Thu Apr 23 18:53:55 +0000 2015	0
+FL	Jeep CHIEF Concept - 360 Degree View - East Coast Debut http://t.co/NHmX87EiJw #JeepBeach2015 💪🏼☀️ #LiveLoveJeep 💕	JEEP	Company	neutral	1	0.0	0.33	Thu Apr 23 18:54:53 +0000 2015	0
+FL	A 2003 Cadillac Seville was just scanned near Fitzgerald, GA 31750 http://t.co/Pa268hmek6 #usedcar #iphone #ipad	CADILLAC SEVILLE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 23:22:43 +0000 2015	0
+WY	A 2013 Ford Focus was just scanned near Chicago, IL 60641 http://t.co/Pa268hmek6 #ilovevinny #whatsyourcarworth	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 23:23:09 +0000 2015	0
+FL	A 2005 Acura TL was just scanned near 50-78 Seminole Way, Fort Lauderdale http://t.co/ACZACnVx3d #carshopping #sellyourcar	ACURA TL	Automobile	neutral	1	0.0	0.33	Wed Apr 22 23:12:33 +0000 2015	0
+FL	A 2007 Toyota Sienna was just scanned near Orlando, FL 32837 http://t.co/Pa268hmek6 #AreYouTheOne #vinny #ebaymotors	TOYOTA SIENNA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 23:12:57 +0000 2015	0
+OR	A 1999 Volkswagen New Beetle was just scanned near Portland, OR 97206 http://t.co/Pa268hmek6 #kbb #follow #winacar	VOLKSWAGEN NEW BEETLE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:12:22 +0000 2015	0
+FL	Happy Earth Day! Toyota is fueled by bullsh*t. http://t.co/GQZ2i8DQLL #ToyotaEarthWeek #LetsGoPlaces	TOYOTA	Company	neutral	1	0.0	0.940509	Wed Apr 22 17:12:46 +0000 2015	0
+NM	A 2007 Chrysler Town and Country was just scanned near Mount Olive, AL 35117 http://t.co/ACZACnVx3d #ipad #kbb #android	CHRYSLER TOWN AND COUNTRY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:16:57 +0000 2015	0
+AK	NBC’s Rutledge Wood hits the Toyota Pro/Celebrity Race at Long Beach (VIDEO) http://t.co/GIvwlrDP5O	TOYOTA	Company	positive	1	0.474165	0.33	Wed Apr 22 17:17:06 +0000 2015	0
+OR	A 2003 Ford Focus was just scanned near Portland, OR 97206 http://t.co/ACZACnVx3d #vinnyapp #vinnychallenge	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 17:17:14 +0000 2015	0
+CA	A 2013 BMW 6 Series was just scanned near Anaheim, CA 92807 http://t.co/ACZACnVx3d #apple #carshopping #sellyourcar	BMW 6 SERIES	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:17:26 +0000 2015	0
+FL	Indeed.. I've never seen a v6 do 36mpg's a that beyond the expected numbers on the spec sheet! @Honda #9thgenaccord  https://t.co/FvZJcmTSvO	HONDA	Company	positive	1	0.351942	0.832692	Wed Apr 22 17:17:49 +0000 2015	0
+WV	A 2009 Dodge Journey was just scanned near Canton, OH 44718 http://t.co/ACZACnVx3d #android #whatsyourcarworth	DODGE JOURNEY	Automobile	negative	1	-0.273682	0.33	Wed Apr 22 17:18:09 +0000 2015	0
+NV	Well one is a Mazda, so that'll never be badass.	MAZDA	Company	positive	1	0.491241	0.33	Wed Apr 22 17:18:39 +0000 2015	0
+FL	A 2006 Suzuki Forenza was just scanned near Fort Myers, FL 33916 http://t.co/ACZACnVx3d #scanner #carshopping #kbb	SUZUKI FORENZA	Company	neutral	1	0.0	0.33	Wed Apr 22 17:19:34 +0000 2015	0
+CA	Tesla to power Walmart: Walmart powered by Tesla? It’s happening.Tesla will sell batteries to customers like… http://t.co/YU8F439mZI	TESLA	Company	positive	2	0.338358	0.797544	Wed Apr 22 17:19:42 +0000 2015	0
+AK	Nissan Leaf 649.7 miles road trip: https://t.co/kVrDH5LBhs @SnaxMuppet @pluginadventure @Olivier_Paturet Not the best production !	NISSAN	Company	neutral	1	0.0	0.33	Wed Apr 22 09:18:14 +0000 2015	0
+WI	I'm at Mercedes-Benz Victoria Star Motors in Kitchener, ON http://t.co/enBoxNrMTm	MERCEDES-BENZ VICTORIA STAR MOTORS	Company	neutral	1	0.0	0.33	Wed Apr 22 09:43:48 +0000 2015	0
+WY	I know for sure oomf BMW yakaisa paAvi haisi yake but why ????	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 13:58:09 +0000 2015	0
+NM	A 2013 Dodge Journey was just scanned near Greensboro, NC 27409 http://t.co/Pa268hmek6 #scanner #carshopping #autocheck	DODGE JOURNEY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 13:59:01 +0000 2015	0
+NV	This old man in his Mazda can get out of here with that 20mph shit 😡	MAZDA	Company	negative	1	-0.736877	0.33	Wed Apr 22 16:47:12 +0000 2015	0
+FL	Shout Out the BMW salesman with the broke down car on Kennedy, you make traffic that much better #SOTampa	BMW	Company	negative	1	-0.211349	0.33	Wed Apr 22 16:48:39 +0000 2015	0
+CA	Guess what towes The Nail Truck! A TOYOTA Tundra! And here we are at Toyota w/ their awesome admins!!! http://t.co/pAGw7KnNCO	TOYOTA TUNDRA	Automobile	positive	1	0.569301	0.98648	Wed Apr 22 19:38:31 +0000 2015	0
+CA	Guess what towes The Nail Truck! A TOYOTA Tundra! And here we are at Toyota w/ their awesome admins!!! http://t.co/pAGw7KnNCO	TOYOTA	Company	positive	1	0.83812	0.687587	Wed Apr 22 19:38:31 +0000 2015	0
+TX	"We'll steal her Lexus, be detectives, ride 'round picking up clues. We'll name our children Jackie… https://t.co/oPDkWZVIu2	LEXUS	Company	neutral	1	0.0	0.911885	Wed Apr 22 19:38:46 +0000 2015	0
+CA	A 2007 Cadillac CTS was just scanned near Los Angeles, CA 90031 http://t.co/Pa268hmek6 #myvinny #carfax #vinnychallenge	CADILLAC CTS	Automobile	positive	2	0.32508	0.33	Wed Apr 22 19:39:10 +0000 2015	0
+CA	@Honda used to be good at ergonomics. Then this happened. #HondaFit #fail http://t.co/KEM0sOcduy	HONDA	Company	positive	1	0.62761	0.922222	Wed Apr 22 19:39:27 +0000 2015	0
+WV	Just drove next to a Mclaren P1 Cost over 1 million . Who spends that much on a car?	MCLAREN	Company	neutral	1	0.0	0.906766	Wed Apr 22 19:39:31 +0000 2015	0
+CA	Old ass Honda thinking he can race me.. I won of course 💅	HONDA	Company	negative	1	-0.437697	0.956941	Thu Apr 23 00:08:06 +0000 2015	0
+CA	A 2005 Mazda MAZDA3 was just scanned near Santa Barbara, CA 93105 http://t.co/Pa268hmek6 #android #retweet #scanner	MAZDA MAZDA3	Automobile	neutral	1	0.0	0.33	Thu Apr 23 00:08:08 +0000 2015	0
+WY	A 2009 GMC Acadia was just scanned near Summit, IL 60501 http://t.co/Pa268hmek6 #scanner #vinny_scans #carshopping	GMC ACADIA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 00:08:09 +0000 2015	0
+WV	Good 'ol DP's. Cadillac Enchiladas.. (@ Don Pablo's in Woodbury, NJ) https://t.co/Du5CHcSkH8 http://t.co/qZET39Xtkj	CADILLAC	Company	positive	1	0.595183	0.610075	Thu Apr 23 00:08:12 +0000 2015	0
+WV	Just witnessed a man pull his BMW over to get out the tissue box he had in his trunk. #AllergySeason	BMW	Company	neutral	1	0.0	0.909722	Thu Apr 23 12:03:46 +0000 2015	0
+NV	A 2004 Suzuki Forenza was just scanned near Indianapolis, IN 46241 http://t.co/Pa268hmek6 #carshopping #cars #buyacar	SUZUKI FORENZA	Company	neutral	1	0.0	0.33	Thu Apr 23 12:04:39 +0000 2015	0
+FL	A 2014 Audi A6 was just scanned near Orlando, FL 32836 http://t.co/ACZACnVx3d #buyacar #apple #autocheck	AUDI A6	Automobile	neutral	1	0.0	0.33	Thu Apr 23 12:05:55 +0000 2015	0
+WV	A 2012 Hyundai Elantra Touring was just scanned near Flushing, NY 11357 http://t.co/Pa268hmek6 #carshopping #startup	HYUNDAI ELANTRA	Automobile	negative	1	-0.295016	0.33	Thu Apr 23 13:23:47 +0000 2015	0
+WY	Shaking hands with a #robot. Excellent grip. #honda #asimo #detroit @ SAE World Congress https://t.co/HXuj9btL7P	HONDA	Company	positive	1	0.320383	0.148135	Thu Apr 23 13:23:53 +0000 2015	0
+WY	A 2011 Lincoln MKZ was just scanned near Sterling Heights, MI 48310 http://t.co/ACZACnVx3d #follow #retweet #ios	LINCOLN MKZ	Automobile	neutral	1	0.0	0.33	Thu Apr 23 13:23:55 +0000 2015	0
+WV	A 2002 Mazda Protege was just scanned near South Windsor, CT 06074 http://t.co/ACZACnVx3d #vinnychallenge #vinnyapp	MAZDA PROTEGE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:47:50 +0000 2015	0
+AK	@MisterDaz only because the #Ferrari is in the garage! 😜	FERRARI	Company	neutral	1	0.0	0.901923	Wed Apr 22 14:48:58 +0000 2015	0
+NV	@Chrysler still has the best sounding am radios. #realcountrymusic on a #realcountryradiostation  #Indy to #Cincy last night @WSMradio	CHRYSLER	Company	positive	1	0.903105	0.923	Wed Apr 22 12:27:08 +0000 2015	0
+WY	A 2006 Nissan Altima was just scanned near Rockford, IL 61109 http://t.co/ACZACnVx3d #usedcar #vinnychallenge	NISSAN ALTIMA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 12:29:06 +0000 2015	0
+WY	2009 Audi A5 3.2 gets a new home!   #audishrewsbury #onlyaudi #driveaudi #letmehelpyou #trucar… https://t.co/9rtta7ay45	AUDI	Company	positive	1	0.219503	0.994829	Thu Apr 23 20:43:53 +0000 2015	0
+WY	Saturday I plan on coming back from Jersey with a 2006 black Audi S4 convertible. 340HP V8	AUDI S4	Automobile	neutral	1	0.0	0.941576	Thu Apr 23 20:44:12 +0000 2015	0
+WI	Drive away in style! 2012 - Toyota Camry XLE V6 | ONE LOCAL OWNER | ONLY 15,700 KM! http://t.co/rMQ0GoiPj4	TOYOTA	Company	neutral	1	0.0	0.808861	Thu Apr 23 20:44:48 +0000 2015	0
+WY	@DieHard_Boston show me the Nissan 😂😂	NISSAN	Company	positive	1	0.618438	0.33	Wed Apr 22 22:13:31 +0000 2015	0
+WV	I'm at Audi - @AcarsanHolding in Gaziantep https://t.co/zpQCjfS7zS	AUDI	Company	neutral	1	0.0	0.33	Wed Apr 22 07:33:57 +0000 2015	0
+WV	@WIRED ...and Volvo's CEO was just let go	VOLVO	Company	positive	1	0.289783	0.33	Wed Apr 22 11:16:08 +0000 2015	0
+WY	I really miss my bmw man 😔😔	BMW	Company	negative	1	-0.872133	0.33	Wed Apr 22 13:19:17 +0000 2015	0
+TX	Chinese woman stuns BMW dealership by paying for luxury car with mountain of one-yuan notes http://t.co/7Uxen6zrr7	BMW	Company	positive	1	0.440957	0.33	Wed Apr 22 16:22:40 +0000 2015	0
+NM	This is the first Tesla I've seen in the wild #drool @ Downtown Simpsonville https://t.co/82y3FceAYV	TESLA	Company	positive	1	0.654091	0.33	Wed Apr 22 16:23:02 +0000 2015	0
+NM	Omg then after that I had TWO more cars until I got my baby Buick I have now. 😊	BUICK	Company	negative	1	-0.560951	0.952318	Wed Apr 22 16:23:33 +0000 2015	0
+FL	A 2002 Ford Escape was just scanned near Fort Myers, FL 33916 http://t.co/ACZACnVx3d #vinny_says #sellyourcar #kbb	FORD ESCAPE	Automobile	negative	2	-0.25702	0.33	Wed Apr 22 16:24:14 +0000 2015	0
+NM	“@arturocasas11: Rt for the Volkswagen passat!☝️👍🚙” shut up	VOLKSWAGEN PASSAT	Automobile	positive	1	0.264684	0.33	Wed Apr 22 16:24:16 +0000 2015	0
+NV	Just learned that the Toyota sign has Toyota spelt in it💥💀	TOYOTA	Company	positive	2	0.698458	0.33	Wed Apr 22 18:27:14 +0000 2015	0
+WY	http://t.co/09WX8oi97W  tesla batteries powering walmart stores,may spell the end of dirty fossil fuel.	TESLA	Company	negative	1	-0.425743	0.33	Wed Apr 22 18:28:24 +0000 2015	0
+NV	A 2004 Chevrolet Silverado 1500 was just scanned near Las Vegas, NV 89115 http://t.co/ACZACnVx3d #ipad #ios #winacar	CHEVROLET SILVERADO	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:28:31 +0000 2015	0
+TX	A 2013 Dodge Journey was just scanned near Eagle Pass, TX 78852 http://t.co/ACZACnVx3d #scanner #ebaymotors #vinny_scans	DODGE JOURNEY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:28:36 +0000 2015	0
+NM	A 1998 Mitsubishi Eclipse Spyder was just scanned near Bristol, VA 24202 http://t.co/ACZACnVx3d #ilovevinny #buyacar	MITSUBISHI ECLIPSE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:32:44 +0000 2015	0
+TX	Knucklehead. #austinspeedshop mattjackson13 #knucklehead #chopper @ Austin Speed Shop https://t.co/H4i1KqIpdF	AUSTIN SPEED SHOP	Company	positive	1	0.341345	0.33	Wed Apr 22 21:33:16 +0000 2015	0
+NV	Our Cadillac store and select others have this cute faux leather and crochet jacket. IN LOVE. #OOTD… https://t.co/Lf38QqTrsW	CADILLAC	Company	positive	1	0.473483	0.906767	Wed Apr 22 21:34:16 +0000 2015	0
+WA	A 2006 Saab 9-3 was just scanned near Lynnwood, WA 98087 http://t.co/Pa268hmek6 #android #winacar #usedcar	SAAB 9-3	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:34:25 +0000 2015	0
+CA	Lmao this Lexus in front of me just threw half a burrito out the window on Sonoma and Florida lmao	LEXUS	Company	neutral	1	0.0	0.33	Wed Apr 22 21:34:43 +0000 2015	0
+AK	Audi A3 Quattro 3.2 s line Automatic with launch control for sale. 07719924311 http://t.co/LYtYUvTsTI	AUDI	Company	positive	1	0.228936	0.888912	Thu Apr 23 13:07:49 +0000 2015	0
+WY	New Sports Experience.  #saeworldcongress2015 #Acura #Honda #engineering #hybrid #Detroit @ Cobo… https://t.co/6iH7gg9PUM	HONDA	Company	positive	1	0.308561	0.33	Thu Apr 23 13:07:53 +0000 2015	0
+FL	Watching my car get serviced. Gotta love the service department at Parks Hyundai. @ Parks HYUNDAI of… https://t.co/Ixf5Nd6dBy	HYUNDAI	Company	positive	1	0.792645	0.991607	Thu Apr 23 13:09:47 +0000 2015	0
+WI	A 2006 Chevrolet Silverado 1500 was just scanned near Spencerport, NY 14559 http://t.co/ACZACnVx3d #cars #kbb #ebaymotors	CHEVROLET SILVERADO	Automobile	neutral	2	0.0	0.33	Wed Apr 22 22:24:44 +0000 2015	0
+WI	The fact that Bentley's already 18.6 pounds and he's only 11 weeks old 🙈🐶	BENTLEY	Company	negative	1	-0.286357	0.33	Wed Apr 22 22:24:46 +0000 2015	0
+NV	"Lamborghini mercy, my nose is so thirsty."	LAMBORGHINI	Company	positive	1	0.505339	0.33	Wed Apr 22 22:24:48 +0000 2015	0
+AK	The new #Honda #CivicTypeR is quite spectacular, and a affordable track-car! #Civic #TypeR #AutoRAI @… https://t.co/fBnZYMH2IP	HONDA	Company	positive	1	0.734352	0.91875	Thu Apr 23 08:11:54 +0000 2015	0
+NV	I'm at Toyota Motor Manufacturing Indiana in Princeton, IN https://t.co/gf2PJWstBg	TOYOTA MOTOR MANUFACTURING INDIANA	Company	neutral	1	0.0	0.33	Thu Apr 23 08:13:30 +0000 2015	0
+FL	2006 Bentley http://t.co/rEH0nSbiQF	BENTLEY	Company	positive	1	0.249011	0.33	Wed Apr 22 13:27:30 +0000 2015	0
+CA	@bignastyo @BMW what that's dope!! I need that shit 👌👌👌👌	BMW	Company	positive	1	0.82503	0.965	Thu Apr 23 08:07:46 +0000 2015	0
+CA	Early morning Lamborghini appreciation talks with dad🙌🏽	LAMBORGHINI	Company	positive	1	0.506168	0.33	Thu Apr 23 13:54:20 +0000 2015	0
+NM	@GoldenTermite @Mr_Windy_City_ @Honda @Dodge @chevrolet @NissanUSA @Ford @Kia @Hyundai honda. Got new 2013 Honda Civic. Payments $155 month	HONDA	Company	positive	1	0.210771	0.97468	Wed Apr 22 22:57:13 +0000 2015	0
+NM	@GoldenTermite @Mr_Windy_City_ @Honda @Dodge @chevrolet @NissanUSA @Ford @Kia @Hyundai honda. Got new 2013 Honda Civic. Payments $155 month	HONDA	Automobile	positive	1	0.984637	0.928355	Wed Apr 22 22:57:13 +0000 2015	0
+NM	@GoldenTermite @Mr_Windy_City_ @Honda @Dodge @chevrolet @NissanUSA @Ford @Kia @Hyundai honda. Got new 2013 Honda Civic. Payments $155 month	HYUNDAI	Company	positive	1	0.984637	0.227917	Wed Apr 22 22:57:13 +0000 2015	0
+TX	I want a bmw only....i would get a old one but its gonna cost so much to repair that hoe	BMW	Company	negative	2	-0.44936	0.33	Wed Apr 22 22:57:50 +0000 2015	0
+NM	A 2002 Mazda 626 was just scanned near Bristol, VA 24202 http://t.co/Pa268hmek6 #carshopping #apple #ebaymotors	MAZDA	Company	neutral	1	0.0	0.33	Wed Apr 22 21:57:05 +0000 2015	0
+WA	Don't cut me off in your gay ass Honda	HONDA	Company	negative	1	-0.772618	0.33	Wed Apr 22 21:58:07 +0000 2015	0
+CA	A 2008 Ford Ranger was just scanned near Escalon, CA 95320 http://t.co/Pa268hmek6 #AreYouTheOne #vinnyapp #vinny	FORD RANGER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:58:47 +0000 2015	0
+WA	@ramonesteban78 well, he had a bad time at Ferrari, then he chose the combination of opportunity/potential plus a ton of money.	FERRARI	Company	negative	1	-0.320444	0.33	Wed Apr 22 21:58:48 +0000 2015	0
+AK	The best birthday cake yet... A few of my favourite things #birthday #TomFord #blacklab #BMW http://t.co/tqsWUpQ2N7	BMW	Company	positive	1	0.265315	0.879762	Wed Apr 22 21:59:50 +0000 2015	0
+FL	Can't wait for my tax dollars to be going to ya when you can't afford your new Toyota and 3 kids	TOYOTA	Company	neutral	1	0.0	0.33	Thu Apr 23 19:14:25 +0000 2015	0
+NV	A 2005 Pontiac Vibe was just scanned near Las Vegas, NV 89128 http://t.co/Pa268hmek6 #follow #vinnychallenge #retweet	PONTIAC VIBE	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:14:49 +0000 2015	0
+WV	A 1998 Ford F-150 was just scanned near Richmond, VA 23224 http://t.co/ACZACnVx3d #iphone #apple #ebaymotors	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 19:16:05 +0000 2015	0
+WI	Where do we find them?! 2012 - Toyota Camry XLE V6 | ONE LOCAL OWNER | ONLY 15,700 KM! http://t.co/rMQ0GoiPj4	TOYOTA	Company	neutral	1	0.0	0.806252	Thu Apr 23 19:16:14 +0000 2015	0
+TX	I'm at ADESA Austin - @adesaauction in Austin, TX https://t.co/FnBSbyMNdj	ADESA AUSTIN	Company	positive	2	0.386347	0.33	Wed Apr 22 12:02:47 +0000 2015	0
+HI	#F1 #McLaren Formula 1 - McLaren wins by country: Top 10 nations http://t.co/kzx8wsHYcv	MCLAREN	Company	positive	2	0.288203	0.33	Wed Apr 22 12:03:24 +0000 2015	0
+NV	A 2006 Toyota Tacoma was just scanned near Indianapolis, IN 46268 http://t.co/Pa268hmek6 #autocheck #1millionscans	TOYOTA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:11:45 +0000 2015	0
+NV	A 2006 Toyota Tacoma was just scanned near Indianapolis, IN 46268 http://t.co/Pa268hmek6 #autocheck #1millionscans	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 16:11:45 +0000 2015	0
+WV	A 2010 Ford Crown Victoria was just scanned near Providence, RI 02907 http://t.co/ACZACnVx3d #ipad #vinny #retweet	FORD CROWN VICTORIA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:12:30 +0000 2015	0
+WV	A 2011 Honda Civic was just scanned near Sterling, VA 20166 http://t.co/Pa268hmek6 #AreYouTheOne #ilovevinny	HONDA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 16:12:44 +0000 2015	0
+WV	A 2011 Honda Civic was just scanned near Sterling, VA 20166 http://t.co/Pa268hmek6 #AreYouTheOne #ilovevinny	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 16:12:44 +0000 2015	0
+WV	A 2009 Honda Civic was just scanned near Sterling, VA 20166 http://t.co/ACZACnVx3d #apple #scanner #ios	HONDA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:12:45 +0000 2015	0
+WV	A 2009 Honda Civic was just scanned near Sterling, VA 20166 http://t.co/ACZACnVx3d #apple #scanner #ios	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 16:12:45 +0000 2015	0
+WV	A 2003 Lexus ES 300 was just scanned near East Windsor, CT 06088 http://t.co/Pa268hmek6 #1millionscans #vinny #buyacar	LEXUS	Company	neutral	1	0.0	0.33	Wed Apr 22 16:13:20 +0000 2015	0
+NV	just entered KMOV Car4Free by Bommarito Buick GMC to try my chance at a 2015 GMC Terrain and a $400 U-Gas Gift Card. http://t.co/L8XGd6Vq2w	GMC	Automobile	positive	1	0.570092	0.33	Wed Apr 22 16:13:53 +0000 2015	0
+NV	just entered KMOV Car4Free by Bommarito Buick GMC to try my chance at a 2015 GMC Terrain and a $400 U-Gas Gift Card. http://t.co/L8XGd6Vq2w	GMC TERRAIN	Automobile	positive	1	0.570092	0.33	Wed Apr 22 16:13:53 +0000 2015	0
+NV	just entered KMOV Car4Free by Bommarito Buick GMC to try my chance at a 2015 GMC Terrain and a $400 U-Gas Gift Card. http://t.co/L8XGd6Vq2w	BUICK	Company	positive	1	0.570092	0.33	Wed Apr 22 16:13:53 +0000 2015	0
+WY	A 2006 Nissan Altima was just scanned near Rockford, IL 61109 http://t.co/ACZACnVx3d #1millionscans #kbb #vinnyapp	NISSAN ALTIMA	Automobile	neutral	2	0.0	0.33	Wed Apr 22 12:56:18 +0000 2015	0
+NM	A 2003 GMC Envoy XL was just scanned near Oklahoma City, OK 73108 http://t.co/Pa268hmek6 #sellyourcar #buyacar #cars	GMC ENVOY XL	Company	neutral	1	0.0	0.33	Wed Apr 22 15:11:40 +0000 2015	0
+WV	Cadillac CTS or infinity g35? #decisions	CADILLAC CTS	Automobile	neutral	1	0.0	0.980593	Wed Apr 22 15:11:48 +0000 2015	0
+TX	She tryna make me pull up in that Audi thing , like yea yea 😏	AUDI	Company	neutral	1	0.0	0.33	Thu Apr 23 07:13:19 +0000 2015	0
+AK	Save driving for another year! #apk #volvo &lt;3 my car.. http://t.co/xolUAg5cKl	VOLVO	Company	positive	1	0.273241	0.926316	Thu Apr 23 16:54:35 +0000 2015	0
+NM	@EducationSC @BMW Hoping our Teacher of the Year, Hunter Jolley, will be the SC Teacher of the Year!	BMW	Company	positive	1	0.745055	0.33	Thu Apr 23 00:28:26 +0000 2015	0
+CA	Morgan Heritage acoustic at Streetlight Records #strictlyroots @ Streetlight Records-Santa Cruz https://t.co/Jd3J42DruN	MORGAN HERITAGE	Company	positive	1	0.221898	0.33	Thu Apr 23 00:28:43 +0000 2015	0
+WY	The McLaren on campus has water in the tail lights.....like dude how	MCLAREN	Company	neutral	1	0.0	0.33	Thu Apr 23 00:29:55 +0000 2015	0
+AK	The aa, rac, green flag etc. Who do I join to cover classic land rover and mini.	MITSUBISHI	Company	positive	1	0.594427	0.932684	Wed Apr 22 17:13:06 +0000 2015	0
+CA	Lexus of Stevens Creek #Transportation #Job: Vehicle Delivery Specialist... (#SanJose, CA) http://t.co/kZgHP45Vic #VeteranJob #Jobs	LEXUS	Company	positive	1	0.502903	0.33	Wed Apr 22 17:13:47 +0000 2015	0
+CA	A 2004 Lexus LS 430 was just scanned near Burgandy Drive, Lake Arrowhead http://t.co/ACZACnVx3d #vinnyapp #startup #carfax	LEXUS LS	Automobile	neutral	1	0.0	0.33	Wed Apr 22 17:13:54 +0000 2015	0
+TX	Tillemann: Battery costs have dropped over the years for EVs; Tesla's gigafactory projected to bring costs down further #CERAWeek	TESLA	Company	negative	1	-0.451051	0.33	Wed Apr 22 17:14:21 +0000 2015	0
+NV	RIP | Tributes as last member of iconic Mini's design team dies http://t.co/VBtZW1IOVt	MINI	Company	negative	1	-0.652006	0.33	Wed Apr 22 17:14:39 +0000 2015	0
+NE	Missing this cutie an extra lot lately! Can't wait for race season 🏁 #Honda #109 http://t.co/qKGqfGeyz9	HONDA	Company	neutral	1	0.0	0.835	Wed Apr 22 15:46:29 +0000 2015	0
+FL	A 2000 Saturn L-Series was just scanned near Gulf Breeze, FL 32563 http://t.co/ACZACnVx3d #sellyourcar #carshopping	SATURN L-SERIES	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:46:48 +0000 2015	0
+FL	A 2005 Lincoln Navigator was just scanned near Omega, GA 31775 http://t.co/Pa268hmek6 #scanner #vinny_says #myvinny	LINCOLN NAVIGATOR	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:47:06 +0000 2015	0
+CA	A 1998 Mercedes-Benz C-Class was just scanned near Long Beach, CA 90804 http://t.co/Pa268hmek6 #kbb #sellyourcar #vinny	MERCEDES-BENZ C-CLASS	Automobile	positive	1	0.234516	0.33	Wed Apr 22 15:47:29 +0000 2015	0
+WV	Toyota has invented a car engine the will run on hydrogen and only give off water	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 15:47:32 +0000 2015	0
+NM	A 1999 Nissan Altima was just scanned near Salisbury, NC 28147 http://t.co/ACZACnVx3d #buyacar #1millionscans #kbb	NISSAN ALTIMA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:47:57 +0000 2015	0
+NM	DCA Cool Store sponsored interviews at Smart Show were so informative! Stunning Jewelers! Thanks to all for sharing! http://t.co/c57poClbpP	SMART SHOW	Company	positive	1	0.82732	0.936758	Wed Apr 22 15:48:08 +0000 2015	0
+WI	A 2011 Chrysler Town and Country was just scanned near Muskegon, MI 49445 http://t.co/Pa268hmek6 #iphone #autocheck	CHRYSLER TOWN AND COUNTRY	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:48:43 +0000 2015	0
+FL	A 2011 Hyundai Sonata was just scanned near Tampa, FL 33634 http://t.co/ACZACnVx3d #android #usedcar #AreYouTheOne	HYUNDAI	Company	neutral	1	0.0	0.33	Wed Apr 22 14:34:32 +0000 2015	0
+NV	Dude my dads work has a pimped out chrysler as an undercover car. So fellow stoners be careful you never know when you'll drive by an	CHRYSLER	Company	negative	1	-0.762145	0.886443	Wed Apr 22 14:34:32 +0000 2015	0
+TX	@markped05 someone was going to be ahead.  Honda has to work to makeup ground.  That's good I think.	HONDA	Company	negative	1	-0.73784	0.974326	Thu Apr 23 11:59:23 +0000 2015	0
+WV	A 2005 Ford Explorer was just scanned near Richmond, VA 23234 http://t.co/Pa268hmek6 #follow #vinny #apple	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 19:25:59 +0000 2015	0
+WY	Quantitative Easing and Market High are part of the Plan ro devalue Fiat Dollar backed by nothing. Wake up.  https://t.co/7tOwSmd25j	FIAT DOLLAR	Company	negative	1	-0.547615	0.927759	Thu Apr 23 10:05:02 +0000 2015	0
+WI	I'm at Mercedes-Benz Victoria Star Motors in Kitchener, ON http://t.co/biWyLPysf3	MERCEDES-BENZ VICTORIA STAR MOTORS	Company	neutral	1	0.0	0.33	Thu Apr 23 10:05:11 +0000 2015	0
+WV	@MikeStraubWGAL @CarlisleEvents that Ford is pretty sweet.	FORD	Company	positive	1	0.917016	0.33	Thu Apr 23 11:22:47 +0000 2015	0
+AK	been needing a new window regulator for my car for ages but refused to pay £120 that ford were asking.	FORD	Company	negative	1	-0.374563	0.33	Thu Apr 23 11:22:55 +0000 2015	0
+AK	just got a whole door at the scrappys for £40. fuck you ford.	FORD	Company	negative	1	-0.4759	0.33	Thu Apr 23 11:23:11 +0000 2015	0
+TX	you know what I about had it with all these church people you know what we should do is tax them,  on the real estate holden's"	HOLDEN	Company	neutral	1	0.0	0.33	Thu Apr 23 11:24:59 +0000 2015	0
+NV	@Ford #cnn I wish I could "go farther" but Ford can't even figure out how to get a vehicle I ordered to me after 7 months	FORD	Company	negative	2	-0.599319	0.33	Wed Apr 22 12:32:32 +0000 2015	0
+WV	A 2004 Chevrolet Tahoe was just scanned near Branford, CT 06405 http://t.co/Pa268hmek6 #whatsyourcarworth #ipad	CHEVROLET TAHOE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 12:33:40 +0000 2015	0
+NM	Watch Ford be driving, or that lady from last time	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 11:31:22 +0000 2015	0
+NV	A 2005 Toyota Tundra was just scanned near North Salt Lake, UT 84054 http://t.co/Pa268hmek6 #android #startup #vinny_says	TOYOTA TUNDRA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:38:59 +0000 2015	0
+NM	A 2003 Mitsubishi Eclipse Spyder was just scanned near Acworth, GA 30101 http://t.co/Pa268hmek6 #ilovevinny #scanner	MITSUBISHI ECLIPSE	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:39:28 +0000 2015	0
+WV	Doing a little #springcleaning for my car. #hondalife #carlife #honda # @ Casa de Veeneechei https://t.co/WhcScjdv8h	HONDA	Company	positive	1	0.360671	0.415833	Thu Apr 23 18:08:06 +0000 2015	0
+CA	@cybernekokaito I live kimura subaru's voice in this song thank  jeusus	SUBARU	Company	positive	1	0.849773	0.33	Thu Apr 23 07:53:58 +0000 2015	0
+WY	Glad I put Lexus' blanket on last night...had to turn the heat on this morning. Brrrrrrr.	LEXUS	Company	positive	1	0.640972	0.941858	Wed Apr 22 11:41:13 +0000 2015	0
+FL	“@nicolebyer: People who own and drive Chrysler PT Cruisers are basically saying don't trust me I make bad choices.”@aeryn_chancey hippos	CHRYSLER	Company	negative	1	-0.370291	0.33	Wed Apr 22 11:41:42 +0000 2015	0
+NM	A 2010 Volkswagen CC was just scanned near Greensboro, NC 27409 http://t.co/Pa268hmek6 #ios #vinny_says #sellyourcar	VOLKSWAGEN CC	Automobile	neutral	2	0.0	0.33	Wed Apr 22 15:51:27 +0000 2015	0
+NM	A 2007 Chrysler PT Cruiser was just scanned near Canton, TX 75103 http://t.co/Pa268hmek6 #vinny_says #kbb #winacar	CHRYSLER	Company	neutral	1	0.0	0.33	Wed Apr 22 15:53:26 +0000 2015	0
+NV	A 2006 Volvo S80 was just scanned near Louisville, KY 40206 http://t.co/ACZACnVx3d #usedcar #scanner #carshopping	VOLVO S80	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:53:28 +0000 2015	0
+FL	Our LAST SHOW of the semester is Friday ft. Short form, Mitsubishi Galant &amp; a special set from the seniors of NBA! http://t.co/Fn3TxXTmbB	MITSUBISHI GALANT	Automobile	positive	1	0.418881	0.981439	Wed Apr 22 15:53:50 +0000 2015	0
+NM	Come celebrate #EarthDay with us here @LITTLEJOESAUTO and drive the 44mpg Mitsubishi Mirage! #EarthDayEveryDay http://t.co/Q4Fh2fEMwN	MITSUBISHI MIRAGE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:54:05 +0000 2015	0
+OR	A 2001 Volkswagen New Beetle was just scanned near Portland, OR 97206 http://t.co/ACZACnVx3d #winacar #myvinny #startup	VOLKSWAGEN NEW BEETLE	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:54:14 +0000 2015	0
+WY	A 2003 Dodge Caravan was just scanned near Waltham, MA 02451 http://t.co/Pa268hmek6 #vinnyapp #AreYouTheOne #retweet	DODGE CARAVAN	Automobile	negative	1	-0.230214	0.33	Wed Apr 22 15:54:35 +0000 2015	0
+NV	A 2006 Volvo S40 was just scanned near Louisville, KY 40206 http://t.co/ACZACnVx3d #sellyourcar #winacar #follow	VOLVO S40	Automobile	neutral	1	0.0	0.33	Wed Apr 22 15:54:37 +0000 2015	0
+WV	REPORT: BMW p/b Happy Tooth Announce Team For Joe Martin Stage Race  http://t.co/ibngS66iWl  #JMSR15	BMW	Company	positive	1	0.355616	0.33	Thu Apr 23 13:18:13 +0000 2015	0
+NM	I'm at the Conyers Honda where service is always the best. This has been a non paid endorsement.  For now.	HONDA	Company	positive	1	0.418785	0.935937	Thu Apr 23 13:18:34 +0000 2015	0
+TX	Sneak peek: Inside Mitsubishi's new state-of-the-art Pearland plant http://t.co/8Jr6RBEnut	MITSUBISHI	Company	positive	1	0.557576	0.33	Thu Apr 23 20:20:53 +0000 2015	0
+WY	I miss my Audi 🙆🏼	AUDI	Company	negative	1	-0.868612	0.33	Thu Apr 23 20:21:04 +0000 2015	0
+WI	Pommery for Mercedes-Benz "Feed the Senses".... #pommery #ilovepommery #pommerychampagne… https://t.co/eiHt8Y0Yjj	MERCEDES-BENZ	Company	neutral	1	0.0	0.33	Thu Apr 23 20:21:34 +0000 2015	0
+CA	Our new project. 1970 Ford F-250. It needs a little TLC, but I think we can manage. @ George Lane Park https://t.co/wodj1a8f3T	FORD	Company	neutral	1	0.0	0.524309	Wed Apr 22 23:32:01 +0000 2015	0
+NM	SMART Restaurant Group: Supervisors/General Managers (#Euless, TX) http://t.co/TEw7Fniw6S #Hospitality #restaurantjobs #Job #Jobs #Hiring	SMART RESTAURANT GROUP	Company	positive	1	0.586508	0.33	Wed Apr 22 23:32:09 +0000 2015	0
+FL	I'm at American Eagle Outfitters - @aeo in Winter Garden, FL https://t.co/WnupN8JTQi	AMERICAN EAGLE OUTFITTERS	Company	neutral	1	0.0	0.33	Wed Apr 22 23:32:36 +0000 2015	0
+NV	Miranda Lambert debuts new song for Ram truck commercial |  http://t.co/fvoyPcbby8 or @Josey_Milner	RAM	Company	positive	1	0.22548	0.33	Wed Apr 22 23:32:40 +0000 2015	0
+CA	Am I the only one who gets freaked out by these mannequins at this Toyota dealer on Lankershim by the… https://t.co/fyQYtHG5dR	TOYOTA	Company	negative	1	-0.760568	0.33	Wed Apr 22 23:32:45 +0000 2015	0
+NV	Flew Frontier to Denver. Avis had pick-ups at same rate as economy car I reserved. Which one? Nissan Frontier. I'm Davey friggin' Crockett!	NISSAN FRONTIER	Automobile	neutral	1	0.0	0.983768	Wed Apr 22 23:33:32 +0000 2015	0
+NM	Surfing into work. #nightshiftblows #workflow @ Toyota motor manufacturing Mississippi https://t.co/DDVAteoF7Y	TOYOTA	Company	positive	1	0.55645	0.997288	Wed Apr 22 23:33:38 +0000 2015	0
+NM	A 2002 Chevrolet Silverado 1500 was just scanned near Macon, GA 31220 http://t.co/Pa268hmek6 #vinny #whatsyourcarworth	CHEVROLET SILVERADO	Automobile	neutral	1	0.0	0.33	Wed Apr 22 20:02:58 +0000 2015	0
+WV	A 2002 Mitsubishi Montero was just scanned near Roanoke, VA 24017 http://t.co/ACZACnVx3d #buyacar #follow #vinny_says	MITSUBISHI	Company	neutral	1	0.0	0.33	Wed Apr 22 20:03:35 +0000 2015	0
+WV	Ford's Fish Shack (last night) with my broskie! :) @ Ford's Fish Shack South Riding https://t.co/DLtRFz4YVj	FORD	Company	positive	2	0.304716	0.672104	Wed Apr 22 20:04:06 +0000 2015	0
+WY	I'm at Suburban Subaru of Troy in Troy, MI https://t.co/6mEKr2nehE	SUBARU	Automobile	neutral	1	0.0	0.33	Wed Apr 22 16:29:37 +0000 2015	0
+FL	Orange County rolls out fleet of 30 Toyota Prius! #toyotaearthweek #letsgoplaces http://t.co/01HZwV8oJH	TOYOTA	Company	positive	1	0.227222	0.33	Wed Apr 22 16:29:39 +0000 2015	0
+WV	Just drove about 200 miles in about 4 hours, down to half a tank of gas from full, not too bad @Honda #Fit, not too bad	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 23 11:38:50 +0000 2015	0
+NM	Stay with us on GMC as @Drew_BolleaNC9 brings us new details in a deadly shooting in Whitwell. @newschannelnine	GMC	Company	positive	1	0.873582	0.33	Thu Apr 23 10:28:28 +0000 2015	0
+AK	Honda are to relaunch the HRV this summer! Huzzah! I had one of old &amp; loved it to pieces. #joymachine Hxx http://t.co/DayXkqGtpd	HONDA	Company	positive	1	0.44356	0.88303	Thu Apr 23 10:28:29 +0000 2015	0
+TX	They were out of Kias I had to get a Hyundai #veloster	HYUNDAI	Company	neutral	1	0.0	0.33	Wed Apr 22 18:06:38 +0000 2015	0
+WA	Looks like I don't have a summer...starting right back up at Ford next week 🚘	FORD	Company	positive	1	0.217743	0.33	Wed Apr 22 18:06:47 +0000 2015	0
+WY	@nicujennie I don't know! I've never even caught a glimpse! A Geo Tracker.	GEO TRACKER	Automobile	neutral	1	0.0	0.996246	Wed Apr 22 18:06:50 +0000 2015	0
+TX	A 2004 Infiniti G35 was just scanned near Houston, TX 77043 http://t.co/ACZACnVx3d #carshopping #kbb #winacar	INFINITI G35	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:08:26 +0000 2015	0
+CA	Tesla’s Mystery Product May Be Battery Power For Your Home: Tesla shares (TSLA) are getting a charge from a… http://t.co/ikozBoE3C0	TESLA	Company	neutral	2	0.0	0.33	Wed Apr 22 18:08:37 +0000 2015	0
+OR	A 2004 Honda Civic was just scanned near Hillsboro, OR 97123 http://t.co/Pa268hmek6 #vinny_says #sellyourcar #ios	HONDA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 18:08:41 +0000 2015	0
+OR	A 2004 Honda Civic was just scanned near Hillsboro, OR 97123 http://t.co/Pa268hmek6 #vinny_says #sellyourcar #ios	HONDA	Company	neutral	1	0.0	0.33	Wed Apr 22 18:08:41 +0000 2015	0
+WY	#lawenforcement Claims Representative - Subrogation - Plymouth Rock Assurance Corporation -  Boston, MA  http://t.co/oQuuVMjqYs	PLYMOUTH ROCK ASSURANCE CORPORATION	Company	positive	1	0.351416	0.33	Wed Apr 22 21:13:14 +0000 2015	0
+TX	A 2005 Toyota Tacoma was just scanned near Pearl River, LA 70452 http://t.co/ACZACnVx3d #kbb #vinny_says #ilovevinny	TOYOTA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 21:13:41 +0000 2015	0
+TX	A 2005 Toyota Tacoma was just scanned near Pearl River, LA 70452 http://t.co/ACZACnVx3d #kbb #vinny_says #ilovevinny	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 21:13:41 +0000 2015	0
+WV	In the R8 that the Audi swerving got the AR right next to me	AUDI	Company	positive	1	0.365952	0.33	Wed Apr 22 21:14:29 +0000 2015	0
+AK	Finally a decent run to get the #golfr above 25mpg. #Eco #car #Volkswagen http://t.co/MEngaSmqNL	VOLKSWAGEN	Company	positive	1	0.563409	0.33	Thu Apr 23 11:28:08 +0000 2015	0
+FL	A 2005 Nissan Titan was just scanned near DeLand, FL 32724 http://t.co/ACZACnVx3d #carshopping #kbb #ebaymotors	NISSAN TITAN	Automobile	neutral	1	0.0	0.33	Thu Apr 23 11:30:18 +0000 2015	0
+WV	A 2007 Volvo S60 was just scanned near Richmond, VA 23234 http://t.co/Pa268hDPbE #vinnychallenge #ilovevinny	MERCEDES	Automobile	neutral	2	0.0	0.33	Thu Apr 23 19:33:27 +0000 2015	0
+WV	A 2007 Volvo S60 was just scanned near Richmond, VA 23234 http://t.co/Pa268hDPbE #vinnychallenge #ilovevinny	VOLVO	Company	neutral	1	0.0	0.33	Thu Apr 23 19:33:27 +0000 2015	0
+WI	A 2000 Ford F-150 was just scanned near Manchester, NH 03102 http://t.co/ACZACnVx3d #buyacar #ebaymotors #cars	FORD	Company	neutral	1	0.0	0.33	Thu Apr 23 19:33:37 +0000 2015	0
+WV	A 2005 Chevrolet Suburban was just scanned near Richmond, VA 23234 http://t.co/Pa268hmek6 #whatsyourcarworth #AreYouTheOne	CHEVROLET SUBURBAN	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:33:53 +0000 2015	0
+CA	A 1998 Subaru Forester was just scanned near Rancho Cucamonga, CA 91739 http://t.co/Pa268hDPbE #ebaymotors #autocheck	SUBARU FORESTER	Automobile	neutral	1	0.0	0.33	Thu Apr 23 19:34:15 +0000 2015	0
+WI	A 2000 Ford Focus was just scanned near Manchester, NH 03102 http://t.co/Pa268hDPbE #vinny_says #carshopping #apple	FORD FOCUS	Company	neutral	1	0.0	0.33	Thu Apr 23 19:35:47 +0000 2015	0
+WV	A 2000 Nissan Maxima was just scanned near Richmond, VA 23234 http://t.co/ACZACnDVED #ipad #winacar #iphone	NISSAN MAXIMA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 20:00:27 +0000 2015	0
+WI	Drive away in style! 2012 - Toyota Camry XLE V6 | ONE LOCAL OWNER | ONLY 15,700 KM! http://t.co/rMQ0GoAqaC	TOYOTA	Company	neutral	1	0.0	0.808861	Thu Apr 23 20:01:05 +0000 2015	0
+WV	"Inside the glass" with Pierre McGuire sponsored by Toyota is going to force me to trade in my 4Runner for a Chevy. He's that terrible.	TOYOTA	Company	neutral	1	0.0	0.38121	Thu Apr 23 00:14:45 +0000 2015	0
+AK	@renaultvelsatis @MDochertyUK @FIAT_UK Very different vehicles though. Both good in their own ways, although Jeep is very expensive.	JEEP	Company	negative	1	-0.402109	0.90218	Thu Apr 23 21:49:00 +0000 2015	0
+TX	A 2008 Honda Odyssey was just scanned near Lufkin, TX 75904 http://t.co/ACZACnVx3d #apple #retweet #follow	HONDA ODYSSEY	Automobile	neutral	2	0.0	0.33	Thu Apr 23 21:49:20 +0000 2015	0
+WI	@benwitko I already got a Honda civic 😒 but I still drive my lude around 👌😏	HONDA	Company	neutral	1	0.0	0.33	Thu Apr 23 22:06:37 +0000 2015	0
+FL	A 2006 Hyundai Sonata was just scanned near Tampa, FL 33634 http://t.co/ACZACnVx3d #ios #ebaymotors #cars	HYUNDAI	Company	neutral	1	0.0	0.33	Wed Apr 22 14:37:21 +0000 2015	0
+WV	A 2008 Subaru Tribeca was just scanned near East Windsor, CT 06088 http://t.co/ACZACnVx3d #AreYouTheOne #whatsyourcarworth	SUBARU TRIBECA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:37:23 +0000 2015	0
+WY	A 2003 Toyota Sienna was just scanned near Schaumburg, IL 60194 http://t.co/Pa268hmek6 #whatsyourcarworth #ipad	TOYOTA SIENNA	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:37:28 +0000 2015	0
+NM	A 2006 Cadillac XLR was just scanned near Anderson, SC 29621 http://t.co/ACZACnVx3d #iphone #vinnyapp #sellyourcar	CADILLAC XLR	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:37:35 +0000 2015	0
+WV	Amazon trial delivers packages directly to Audi cars http://t.co/w5TaPlIUW1	AUDI	Company	positive	1	0.639082	0.33	Wed Apr 22 14:37:52 +0000 2015	0
+WV	A 2003 Chrysler PT Cruiser was just scanned near Branford, CT 06405 http://t.co/ACZACnVx3d #ios #startup #iphone	CHRYSLER	Company	neutral	1	0.0	0.33	Wed Apr 22 14:38:43 +0000 2015	0
+WV	Interesting looking AUDI A4 Wagon from the Garden State Parkway.  Looks pretty cool !!!   #audi… https://t.co/4UGKw20In8	AUDI A4	Automobile	positive	1	0.515542	0.9889	Wed Apr 22 14:39:08 +0000 2015	0
+NM	A 2007 Toyota Camry was just scanned near 1907 East Victory Drive, Savannah http://t.co/Pa268hmek6 #carfax #kbb #ebaymotors	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 14:39:22 +0000 2015	0
+CA	A 2006 Toyota Sequoia was just scanned near Glendale, CA 91205 http://t.co/Pa268hmek6 #buyacar #ipad #vinny_says	TOYOTA SEQUOIA	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:33:29 +0000 2015	0
+WY	A 2003 Chevrolet TrailBlazer was just scanned near Chicago, IL 60639 http://t.co/ACZACnVx3d #iphone #ebaymotors #carfax	CHEVROLET TRAILBLAZER	Automobile	positive	2	0.308118	0.33	Thu Apr 23 21:33:30 +0000 2015	0
+HI	1942 Ford Custom Pickup Truck Bagged - SLC Hardco…: https://t.co/QCQ3tGb0GT	FORD CUSTOM	Automobile	neutral	1	0.0	0.33	Thu Apr 23 21:33:56 +0000 2015	0
+CA	@silvercar thanks for the dope @Audi hookup to drive around LA in http://t.co/GLhP76BONC	AUDI	Company	positive	1	0.863647	0.33	Thu Apr 23 21:34:04 +0000 2015	0
+TX	And how much longer we gotta see this same Audi? https://t.co/JRSBms15Ij	AUDI	Company	negative	1	-0.265603	0.33	Wed Apr 22 13:16:44 +0000 2015	0
+NV	Harrison Ford doesn't strike me as a Honda fit guy though… Something doesn't add up	HONDA	Company	negative	1	-0.594935	0.33	Wed Apr 22 13:16:44 +0000 2015	0
+NM	#legal #jobs CORRECTIONAL OFFICER - Geo Group -  Milledgeville, GA  http://t.co/oQuuVMjqYs	GEO GROUP	Company	neutral	1	0.0	0.33	Wed Apr 22 13:16:56 +0000 2015	0
+WY	A 2003 Ford Explorer was just scanned near Wellsville, NY 14895 http://t.co/ACZACnVx3d #usedcar #retweet #cars	FORD	Company	neutral	1	0.0	0.33	Wed Apr 22 13:17:22 +0000 2015	0
+AK	Chevrolet's self driving concept car. #cool It beats Google's into a cocked hat. http://t.co/IyRjuC0jk3	CHEVROLET	Company	neutral	1	0.0	0.776682	Thu Apr 23 06:41:20 +0000 2015	0
+WI	A 2012 Toyota Camry was just scanned near Manchester, NH 03102 http://t.co/ACZACnVx3d #vinnychallenge #usedcar	TOYOTA	Company	neutral	1	0.0	0.33	Wed Apr 22 19:29:23 +0000 2015	0
+WY	@atty2thestars @CMLawfirm behind bars, Ford continued to protest his innocence. Behind bars Jahar will do the same http://t.co/lW4cFvy82W	FORD	Company	negative	1	-0.341632	0.978557	Thu Apr 23 00:44:34 +0000 2015	0
+WV	F-type // Our-type // @phillystylezine 🐾 @ Land Rover Jaguar Main Line https://t.co/cBjYu5b10U	MITSUBISHI	Company	positive	1	0.25503	0.33	Thu Apr 23 00:45:05 +0000 2015	0
+WY	@movierevolt &amp; I are spotlighting Harrison Ford on this week's show. What are your favorite and least favorite Ford films??	FORD	Company	positive	1	0.80599	0.622411	Thu Apr 23 00:45:06 +0000 2015	0
+WA	Rolls-Royce appoints acclaimed technology executive as CEO http://t.co/km3SUgdZ6u	ROLLS-ROYCE	Company	positive	1	0.492861	0.33	Wed Apr 22 11:52:38 +0000 2015	0
+FL	877-544-8473 20" Inch ESM 004 Gunmetal rims old school BBS Replicas 2008 BMW 3 Series $1400 w/ tires… https://t.co/cHFyUKiZaU	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 12:08:07 +0000 2015	0
+FL	877-544-8473 20" Inch ESM 004 Gunmetal rims old school BBS Replicas 2008 BMW 3 Series $1400 w/ tires… https://t.co/HrsRclVJUq	BMW	Company	neutral	1	0.0	0.33	Wed Apr 22 12:09:11 +0000 2015	0
+WI	The beast of a Land Rover Defender driven by oddthor (king of Medoc)  #landrover #defender #medoc… https://t.co/LHYTmqPyX6	MITSUBISHI	Company	neutral	1	0.0	0.33	Wed Apr 22 14:01:45 +0000 2015	0
+WV	A 2010 Dodge Caliber was just scanned near Cranberry Township, PA 16066 http://t.co/Pa268hmek6 #sellyourcar #winacar	DODGE CALIBER	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:02:16 +0000 2015	0
+FL	@CountryMusic @chevrolet gary allan!!! This year i can't go!!!	CHEVROLET	Company	positive	1	0.780986	0.106296	Wed Apr 22 14:02:17 +0000 2015	0
+WV	A 2001 Ford Escape was just scanned near Mechanicsburg, PA 17055 http://t.co/ACZACnVx3d #vinny_scans #ios #carshopping	FORD ESCAPE	Automobile	neutral	2	0.0	0.33	Wed Apr 22 14:02:34 +0000 2015	0
+WV	@DanicaPatrick if i could pull you away from SHR we  could open  Danica chops n bump drafts. With the toyota banger. Yummy. Hot cafeowner	TOYOTA	Company	positive	1	0.668822	0.72548	Wed Apr 22 14:02:36 +0000 2015	0
+NV	A 2003 Ford Mustang was just scanned near West Harrison, IN 47060 http://t.co/ACZACnVx3d #winacar #android #retweet	FORD	Automobile	neutral	1	0.0	0.33	Wed Apr 22 14:04:25 +0000 2015	0
+AK	@AutoTrader_UK here's that BMW car I told you about yesterday @lisaw001  http://t.co/QPofG5ImPI http://t.co/Pjh6SMu98E	BMW	Company	positive	1	0.439019	0.33	Wed Apr 22 08:51:38 +0000 2015	0

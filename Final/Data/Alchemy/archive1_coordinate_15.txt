@@ -1,0 +1,34 @@
+NY	@Hyundai When will CarPlay be available for the 2015 Sonata Limited? Excited but want an ETA!!	HYUNDAI	Company	positive	1	0.281841	0.9725	Thu Apr 30 03:39:23 +0000 2015	0
+NY	Chevrolet : El Camino stock new cobalt blue paint, no rust Az. car, new interior, 350 engine… http://t.co/eKIQ4QH3gZ	CHEVROLET	Company	neutral	1	0.0	0.33	Thu Apr 30 09:48:20 +0000 2015	0
+NY	Chevrolet : Nomad nomad 1957 chevy nomad great project car - Full read by eBay: Price 15850… http://t.co/xi6r1FcFuA	CHEVROLET	Company	neutral	1	0.0	0.33	Thu Apr 30 09:48:20 +0000 2015	0
+NY	April 29 Reuters - Fiat Chrysler Automobiles said in slides on its website:img width1 height1 srchttp://reuters	FIAT CHRYSLER AUTOMOBILES	Company	negative	1	-0.298653	0.33	Thu Apr 30 21:46:11 +0000 2015	0
+NY	Probe crashes, as expected, into Mercury. Very cool http://t.co/SdeGMaxudT	MERCURY	Company	negative	1	-0.278731	0.948607	Thu Apr 30 21:46:20 +0000 2015	0
+CO	Ensuring Tesla Doesn't Crowd Out The Batteries Of The Future http://t.co/jxUkDHL1Ll	TESLA	Company	negative	1	-0.434801	0.33	Thu Apr 30 21:46:32 +0000 2015	0
+OH	RT @dtapscott: Tesla’s battery cod prevent brownout sand blackouts http://t.co/RJvkD5Dn1Y	TESLA	Company	negative	1	-0.276056	0.33	Thu Apr 30 21:46:35 +0000 2015	0
+LA	#NewOrleans: Essence Music Festival Live Performance at Mercedes-Benz Superdome - Jul  5 ► Find Tickets: http://t.co/wKpUm7HqV3	MERCEDES-BENZ	Company	positive	1	0.272083	0.33	Thu Apr 30 21:46:36 +0000 2015	0
+KS	Tesla Wants to Turn Your Home Into a Personal Power Plant http://t.co/6pRQrb3Cls via @TakePart Time to give archaic oil and gas the finger!!	TESLA	Company	negative	1	-0.517919	0.33	Sat May 02 17:39:55 +0000 2015	0
+NY	Honda : Nighthawk CB700SC Nighthawk. Absolutely Stunning! Bike was won on The Price is Rig… http://t.co/SRm13fgHqz http://t.co/pdZwOT6GT5	HONDA	Company	neutral	1	0.0	0.968029	Sat May 02 17:40:10 +0000 2015	0
+TN	You could win a 2015 Chevrolet SS, a VIP trip to Nashville, and meet Jeff Gordon at the Texas Motor Speedway. http://t.co/KNoDTtwojf	VOLKSWAGEN	Automobile	positive	1	0.284906	0.33	Sat May 02 17:40:27 +0000 2015	0
+TN	You could win a 2015 Chevrolet SS, a VIP trip to Nashville, and meet Jeff Gordon at the Texas Motor Speedway. http://t.co/KNoDTtwojf	CHEVROLET	Company	positive	1	0.284906	0.33	Sat May 02 17:40:27 +0000 2015	0
+RI	I had to park my car out of sight at these things 'cause an 87 Civic did not belong next to a Bentley.	BENTLEY	Company	neutral	1	0.0	0.33	Sat May 02 17:40:31 +0000 2015	0
+VA	RT @PosBadAudi: Audi R8 V10 Blacked out 🙌🏼⚫️ http://t.co/5287J80w5P	AUDI	Company	negative	1	-0.349711	0.33	Sat May 02 17:40:39 +0000 2015	0
+NH	Tesla Is Not The Only Player In Energy Storage	TESLA	Company	neutral	2	0.0	0.33	Sat May 02 09:03:40 +0000 2015	0
+FL	Win A Customized 2015 Indian Motorcycle &amp; a NEW Ford Truck w/Trailer http://t.co/vdfoOz6fAx	FORD	Company	neutral	1	0.0	0.33	Wed Apr 29 08:45:12 +0000 2015	0
+NY	Ford 600 Tractor - Gas Powered - Full read by eBay http://t.co/k2UE2akRrP http://t.co/IVhEviJY5f	FORD	Company	neutral	1	0.0	0.33	Wed Apr 29 08:46:54 +0000 2015	0
+IL	RT @Jalopnik: EXCLUSIVE: They drove a Tesla from LA to New York in a record 58 hours, 55 minutes http://t.co/ZYmxOpEbpM http://t.co/nio18oK…	TESLA	Company	neutral	1	0.0	0.33	Sat May 02 05:27:49 +0000 2015	0
+TX	Will Tesla’s newest battery pan out? http://t.co/YkltBouI4F via @WSJ #energystorage #environment	TESLA	Company	neutral	1	0.0	0.977426	Sat May 02 05:29:03 +0000 2015	0
+TX	I won the first Star in my BMW Z4 GT3 in #CSRRacing #RaceYourFriends. Download FREE! http://t.co/EhEU7SPBmo	FORD	Company	positive	1	0.405687	0.951194	Sat May 02 05:29:25 +0000 2015	0
+TX	I won the first Star in my BMW Z4 GT3 in #CSRRacing #RaceYourFriends. Download FREE! http://t.co/EhEU7SPBmo	BMW	Company	positive	1	0.405687	0.699255	Sat May 02 05:29:25 +0000 2015	0
+KS	RT @washingtonpost: Tesla Motors is no longer just a car company, and the moment for “energy storage" may finally be arriving. http://t.co/…	TESLA MOTORS	Company	neutral	1	0.0	0.33	Sat May 02 05:30:05 +0000 2015	0
+AL	#Birmingham: Def Leppard, Styx &amp; Tesla Performing at Oak Mountain Amphitheatre - AL - Jun  27 ► Find Tickets: http://t.co/OC0RBvqXjg	TESLA	Company	positive	1	0.295812	0.33	Sat May 02 05:30:07 +0000 2015	0
+NY	SCALEXTRIC Vintage Mini Clubman 1275 GT Red #1 C122 (PRE-LOVED) Tested - Nippy - Full read… http://t.co/Vuc83rO8n4 http://t.co/dvSfhsvFEk	MINI CLUBMAN	Automobile	positive	1	0.293332	0.33	Sat May 02 05:30:58 +0000 2015	0
+NY	$25 American Eagle E-Gift Card - Full read by eBay http://t.co/PBtHCcNQFA http://t.co/maGoco9FJy	AMERICAN EAGLE	Company	positive	1	0.205837	0.33	Fri May 01 09:04:13 +0000 2015	0
+CA	Tesla unveils suite of batteries for homes, businesses http://t.co/5L4pfQbvqY #reuters http://t.co/0NJ8GDdQaX	TESLA	Company	positive	1	0.528283	0.33	Fri May 01 09:04:23 +0000 2015	0
+TX	Kelly will be receiving a referral check from Jim Shorkey Chrysler Dodge Jeep Ram because their referral, Anthony, came in and purchased!	CHRYSLER	Company	positive	1	0.321631	0.33	Sat May 02 14:15:31 +0000 2015	0
+TX	Kelly will be receiving a referral check from Jim Shorkey Chrysler Dodge Jeep Ram because their referral, Anthony, came in and purchased!	JEEP	Automobile	positive	1	0.321631	0.33	Sat May 02 14:15:31 +0000 2015	0
+CA	RT @Nissan: Prepare the carriage and 600 horses, Princess of Cambridge has arrived! #GTR #NISMO #RoyalBaby http://t.co/39WXcCTRv0	NISSAN	Company	positive	1	0.503567	0.213519	Sat May 02 14:15:47 +0000 2015	0
+MN	I just saw this old couple leave Culvers and she got in a brand new BMW and he got in a new corvette. Then they sped off together #goals	BMW	Company	positive	1	0.362671	0.865672	Thu Apr 30 17:15:43 +0000 2015	0
+FL	RT @EarthHistoryPix: Cadillac dealership in 1921. http://t.co/7Bvm73C9GT	CADILLAC	Company	positive	1	0.327522	0.33	Thu Apr 30 17:16:12 +0000 2015	0
+NY	Scalextric Digital Car and Controller Audi TT (Blue/Grey) - Boxed C7013 - Full read by eBay http://t.co/ZC9xBgxsqB http://t.co/xFfkyfkWzG	AUDI	Company	positive	1	0.234181	0.33	Fri May 01 17:45:43 +0000 2015	0
+NY	Scalextric Digital Car and Controller Audi TT (Blue/Grey) - Boxed C7013 - Full read by eBay http://t.co/c6Wdn2fo9K http://t.co/cLWtSASFA2	AUDI	Company	positive	1	0.234181	0.33	Fri May 01 17:45:47 +0000 2015	0
+NY	RT @MyClassicCarsHq: The Classic Plymouth Road Runner, Is An American Muscle Car: http://t.co/LabeVgDw2f #PlymouthRoadRunner #Plymouth http…	PLYMOUTH ROAD RUNNER	Automobile	positive	1	0.240614	0.33	Sat May 02 21:13:24 +0000 2015	0
